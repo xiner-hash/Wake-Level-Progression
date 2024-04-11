@@ -13,7 +13,7 @@ This section converts the raw .tsv files downloaded from (https://opengamedata.f
 * Please ensure that all the .tsv files are located in the current working directory.
 
 
-### # Session II. Chi-square test
+### Session II. Chi-square test
 
 This section combines all the .csv files into one. Then, based on the specified target level (LevelB), it iterates through all previously played levels before the target level. It counts the number of players who have completed each previous level and those who have not. Next, it filters all the previous levels based on specified criteria (e.g., threshold_yes, threshold_no). It uses the remaining previous levels to conduct the chi-square test to investigate the relationship between players' decisions to switch off the target level and their completion status of any previous level they may have accepted before those target jobs.
 
