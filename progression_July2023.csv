@@ -1,0 +1,3006 @@
+user_id,job_string,task_id,event_change,time_diff,session,task,job
+AbleLeft,kelp-welcome,1,Not Swapped,674.94,1,6,1
+AbleLeft,kelp-bull-kelp-forest,2,Not Swapped,431.073,1,2,1
+AbleLeft,kelp-shop-welcome,3,Not Swapped,3690.549,1,3,1
+AbleLeft,arctic-missing-whale,4,Not Swapped,533.4,1,1,0
+AcidicAlcove,kelp-welcome,6,Not Swapped,532.979,1,6,1
+AcidicAlcove,kelp-bull-kelp-forest,7,Not Swapped,178.579,1,2,1
+AcidicAlcove,kelp-shop-welcome,8,Not Swapped,126.105,1,3,1
+AcidicAlcove,displaced-reef,9,Not Swapped,210.42,1,3,1
+AcidicAlcove,bayou-shrimp-yields,10,Not Swapped,278.749,1,1,1
+AcidicAlcove,arctic-missing-whale,11,Not Swapped,462.348,1,3,1
+AcidicAlcove,arctic-salmon-monitoring,12,Not Swapped,265.543,1,1,1
+AcidicAlcove,coral-turtle-population,13,Not Swapped,31.89,1,0,1
+AcidicAlcove,coral-fake-fix,14,Not Swapped,413.708,1,3,1
+AcidicAlcove,coral-lionfish-conspiracy,15,Not Swapped,189.217,1,2,1
+AcidicAlcove,coral-stressed,16,Not Swapped,348.236,1,2,1
+AcidicAlcove,kelp-energy,17,Not Swapped,385.452,1,1,1
+AcidicAlcove,kelp-mussel-fest,18,Not Swapped,187.391,1,2,1
+AcidicAlcove,kelp-start-refuge,19,Not Swapped,163.057,1,2,1
+AcidicAlcove,kelp-urchin-barren-viz,20,Not Swapped,292.678,1,4,1
+AcidicAlcove,kelp-urchin-barren-predict,21,Not Swapped,158.61,1,1,1
+AcidicAlcove,kelp-save-urchin-barren,22,Not Swapped,253.92,1,1,1
+AcidicAlcove,kelp-musselfest-solution,23,Not Swapped,269.008,1,3,1
+AcidicAlcove,kelp-urchin-farm,24,Not Swapped,235.66,1,1,1
+AcidicAlcove,kelp-refuge-failure,25,Not Swapped,834.497,1,8,1
+AcidicAlcove,kelp-refuge-failure-simulation,26,Not Swapped,110.78,1,1,1
+AcidicAlcove,coral-casting-shade,27,Not Swapped,436.153,1,6,1
+AcidicAlcove,coral-eat-seaweed,28,Not Swapped,362.04,1,1,1
+AcidicAlcove,coral-fishy-bizz,29,Not Swapped,139.25,1,1,1
+AcidicAlcove,coral-turtle-stability,30,Not Swapped,306.61,1,3,1
+AcidicAlcove,coral-ocean-plastics,31,Not Swapped,181.37,1,1,1
+AcidicAlcove,coral-much-algae,32,Not Swapped,226.228,1,2,1
+AcidicAlcove,coral-tang-checkup,33,Not Swapped,359.115,1,5,1
+AcidicAlcove,coral-hunting-lions,34,Not Swapped,1650.416,1,7,1
+AcidicAlcove,bayou-blue-waters,35,Not Swapped,790.891,1,5,1
+AcidicAlcove,bayou-boom-cause,36,Not Swapped,398.786,1,2,1
+AcidicAlcove,bayou-alt-energy,37,Swapped,1897.009,2,0,0
+AcidicAlcove,bayou-dirty-detritus,38,Not Swapped,332.038,1,4,1
+AcidicAlcove,turtle-danger,39,Not Swapped,575.882,1,3,1
+AcidicAlcove,turtle-danger2,40,Swapped,916.268,1,2,0
+AcidicAlcove,final-final,41,Not Swapped,1124.966,1,7,1
+AcousticSuite,bayou-shrimp-yields,42,Not Swapped,1498.642,1,0,0
+AcousticTowel,turtle-danger,43,Not Swapped,1161.894,2,4,1
+AcousticTowel,kelp-save-urchin-barren,44,Not Swapped,292.347,1,1,1
+AcousticTowel,arctic-seal-habitats,45,Not Swapped,608.061,1,4,1
+AcousticTowel,above-n-below,46,Not Swapped,475.368,2,4,1
+AcousticTowel,arctic-isolated-instance,47,Not Swapped,964.109,1,8,1
+AcousticTowel,kelp-start-refuge,48,Not Swapped,453.302,1,1,1
+AcousticTowel,kelp-refuge-failure,49,Not Swapped,254.297,1,3,0
+AdeptTent,kelp-welcome,50,Not Swapped,411.003,1,6,1
+AdeptTent,kelp-bull-kelp-forest,51,Not Swapped,585.338,2,2,0
+AdhesiveCitron,kelp-welcome,52,Not Swapped,906.198,1,6,1
+AdhesiveCitron,kelp-bull-kelp-forest,53,Not Swapped,1319.173,4,2,1
+AdhesiveCitron,kelp-shop-welcome,54,Not Swapped,854.321,1,3,1
+AdhesiveCitron,kelp-energy,55,Not Swapped,1373.538,2,1,1
+AdoredReset,bayou-alt-energy,58,Swapped,1091.936,1,0,0
+AdoredReset,bayou-blue-waters,59,Swapped,947.892,2,2,0
+AdoredReset,arctic-in-ice,60,Not Swapped,181.26,1,0,0
+AimlessRake,coral-much-algae,62,Not Swapped,768.81,1,2,1
+AimlessRake,coral-hunting-lions,63,Not Swapped,426.7,1,0,0
+AllCoach,coral-fake-fix,66,Swapped,457.843,1,1,0
+AllCoach,coral-ocean-plastics,67,Swapped,55393.812,1,1,0
+AllCoach,coral-stressed,68,Swapped,124087.659,1,0,0
+AllCoach,coral-turtle-stability,69,Not Swapped,1596.203,1,2,1
+AllCoach,coral-fake-fix,70,Swapped,1.6179999999999999,1,0,0
+AllCoach,coral-ocean-plastics,71,Not Swapped,66.938,1,0,1
+AllCoach,coral-stressed,72,Not Swapped,119.062,1,0,1
+AllCoach,coral-fake-fix,73,Swapped,3564.593,1,0,0
+AllCoach,kelp-mussel-fest,74,Not Swapped,157.79,1,2,1
+AllCoach,kelp-urchin-barren-predict,75,Swapped,176441.697,1,0,0
+AllCoach,arctic-isolated-instance,76,Swapped,1353.907,1,2,0
+AllCoach,arctic-seal-habitats,77,Not Swapped,814.868,1,2,1
+AllCoach,above-n-below,78,Swapped,645.523,1,0,0
+AllCoach,bayou-alt-energy,79,Swapped,137553.013,1,1,0
+AllCoach,bayou-blue-waters,80,Swapped,1316.776,1,2,0
+AllCoach,kelp-urchin-farm,81,Not Swapped,235.707,1,1,1
+AllCoach,kelp-musselfest-solution,82,Not Swapped,202.821,1,0,0
+AngeredGarb,kelp-welcome,83,Not Swapped,145.164,1,6,1
+AngeredGarb,kelp-bull-kelp-forest,84,Not Swapped,110.698,1,2,1
+AngeredGarb,kelp-shop-welcome,85,Not Swapped,84.827,1,3,1
+AngeredGarb,kelp-energy,86,Not Swapped,78.084,1,1,1
+AngeredGarb,coral-turtle-population,87,Not Swapped,13.483,1,0,1
+AngeredGarb,arctic-salmon-monitoring,88,Not Swapped,31.171,1,0,1
+AngeredGarb,arctic-missing-whale,89,Not Swapped,427.076,1,3,1
+AngeredGarb,coral-fake-fix,90,Not Swapped,192.181,1,3,1
+AngeredGarb,coral-lionfish-conspiracy,91,Not Swapped,108.2,1,2,1
+AngeredGarb,coral-stressed,92,Not Swapped,213.785,1,2,1
+AngeredGarb,displaced-reef,93,Not Swapped,63.483,1,3,1
+AngeredGarb,bayou-shrimp-yields,94,Not Swapped,105.872,1,1,1
+AngeredGarb,kelp-mussel-fest,95,Not Swapped,102.682,1,2,1
+AngeredGarb,kelp-urchin-barren-viz,96,Not Swapped,208.05,1,4,1
+AngeredGarb,kelp-urchin-barren-predict,97,Not Swapped,91.567,1,1,1
+AngeredGarb,kelp-start-refuge,98,Not Swapped,92.182,1,2,1
+AngeredGarb,kelp-save-urchin-barren,99,Not Swapped,122.753,1,1,1
+AngeredGarb,kelp-musselfest-solution,100,Not Swapped,194.687,1,3,1
+AngeredGarb,kelp-urchin-farm,101,Not Swapped,94.841,1,1,1
+AngeredGarb,kelp-refuge-failure,102,Not Swapped,589.706,2,8,1
+AngeredGarb,kelp-refuge-failure-simulation,103,Not Swapped,71.832,1,1,1
+AngeredGarb,coral-casting-shade,104,Not Swapped,331.947,1,6,1
+AngeredGarb,coral-eat-seaweed,105,Not Swapped,173.123,1,1,1
+AngeredGarb,coral-fishy-bizz,106,Not Swapped,190.75,1,2,1
+AngeredGarb,coral-much-algae,107,Not Swapped,144.369,1,3,1
+AngeredGarb,coral-ocean-plastics,108,Not Swapped,165.604,1,1,1
+AngeredGarb,coral-tang-checkup,109,Not Swapped,210.683,1,5,1
+AngeredGarb,coral-turtle-stability,110,Not Swapped,63.266,1,1,1
+AngeredGarb,coral-hunting-lions,111,Not Swapped,1030.314,1,6,1
+AngeredGarb,bayou-blue-waters,112,Not Swapped,418.143,2,5,1
+AngeredGarb,bayou-dirty-detritus,113,Not Swapped,199.163,1,2,1
+AngeredGarb,bayou-oxygen-tracking,114,Not Swapped,175.696,1,2,1
+AngeredGarb,bayou-shrimp-tastrophe,115,Not Swapped,491.634,1,1,1
+AngeredGarb,turtle-danger,116,Not Swapped,295.027,1,3,1
+AngeredGarb,turtle-danger2,117,Not Swapped,776.358,1,2,1
+AngeredGarb,bayou-boom-cause,118,Not Swapped,232.888,1,2,1
+AngeredGarb,final-final,119,Not Swapped,706.946,1,7,1
+AngeredGarb,bayou-hide-n-seek,120,Not Swapped,678.828,1,3,1
+AngeredGarb,bayou-reef-decision,121,Not Swapped,231.07,1,1,1
+AngeredGarb,bayou-alt-energy,122,Not Swapped,450.322,1,3,1
+AngeredGarb,bayou-methanogen,123,Not Swapped,261.921,1,2,1
+AngeredGarb,arctic-disappearing-act,124,Not Swapped,146.152,1,1,1
+AngeredGarb,arctic-cause-of-death,125,Swapped,9.783,1,0,0
+AngeredGarb,arctic-in-ice,126,Not Swapped,60.83,1,2,0
+AngeredPin,kelp-welcome,127,Not Swapped,424.469,1,6,1
+AngeredPin,kelp-bull-kelp-forest,128,Not Swapped,303.699,1,2,1
+AngeredPin,kelp-shop-welcome,129,Not Swapped,210.086,1,3,1
+AngeredPin,coral-turtle-population,130,Not Swapped,65.847,1,0,1
+AngryMisfit,coral-turtle-population,131,Not Swapped,119.541,1,0,0
+AnnualPolyp,kelp-welcome,132,Not Swapped,516.876,1,6,1
+AnnualPolyp,kelp-bull-kelp-forest,133,Not Swapped,288.635,1,2,1
+AnnualPolyp,kelp-shop-welcome,134,Not Swapped,221.074,1,3,1
+AnnualPolyp,coral-turtle-population,135,Not Swapped,174.465,1,1,1
+AnnualPolyp,arctic-missing-whale,136,Swapped,1231.0729999999999,5,0,0
+AnnualPolyp,displaced-reef,137,Not Swapped,345.814,2,3,1
+AnnualPolyp,bayou-shrimp-yields,138,Not Swapped,259.672,1,1,1
+AnnualPolyp,arctic-missing-whale,139,Not Swapped,575.614,5,2,1
+AnnualPolyp,arctic-salmon-monitoring,140,Not Swapped,306.822,1,1,1
+AnnualPolyp,kelp-urchin-barren-viz,141,Not Swapped,527.498,1,4,1
+AnnualPolyp,kelp-energy,142,Not Swapped,2416.348,2,2,1
+AnxiousMin,coral-hunting-lions,143,Swapped,49.431,1,0,0
+AnxiousMin,arctic-isolated-instance,144,Not Swapped,656.949,1,6,1
+AnxiousMin,final-final,145,Not Swapped,972.558,1,7,1
+AridRadish,above-n-below,146,Swapped,440.423,1,0,0
+AridRadish,final-final,147,Not Swapped,763.148,1,7,1
+AromaticNoun,kelp-bull-kelp-forest,148,Not Swapped,776.874,1,2,0
+ArtlessOval,kelp-welcome,149,Not Swapped,442.678,2,6,1
+ArtlessOval,kelp-bull-kelp-forest,150,Not Swapped,252.84,1,2,1
+ArtlessOval,kelp-shop-welcome,151,Not Swapped,161.589,1,3,1
+AstuteGrass,kelp-welcome,152,Not Swapped,642.278,1,6,1
+AstuteGrass,kelp-bull-kelp-forest,153,Not Swapped,560.524,1,2,1
+AstuteGrass,kelp-shop-welcome,154,Not Swapped,285.196,1,3,1
+AstuteGrass,displaced-reef,155,Not Swapped,749.297,2,3,1
+AstuteGrass,bayou-shrimp-yields,156,Not Swapped,389.786,1,1,1
+AstuteGrass,coral-turtle-population,157,Not Swapped,228.426,1,1,1
+AstuteGrass,arctic-missing-whale,158,Not Swapped,493.859,1,3,1
+AstuteGrass,arctic-salmon-monitoring,159,Not Swapped,565.623,2,2,1
+AstuteGrass,kelp-energy,160,Not Swapped,8369.575,1,1,0
+AwkwardIdea,kelp-welcome,162,Not Swapped,434.661,1,6,1
+AwkwardIdea,kelp-bull-kelp-forest,163,Not Swapped,288.756,1,2,1
+AwkwardIdea,kelp-shop-welcome,164,Not Swapped,155.373,1,3,1
+AwkwardIdea,kelp-energy,165,Not Swapped,198.584,1,1,1
+AwkwardIdea,arctic-missing-whale,166,Swapped,518.919,2,0,0
+AwkwardIdea,arctic-salmon-monitoring,167,Not Swapped,9685.858,1,1,1
+AwkwardIdea,coral-turtle-population,168,Not Swapped,130.581,1,2,1
+AwkwardIdea,coral-fake-fix,169,Not Swapped,812.4300000000001,2,3,1
+AwkwardIdea,coral-lionfish-conspiracy,170,Not Swapped,2721.817,1,2,1
+AwkwardIdea,arctic-missing-whale,171,Not Swapped,1501.523,2,3,1
+AwkwardIdea,kelp-mussel-fest,172,Not Swapped,284.647,1,2,1
+AwkwardIdea,kelp-start-refuge,173,Not Swapped,279.767,1,2,1
+AwkwardIdea,kelp-urchin-barren-viz,174,Not Swapped,425.172,1,4,1
+AwkwardIdea,kelp-urchin-barren-predict,175,Not Swapped,225.359,1,1,1
+BabblingAsh,kelp-welcome,176,Not Swapped,210.584,1,6,1
+BabblingAsh,kelp-bull-kelp-forest,177,Not Swapped,135.763,1,2,1
+BabblingAsh,kelp-shop-welcome,178,Not Swapped,146.561,1,3,1
+BabblingAsh,coral-turtle-population,179,Not Swapped,178.62,1,1,1
+BabblingAsh,arctic-missing-whale,180,Swapped,617.125,1,1,0
+BabblingAsh,kelp-energy,181,Not Swapped,162.73,1,1,1
+BabblingAsh,displaced-reef,182,Not Swapped,124.348,1,3,1
+BabblingAsh,arctic-missing-whale,183,Not Swapped,1624.889,1,0,0
+BaffledCone,kelp-welcome,184,Not Swapped,469.313,1,6,1
+BaffledCone,kelp-bull-kelp-forest,185,Not Swapped,485.558,1,2,1
+BaffledCone,kelp-shop-welcome,186,Not Swapped,84832.473,1,3,1
+BaffledCone,kelp-energy,187,Not Swapped,170.983,1,1,1
+BaffledCone,displaced-reef,188,Not Swapped,4864.402999999999,4,1,0
+BashfulBoar,final-final,190,Not Swapped,166.047,1,0,0
+BasicAssist,kelp-welcome,191,Not Swapped,469.341,1,6,1
+BasicAssist,kelp-bull-kelp-forest,192,Not Swapped,268.481,1,2,1
+BasicAssist,kelp-shop-welcome,193,Not Swapped,186.001,1,3,1
+BasicAssist,arctic-salmon-monitoring,194,Not Swapped,314.663,1,1,1
+BasicAssist,arctic-missing-whale,195,Not Swapped,1016.1110000000001,2,3,1
+BasicAssist,displaced-reef,196,Not Swapped,344.397,1,3,1
+BasicAssist,bayou-shrimp-yields,197,Not Swapped,176.784,1,1,1
+BasicAssist,kelp-start-refuge,198,Not Swapped,182.314,1,2,1
+BasicAssist,kelp-energy,199,Not Swapped,144.787,1,1,1
+BasicAssist,kelp-urchin-barren-viz,200,Not Swapped,338.145,1,4,1
+BasicAssist,kelp-mussel-fest,201,Not Swapped,247.951,1,2,1
+BasicAssist,kelp-urchin-barren-predict,202,Not Swapped,271.094,2,1,1
+BasicAssist,coral-turtle-population,203,Not Swapped,104.229,1,1,1
+BasicAssist,coral-fake-fix,204,Not Swapped,424.34,1,3,1
+BasicAssist,coral-turtle-stability,205,Not Swapped,748.834,1,3,1
+BasicAssist,coral-fishy-bizz,206,Not Swapped,201.792,1,1,1
+BasicAssist,coral-lionfish-conspiracy,207,Not Swapped,531.866,1,3,1
+BasicAssist,coral-hunting-lions,208,Swapped,1544.521,5,3,0
+BasicAssist,coral-stressed,209,Not Swapped,256.721,1,2,1
+BasicAssist,coral-hunting-lions,210,Swapped,691.976,5,0,0
+BasicAssist,arctic-seal-habitats,211,Not Swapped,997.678,2,4,1
+BasicAssist,arctic-underneath,212,Not Swapped,54.57,1,0,1
+BasicAssist,arctic-stationary-survival,213,Not Swapped,189.102,1,1,1
+BasicAssist,arctic-isolated-instance,214,Not Swapped,930.016,1,8,1
+BasicAssist,above-n-below,215,Not Swapped,356.562,1,3,1
+BasicAssist,coral-hunting-lions,216,Swapped,1437.519,5,0,0
+BasicAssist,kelp-refuge-failure,217,Not Swapped,810.0360000000001,2,8,1
+BatteredRoar,arctic-disappearing-act,218,Not Swapped,554.691,2,1,1
+BatteredRoar,arctic-cause-of-death,219,Not Swapped,553.348,1,1,1
+BatteredRoar,arctic-time-of-death,220,Not Swapped,654.687,1,0,1
+BatteredRoar,arctic-seal-habitats,221,Not Swapped,442.073,1,0,1
+BatteredRoar,arctic-picky-eaters,222,Not Swapped,701.986,1,2,1
+BatteredRoar,above-n-below,223,Not Swapped,208.598,1,1,1
+BatteredRoar,arctic-endangered-seals,224,Swapped,334.182,1,0,0
+BatteredRoar,final-final,225,Not Swapped,1294.871,1,7,1
+BearableRug,kelp-welcome,226,Not Swapped,294.61,1,6,1
+BearableRug,kelp-bull-kelp-forest,227,Not Swapped,151.202,1,2,1
+BearableRug,kelp-shop-welcome,228,Not Swapped,121.665,1,3,1
+BeepingDish,kelp-welcome,229,Not Swapped,275.31,2,6,1
+BeepingDish,kelp-bull-kelp-forest,230,Not Swapped,117.929,1,2,1
+BeepingDish,kelp-shop-welcome,231,Not Swapped,90.997,1,3,1
+BeepingDish,coral-turtle-population,232,Not Swapped,20.457,1,0,1
+BeepingDish,displaced-reef,233,Not Swapped,166.366,1,3,1
+BeepingDish,bayou-shrimp-yields,234,Not Swapped,183.735,1,1,1
+BeepingDish,arctic-missing-whale,235,Not Swapped,460.324,1,3,1
+BeepingDish,arctic-underneath,236,Not Swapped,250.674,1,1,1
+BeepingDish,arctic-stationary-survival,237,Not Swapped,123.403,1,1,1
+BeepingDish,kelp-energy,238,Not Swapped,92.634,1,1,1
+BeepingDish,kelp-urchin-barren-viz,239,Not Swapped,218.466,1,4,1
+BeepingDish,kelp-urchin-barren-predict,240,Swapped,326.206,2,0,0
+BeepingDish,kelp-mussel-fest,241,Not Swapped,171.131,1,2,1
+BeepingDish,kelp-start-refuge,242,Not Swapped,204.897,1,1,1
+BeepingDish,kelp-urchin-barren-predict,243,Swapped,104.263,2,0,0
+BeepingDish,coral-fishy-bizz,244,Not Swapped,192.594,1,3,1
+BeepingDish,coral-turtle-stability,245,Not Swapped,437.67100000000005,2,3,2
+BeepingDish,coral-stressed,246,Not Swapped,240.49,1,2,1
+BeepingDish,coral-ocean-plastics,247,Not Swapped,93.167,1,1,1
+BeepingDish,kelp-urchin-farm,248,Not Swapped,145.117,1,1,1
+BeepingDish,bayou-boom-cause,249,Not Swapped,280.367,1,2,1
+BeepingDish,bayou-alt-energy,250,Swapped,802.193,2,1,0
+BeepingDish,arctic-isolated-instance,251,Swapped,228.876,2,0,0
+BeepingDish,arctic-salmon-monitoring,252,Not Swapped,52.172,1,0,1
+BeepingDish,arctic-in-ice,253,Not Swapped,95.477,1,1,1
+BeepingDish,arctic-seal-habitats,254,Not Swapped,466.438,1,4,1
+BeepingDish,arctic-disappearing-act,255,Not Swapped,215.314,1,1,1
+BeepingDish,arctic-time-of-death,256,Not Swapped,375.241,1,1,1
+BeepingDish,kelp-musselfest-solution,257,Not Swapped,149.537,1,3,1
+BeepingDish,turtle-danger,258,Not Swapped,400.844,1,4,1
+BeepingDish,bayou-blue-waters,259,Not Swapped,416.246,1,4,1
+BeepingDish,bayou-dirty-detritus,260,Not Swapped,236.833,1,2,1
+BeepingDish,kelp-urchin-barren-predict,261,Not Swapped,69.157,2,1,1
+BeepingDish,kelp-save-urchin-barren,262,Not Swapped,175.135,1,1,1
+BeepingDish,coral-fake-fix,263,Not Swapped,353.905,1,3,1
+BeepingDish,coral-lionfish-conspiracy,264,Not Swapped,181.163,1,2,1
+BeepingDish,coral-hunting-lions,265,Swapped,303.12199999999996,2,0,0
+BeepingDish,coral-much-algae,266,Not Swapped,167.266,1,2,1
+BeepingDish,coral-tang-checkup,267,Not Swapped,104.316,1,1,1
+BeepingDish,arctic-cause-of-death,268,Not Swapped,242.805,1,1,1
+BeepingDish,final-final,269,Not Swapped,670.736,2,1,1
+BeepingDish,turtle-danger2,270,Not Swapped,765.013,1,3,1
+BeepingDish,bayou-hide-n-seek,271,Not Swapped,396.946,1,2,1
+BeepingDish,bayou-reef-decision,272,Not Swapped,226.052,1,1,1
+BeepingDish,above-n-below,273,Not Swapped,334.45,1,2,1
+BeepingDish,arctic-endangered-seals,274,Swapped,625.78,1,1,0
+BeepingDish,arctic-salmon-competition,275,Not Swapped,163.924,1,2,1
+BeepingDish,arctic-picky-eaters,276,Not Swapped,145.076,1,2,1
+BeepingDish,coral-casting-shade,277,Not Swapped,565.164,2,5,2
+BeepingDish,coral-eat-seaweed,278,Not Swapped,274.997,1,1,1
+BeepingDish,arctic-isolated-instance,279,Not Swapped,485.55,2,7,1
+BeepingDish,bayou-oxygen-tracking,280,Not Swapped,284.908,1,2,1
+BeepingDish,bayou-shrimp-tastrophe,281,Not Swapped,657.651,1,1,1
+BeepingDish,kelp-refuge-failure,282,Not Swapped,544.953,1,8,1
+BeepingDish,kelp-refuge-failure-simulation,283,Not Swapped,88.422,1,1,1
+BeepingDish,bayou-alt-energy,284,Not Swapped,746.219,2,0,0
+BetrayedGyro,kelp-welcome,287,Not Swapped,2279.54,2,6,1
+BetrayedGyro,kelp-bull-kelp-forest,288,Not Swapped,233.588,1,2,1
+BetrayedGyro,kelp-shop-welcome,289,Not Swapped,347.462,1,2,0
+BiasedHand,kelp-welcome,290,Not Swapped,573.792,1,6,1
+BiasedHand,kelp-bull-kelp-forest,291,Not Swapped,553.632,1,2,1
+BiasedHand,kelp-shop-welcome,292,Not Swapped,174.664,1,3,1
+BiasedHand,kelp-energy,293,Not Swapped,162.048,1,1,1
+BiasedHand,coral-turtle-population,294,Not Swapped,165.116,1,1,1
+BiasedHand,displaced-reef,295,Not Swapped,138.799,1,3,1
+BiasedHand,bayou-shrimp-yields,296,Not Swapped,209.267,1,1,1
+BiasedHand,coral-fake-fix,297,Not Swapped,487.281,1,3,1
+BiasedHand,coral-lionfish-conspiracy,298,Not Swapped,202.299,1,2,1
+BiasedHand,kelp-mussel-fest,299,Not Swapped,340.666,1,2,1
+BiasedHand,kelp-urchin-barren-viz,300,Not Swapped,364.332,1,4,1
+BiasedHand,kelp-urchin-barren-predict,301,Not Swapped,199.331,1,1,1
+BiasedHand,kelp-start-refuge,302,Not Swapped,204.167,1,2,1
+BiasedHand,arctic-missing-whale,303,Not Swapped,347.549,1,3,1
+BiasedHand,arctic-disappearing-act,304,Not Swapped,775.531,1,2,1
+BiasedHand,arctic-salmon-monitoring,305,Not Swapped,230.033,1,1,1
+BiasedHand,arctic-time-of-death,306,Not Swapped,200.249,1,1,1
+BiasedHand,arctic-cause-of-death,307,Not Swapped,172.45,1,0,1
+BiasedHand,arctic-in-ice,308,Not Swapped,402.432,1,2,1
+BiasedHand,arctic-salmon-competition,309,Not Swapped,276.849,1,2,1
+BiasedHand,arctic-picky-eaters,310,Not Swapped,271.716,1,2,1
+BiasedHand,arctic-underneath,311,Not Swapped,326.783,1,1,1
+BiasedHand,kelp-urchin-farm,312,Not Swapped,182.399,1,1,1
+BiasedHand,kelp-musselfest-solution,313,Not Swapped,298.899,1,3,1
+BiasedHand,kelp-refuge-failure,314,Not Swapped,818.445,1,8,1
+BiasedHand,kelp-refuge-failure-simulation,315,Not Swapped,93.115,1,1,1
+BiasedHand,kelp-save-urchin-barren,316,Not Swapped,203.183,1,1,1
+BiasedHand,coral-fishy-bizz,317,Not Swapped,191.631,1,1,1
+BiasedHand,coral-turtle-stability,318,Not Swapped,518.715,1,3,1
+BiasedHand,coral-stressed,319,Not Swapped,179.516,1,2,1
+BiasedHand,coral-casting-shade,320,Not Swapped,611.527,1,8,1
+BiasedHand,coral-eat-seaweed,321,Not Swapped,540.081,1,1,1
+BiasedHand,coral-ocean-plastics,322,Not Swapped,128.202,1,1,1
+BiasedHand,coral-much-algae,323,Not Swapped,225.481,1,3,1
+BiasedHand,coral-tang-checkup,324,Not Swapped,379.365,1,5,1
+BiasedHand,coral-hunting-lions,325,Swapped,3351.883,1,7,0
+BiasedHand,turtle-danger,326,Not Swapped,88532.366,1,1,0
+BigDrawer,kelp-welcome,327,Not Swapped,554.728,1,6,1
+BigDrawer,kelp-bull-kelp-forest,328,Not Swapped,361.478,1,2,1
+BigDrawer,kelp-shop-welcome,329,Not Swapped,222.992,1,3,1
+BigDrawer,coral-turtle-population,330,Not Swapped,3930.193,3,1,0
+BiggestBasin,kelp-welcome,331,Not Swapped,460.776,1,6,1
+BiggestBasin,kelp-bull-kelp-forest,332,Not Swapped,773.535,2,2,0
+BlatantSeat,kelp-welcome,333,Not Swapped,191.5,1,6,1
+BlatantSeat,kelp-bull-kelp-forest,334,Not Swapped,127.986,1,2,1
+BlatantSeat,kelp-shop-welcome,335,Not Swapped,86.069,1,3,1
+BlatantSeat,displaced-reef,336,Not Swapped,89.052,1,3,1
+BlatantSeat,bayou-shrimp-yields,337,Not Swapped,133.145,1,1,1
+BlatantSeat,arctic-salmon-monitoring,338,Not Swapped,30.858,1,0,1
+BlatantSeat,arctic-missing-whale,339,Not Swapped,1275.28,1,3,1
+BlatantSeat,arctic-underneath,340,Not Swapped,30.794,1,0,1
+BlatantSeat,arctic-stationary-survival,341,Not Swapped,3465.955,1,1,1
+BlatantSeat,coral-turtle-population,342,Not Swapped,19.951999999999998,1,0,1
+BlatantSeat,coral-fake-fix,343,Not Swapped,231.324,1,3,1
+BlatantSeat,coral-lionfish-conspiracy,344,Not Swapped,108.556,1,2,1
+BlatantSeat,coral-stressed,345,Not Swapped,290.227,1,2,1
+BlatantSeat,kelp-energy,346,Not Swapped,202.603,1,1,1
+BlatantSeat,kelp-mussel-fest,347,Not Swapped,180.291,1,2,1
+BlatantSeat,kelp-musselfest-solution,348,Not Swapped,6927.424,1,3,1
+BlatantSeat,kelp-urchin-farm,349,Not Swapped,155.409,1,2,1
+BlatantSeat,kelp-urchin-barren-viz,350,Not Swapped,201.56,1,4,1
+BlatantSeat,kelp-urchin-barren-predict,351,Not Swapped,119.591,1,1,1
+BlatantSeat,kelp-save-urchin-barren,352,Not Swapped,94.196,1,1,1
+BlatantSeat,kelp-start-refuge,353,Not Swapped,141.45,1,0,1
+BlatantSeat,kelp-refuge-failure,354,Not Swapped,723.759,1,8,1
+BlatantSeat,kelp-refuge-failure-simulation,355,Not Swapped,218.255,1,1,1
+BlatantSeat,coral-ocean-plastics,356,Not Swapped,1633.888,1,2,1
+BlatantSeat,coral-fishy-bizz,357,Not Swapped,266.115,1,1,1
+BlatantSeat,coral-much-algae,358,Not Swapped,253.425,1,3,1
+BlatantSeat,coral-tang-checkup,359,Not Swapped,4387.571,1,3,1
+BlatantSeat,coral-casting-shade,360,Not Swapped,347.219,1,5,1
+BlatantSeat,coral-eat-seaweed,361,Not Swapped,105.329,1,1,1
+BlatantSeat,coral-hunting-lions,362,Not Swapped,1649.828,1,7,1
+BlatantSeat,coral-turtle-stability,363,Not Swapped,102.838,1,1,1
+BlatantSeat,arctic-disappearing-act,364,Not Swapped,269.858,1,1,1
+BlatantSeat,arctic-cause-of-death,365,Not Swapped,281.935,1,1,1
+BlatantSeat,arctic-time-of-death,366,Not Swapped,80.982,1,0,1
+BlatantSeat,arctic-in-ice,367,Not Swapped,160.19,1,2,1
+BlatantSeat,arctic-isolated-instance,368,Swapped,226.453,1,0,0
+BlatantSeat,arctic-picky-eaters,369,Not Swapped,490.961,1,2,1
+BlatantSeat,arctic-salmon-competition,370,Not Swapped,99.111,1,1,1
+BlatantSeat,arctic-isolated-instance,371,Swapped,609.581,1,0,0
+BlatantSeat,arctic-seal-habitats,372,Not Swapped,278.473,1,4,1
+BlatantSeat,above-n-below,373,Not Swapped,196.461,1,2,1
+BlatantSeat,arctic-endangered-seals,374,Not Swapped,73446.623,1,3,1
+BlatantSeat,arctic-isolated-instance,375,Not Swapped,255.216,1,6,1
+BlatantSeat,bayou-blue-waters,376,Not Swapped,719.03,1,5,1
+BlatantSeat,bayou-boom-cause,377,Not Swapped,420.407,1,2,1
+BlatantSeat,bayou-alt-energy,378,Not Swapped,1793.563,1,2,1
+BlatantSeat,bayou-methanogen,379,Not Swapped,5439.591,3,2,1
+BlatantSeat,bayou-dirty-detritus,380,Not Swapped,363.62,1,2,1
+BlatantSeat,bayou-oxygen-tracking,381,Not Swapped,159.364,1,2,1
+BlatantSeat,bayou-shrimp-tastrophe,382,Not Swapped,1295.329,1,1,1
+BlatantSeat,turtle-danger,383,Not Swapped,153.486,1,2,1
+BlatantSeat,turtle-danger2,384,Not Swapped,984.831,1,2,1
+BlatantSeat,bayou-hide-n-seek,385,Not Swapped,488.73,2,1,1
+BlatantSeat,bayou-reef-decision,386,Not Swapped,227.028,1,1,1
+BlatantSeat,final-final,387,Not Swapped,15467.98,1,7,1
+BlearyAnnual,coral-eat-seaweed,388,Not Swapped,512.61,1,1,1
+BlearyAnnual,coral-hunting-lions,389,Not Swapped,1922.901,1,4,0
+BlindingGrade,turtle-danger,390,Not Swapped,235.425,1,0,0
+BlissfulBrass,kelp-welcome,391,Not Swapped,258.739,1,6,1
+BlissfulBrass,kelp-bull-kelp-forest,392,Not Swapped,194.166,1,2,1
+BlissfulBrass,kelp-shop-welcome,393,Not Swapped,221.349,1,3,1
+BlissfulBrass,arctic-missing-whale,394,Swapped,556.824,2,1,0
+BlissfulBrass,arctic-salmon-monitoring,395,Not Swapped,67.338,1,0,1
+BlissfulBrass,coral-turtle-population,396,Not Swapped,25.466,1,0,1
+BlissfulBrass,displaced-reef,397,Not Swapped,128.05,1,3,1
+BlissfulBrass,arctic-missing-whale,398,Not Swapped,475.247,2,2,1
+BlissfulBrass,kelp-energy,399,Not Swapped,153.086,1,1,1
+BlissfulBrass,kelp-start-refuge,400,Not Swapped,234.851,1,2,1
+BlissfulBrass,bayou-shrimp-yields,401,Not Swapped,181.558,1,1,1
+BlissfulBrass,coral-fake-fix,402,Not Swapped,399.201,1,3,1
+BlissfulBrass,coral-stressed,403,Not Swapped,346.652,1,2,1
+BlissfulBrass,coral-lionfish-conspiracy,404,Not Swapped,171.346,1,2,1
+BlissfulBrass,kelp-mussel-fest,405,Not Swapped,190.31,1,2,1
+BlissfulBrass,kelp-urchin-barren-viz,406,Not Swapped,214.722,1,4,1
+BlissfulBrass,kelp-musselfest-solution,407,Not Swapped,332.66,1,3,1
+BlissfulBrass,kelp-refuge-failure,408,Not Swapped,1060.656,1,8,1
+BlissfulBrass,kelp-refuge-failure-simulation,409,Not Swapped,91.425,1,1,1
+BlissfulBrass,kelp-urchin-barren-predict,410,Not Swapped,164.235,1,1,1
+BlissfulBrass,kelp-save-urchin-barren,411,Not Swapped,167.055,1,1,1
+BlissfulBrass,kelp-urchin-farm,412,Not Swapped,268.373,1,1,1
+BlissfulBrass,coral-casting-shade,413,Not Swapped,708.64,2,6,1
+BlissfulBrass,coral-eat-seaweed,414,Not Swapped,1253.322,1,1,1
+BlissfulBrass,coral-fishy-bizz,415,Not Swapped,216.243,1,1,1
+BlissfulBrass,coral-much-algae,416,Not Swapped,225.476,2,3,1
+BlissfulBrass,coral-tang-checkup,417,Not Swapped,328.218,1,4,1
+BlissfulBrass,coral-hunting-lions,418,Not Swapped,239.659,1,0,0
+BlissfulLocket,kelp-welcome,419,Not Swapped,1449.393,1,6,1
+BlissfulLocket,kelp-bull-kelp-forest,420,Not Swapped,1568.04,1,2,1
+BlissfulLocket,kelp-shop-welcome,421,Not Swapped,707.5799999999999,3,1,0
+BloomingGauge,kelp-welcome,422,Not Swapped,85642.046,1,6,1
+BloomingGauge,kelp-bull-kelp-forest,423,Not Swapped,636.922,1,2,1
+BloomingGauge,kelp-shop-welcome,424,Not Swapped,86217.245,1,3,1
+BloomingGauge,kelp-energy,425,Not Swapped,86167.292,1,1,1
+BloomingGauge,coral-turtle-population,426,Not Swapped,3308.795,1,1,0
+BoastfulLychee,kelp-welcome,427,Not Swapped,335.593,1,6,1
+BoastfulLychee,kelp-bull-kelp-forest,428,Not Swapped,322.54499999999996,2,2,1
+BoastfulLychee,kelp-shop-welcome,429,Not Swapped,170.864,1,3,1
+BoastfulLychee,kelp-energy,430,Not Swapped,296.8,1,1,1
+BoomingBeetle,kelp-welcome,431,Not Swapped,397.968,1,6,1
+BoomingBeetle,kelp-bull-kelp-forest,432,Not Swapped,352.894,1,2,1
+BoomingBeetle,kelp-shop-welcome,433,Not Swapped,34.941,1,0,0
+BoorishReef,kelp-welcome,434,Not Swapped,507.415,1,6,1
+BoorishReef,kelp-bull-kelp-forest,435,Not Swapped,220.293,1,2,1
+BoorishReef,kelp-shop-welcome,436,Not Swapped,349.715,1,3,1
+BoorishReef,coral-turtle-population,437,Not Swapped,296.559,1,0,0
+BraveFoal,kelp-welcome,439,Not Swapped,196.219,1,6,1
+BraveFoal,kelp-bull-kelp-forest,440,Not Swapped,136.714,1,2,1
+BraveFoal,kelp-shop-welcome,441,Not Swapped,108.73,1,3,1
+BraveFoal,kelp-energy,442,Not Swapped,110.144,1,1,1
+BraveFoal,arctic-salmon-monitoring,443,Not Swapped,196.658,1,1,1
+BraveFoal,arctic-missing-whale,444,Swapped,470.178,1,1,0
+BraveFoal,coral-turtle-population,445,Not Swapped,126.744,1,1,1
+BraveFoal,coral-fake-fix,446,Not Swapped,526.108,1,3,1
+BraveFoal,arctic-missing-whale,447,Not Swapped,277.166,1,2,1
+BraveFoal,coral-lionfish-conspiracy,448,Not Swapped,408.448,1,3,1
+BraveFoal,coral-stressed,449,Not Swapped,427.933,1,2,1
+BrazenBog,kelp-welcome,450,Not Swapped,621.442,1,6,1
+BrazenBog,kelp-bull-kelp-forest,451,Not Swapped,1235.3539999999998,2,2,1
+BrazenBog,kelp-shop-welcome,452,Not Swapped,223.896,1,3,1
+BrazenBog,kelp-energy,453,Not Swapped,262.118,1,1,1
+BrazenBog,displaced-reef,454,Not Swapped,217.732,1,3,1
+BrazenBog,bayou-shrimp-yields,455,Not Swapped,326.73,1,1,1
+BrazenBog,kelp-mussel-fest,456,Not Swapped,643.399,1,2,1
+BrazenBog,kelp-start-refuge,457,Not Swapped,16149.194,2,0,1
+BrazenBog,kelp-urchin-barren-viz,458,Not Swapped,474.966,1,2,1
+BrazenBog,coral-turtle-population,459,Not Swapped,64.345,1,0,1
+BrazenBog,coral-fake-fix,460,Not Swapped,3996.999,1,0,0
+BrickAir,arctic-missing-whale,461,Not Swapped,261.865,1,2,1
+BrickAir,coral-turtle-population,462,Not Swapped,132.161,1,1,1
+BrickAir,coral-fake-fix,463,Not Swapped,700.024,1,3,1
+BrickAir,kelp-energy,464,Not Swapped,428.106,1,1,1
+BrickAir,kelp-urchin-barren-viz,465,Not Swapped,465.609,1,4,1
+BrickAir,coral-lionfish-conspiracy,466,Not Swapped,486.689,1,2,1
+BrickAir,coral-stressed,467,Not Swapped,603.475,1,2,1
+BrickAir,kelp-urchin-barren-predict,468,Not Swapped,300.506,1,1,1
+BroadFrog,kelp-welcome,469,Not Swapped,318.385,1,6,1
+BroadFrog,kelp-bull-kelp-forest,470,Not Swapped,153.014,2,1,0
+BusiestMagnet,kelp-welcome,472,Not Swapped,685.891,1,6,1
+BusiestMagnet,kelp-bull-kelp-forest,473,Not Swapped,83219.345,1,2,1
+BusiestMagnet,kelp-shop-welcome,474,Not Swapped,73.877,1,0,0
+BusySystem,kelp-welcome,475,Not Swapped,2767.476,1,6,1
+BusySystem,kelp-bull-kelp-forest,476,Not Swapped,167.924,1,2,1
+BusySystem,kelp-shop-welcome,477,Not Swapped,141.378,1,3,1
+BusySystem,displaced-reef,478,Not Swapped,96.923,1,0,1
+BusySystem,bayou-shrimp-yields,479,Not Swapped,386.006,1,1,1
+BusySystem,coral-turtle-population,480,Not Swapped,160.897,1,1,1
+BusySystem,arctic-missing-whale,481,Not Swapped,440.897,1,3,1
+CaptiveBunch,kelp-welcome,482,Not Swapped,3724.58,1,6,1
+CaptiveBunch,kelp-bull-kelp-forest,483,Not Swapped,1955.8,1,2,1
+CaptiveBunch,kelp-shop-welcome,484,Not Swapped,106.32,1,3,1
+CaptiveBunch,coral-turtle-population,485,Not Swapped,129.732,1,0,1
+CaptiveBunch,displaced-reef,486,Not Swapped,136.399,1,3,1
+CaptiveBunch,bayou-shrimp-yields,487,Not Swapped,141.681,1,1,1
+CaptiveBunch,arctic-missing-whale,488,Not Swapped,426.531,1,3,1
+CaptiveBunch,arctic-salmon-monitoring,489,Not Swapped,164.865,1,0,1
+CaptiveBunch,arctic-underneath,490,Not Swapped,38.565,1,0,1
+CaptiveBunch,arctic-stationary-survival,491,Not Swapped,154.601,1,1,1
+CaptiveBunch,kelp-energy,492,Not Swapped,658.799,1,1,1
+CaptiveBunch,kelp-urchin-barren-viz,493,Not Swapped,248.053,1,4,1
+CaptiveBunch,coral-fake-fix,494,Not Swapped,389.731,1,1,1
+CaptiveBunch,coral-lionfish-conspiracy,495,Not Swapped,200.601,1,2,1
+CaptiveBunch,coral-ocean-plastics,496,Not Swapped,723.277,1,2,1
+CaptiveBunch,coral-turtle-stability,497,Not Swapped,79.853,1,1,1
+CaptiveBunch,turtle-danger,498,Not Swapped,659.464,1,4,1
+CaptiveBunch,arctic-disappearing-act,499,Not Swapped,437.684,1,1,1
+CaptiveBunch,arctic-in-ice,500,Not Swapped,180.085,1,3,1
+CaptiveBunch,arctic-seal-habitats,501,Not Swapped,288.604,1,2,1
+CaptiveBunch,above-n-below,502,Not Swapped,525.839,1,3,1
+CaptiveBunch,arctic-time-of-death,503,Not Swapped,418.059,1,1,1
+CaptiveBunch,bayou-boom-cause,504,Not Swapped,301.219,1,2,1
+CaptiveBunch,bayou-alt-energy,505,Swapped,2477.221,1,0,0
+CaptiveBunch,coral-stressed,506,Not Swapped,236.206,1,1,1
+CaptiveBunch,bayou-alt-energy,507,Not Swapped,292.11,1,2,1
+CaptiveBunch,kelp-mussel-fest,508,Not Swapped,303.183,1,2,1
+CaptiveBunch,kelp-musselfest-solution,509,Not Swapped,393.552,1,3,1
+CaptiveBunch,kelp-start-refuge,510,Not Swapped,162.671,1,2,1
+CaptiveBunch,kelp-refuge-failure,511,Not Swapped,788.002,1,8,1
+CaptiveBunch,kelp-refuge-failure-simulation,512,Not Swapped,74.383,1,1,1
+CaptiveBunch,kelp-urchin-barren-predict,513,Not Swapped,99.664,1,1,1
+CaptiveBunch,kelp-save-urchin-barren,514,Not Swapped,107.299,1,1,1
+CaptiveBunch,kelp-urchin-farm,515,Not Swapped,122.517,1,1,1
+CaptiveBunch,bayou-blue-waters,516,Not Swapped,652.387,1,4,1
+CaptiveBunch,bayou-dirty-detritus,517,Not Swapped,279.334,1,4,1
+CaptiveBunch,bayou-methanogen,518,Not Swapped,659.534,1,2,1
+CaptiveBunch,bayou-oxygen-tracking,519,Not Swapped,266.002,1,2,1
+CaptiveBunch,turtle-danger2,520,Not Swapped,1165.162,1,2,1
+CaptiveBunch,bayou-shrimp-tastrophe,521,Not Swapped,1628.527,1,1,1
+CaptiveBunch,bayou-hide-n-seek,522,Not Swapped,547.322,1,4,1
+CaptiveBunch,bayou-reef-decision,523,Not Swapped,400.269,1,1,1
+CaptiveBunch,coral-much-algae,524,Not Swapped,350.336,1,3,1
+CaptiveBunch,coral-tang-checkup,525,Not Swapped,446.719,1,5,1
+CaptiveBunch,coral-fishy-bizz,526,Not Swapped,24904.195,1,1,1
+CaptiveBunch,coral-casting-shade,527,Not Swapped,494.874,1,7,1
+CaptiveBunch,coral-eat-seaweed,528,Not Swapped,650.349,1,1,1
+CaptiveBunch,coral-hunting-lions,529,Not Swapped,1920.873,1,8,1
+CaptiveBunch,arctic-salmon-competition,530,Not Swapped,489.707,1,2,1
+CaptiveBunch,arctic-picky-eaters,531,Not Swapped,142.869,1,2,1
+CaptiveBunch,arctic-cause-of-death,532,Not Swapped,130.402,1,0,1
+CaptiveBunch,arctic-isolated-instance,533,Not Swapped,471.101,1,7,1
+CaptiveBunch,arctic-endangered-seals,534,Not Swapped,3109.937,1,2,1
+CaptiveBunch,final-final,535,Not Swapped,724.517,1,7,1
+CarefulBrake,kelp-welcome,537,Not Swapped,462.857,1,6,1
+CarefulBrake,kelp-bull-kelp-forest,538,Not Swapped,325.106,1,2,1
+CarefulBrake,kelp-shop-welcome,539,Not Swapped,718.789,1,3,1
+CarefulBrake,kelp-energy,540,Not Swapped,347.338,1,1,1
+CarefulBrake,displaced-reef,541,Not Swapped,327.442,1,3,1
+CarefulBrake,bayou-shrimp-yields,542,Not Swapped,246.59,1,1,1
+CarefulBrake,arctic-salmon-monitoring,543,Swapped,40.144,1,0,0
+CarefulBrake,arctic-missing-whale,544,Swapped,945.883,1,2,0
+CarefulBrake,coral-turtle-population,545,Not Swapped,44.225,1,0,1
+CarefulBrake,coral-fake-fix,546,Not Swapped,718.838,1,3,1
+CarefulBrake,coral-lionfish-conspiracy,547,Not Swapped,244.974,1,2,1
+CarefulBrake,coral-stressed,548,Not Swapped,1055.278,1,1,1
+CarefulBrake,kelp-mussel-fest,549,Swapped,37.86,1,0,0
+CarefulBrake,kelp-urchin-barren-viz,550,Swapped,36.192,1,0,0
+CarefulBrake,kelp-start-refuge,551,Not Swapped,246.491,1,2,1
+CarefulBrake,kelp-mussel-fest,552,Not Swapped,242.489,1,2,1
+CarefulBrake,kelp-urchin-barren-viz,553,Not Swapped,250.057,1,4,1
+CarefulBrake,arctic-missing-whale,554,Not Swapped,217.446,1,0,1
+CarefulBrake,arctic-salmon-monitoring,555,Not Swapped,78.939,1,0,1
+CarefulBrake,arctic-underneath,556,Not Swapped,78.603,1,0,1
+CarefulBrake,arctic-stationary-survival,557,Not Swapped,209.264,1,1,1
+CarefulBrake,arctic-disappearing-act,558,Not Swapped,293.132,1,1,1
+CarefulBrake,arctic-cause-of-death,559,Not Swapped,415.227,1,1,1
+CarefulBrake,arctic-isolated-instance,560,Not Swapped,636.051,1,7,1
+CarefulBrake,arctic-seal-habitats,561,Not Swapped,407.694,1,3,1
+CarefulBrake,above-n-below,562,Not Swapped,670.214,1,2,1
+CarefulBrake,arctic-endangered-seals,563,Not Swapped,5696.725,1,3,1
+ChangingBobcat,kelp-welcome,564,Not Swapped,277.221,1,6,1
+ChangingBobcat,kelp-bull-kelp-forest,565,Not Swapped,297.036,1,2,1
+ChangingBobcat,kelp-shop-welcome,566,Not Swapped,195.768,1,3,1
+ChangingBobcat,displaced-reef,567,Not Swapped,207.717,1,3,1
+ChangingBobcat,bayou-shrimp-yields,568,Not Swapped,199.399,1,1,1
+ChangingBobcat,coral-turtle-population,569,Not Swapped,28.911,1,0,1
+CheapLawn,bayou-alt-energy,570,Not Swapped,1600.737,1,0,0
+CheapVoting,kelp-welcome,571,Not Swapped,575.436,1,6,1
+CheapVoting,kelp-bull-kelp-forest,572,Not Swapped,193.006,1,2,1
+CheapVoting,kelp-shop-welcome,573,Not Swapped,260.643,1,3,1
+CheapVoting,displaced-reef,574,Not Swapped,363.56,1,3,1
+CheapVoting,bayou-shrimp-yields,575,Not Swapped,59432.89,1,1,0
+CheapestPolish,kelp-welcome,576,Not Swapped,365.201,1,6,1
+CheapestPolish,kelp-bull-kelp-forest,577,Not Swapped,221.777,1,2,1
+CheapestPolish,kelp-shop-welcome,578,Not Swapped,283.51,1,2,0
+ChemicalFridge,turtle-danger2,579,Not Swapped,1640.072,1,1,1
+ChemicalFridge,bayou-hide-n-seek,580,Swapped,106.88,1,0,0
+ChemicalFridge,bayou-oxygen-tracking,581,Not Swapped,2242.729,1,2,1
+ChemicalFridge,bayou-shrimp-tastrophe,582,Swapped,18500.987,1,0,0
+ChemicalFridge,arctic-endangered-seals,583,Swapped,1743.406,2,0,0
+ChemicalFridge,coral-much-algae,584,Not Swapped,60420.899,1,3,1
+ChemicalFridge,coral-tang-checkup,585,Not Swapped,1175.35,1,3,1
+ChemicalFridge,coral-casting-shade,586,Not Swapped,2321.714,1,8,1
+ChemicalFridge,coral-ocean-plastics,587,Not Swapped,2109.155,1,0,0
+ChemicalTulip,kelp-welcome,588,Not Swapped,247.059,1,6,1
+ChemicalTulip,kelp-bull-kelp-forest,589,Not Swapped,143.269,1,2,1
+ChemicalTulip,kelp-shop-welcome,590,Not Swapped,86.049,1,3,1
+ChemicalTulip,kelp-energy,591,Not Swapped,71.148,1,1,1
+ChemicalTulip,displaced-reef,592,Not Swapped,69.231,1,3,1
+ChemicalTulip,bayou-shrimp-yields,593,Not Swapped,127.671,1,1,1
+ChemicalTulip,kelp-mussel-fest,594,Not Swapped,236.722,1,2,1
+ChemicalTulip,kelp-start-refuge,595,Not Swapped,42.282,1,0,1
+ChemicalTulip,kelp-urchin-barren-viz,596,Not Swapped,144.868,1,4,1
+ChemicalTulip,coral-stressed,597,Not Swapped,250.469,1,2,1
+ChemicalTulip,coral-turtle-population,598,Not Swapped,18.7,1,0,1
+ChemicalTulip,coral-fake-fix,599,Not Swapped,258.953,1,3,1
+ChemicalTulip,coral-lionfish-conspiracy,600,Not Swapped,124.918,1,2,1
+ChemicalTulip,kelp-urchin-barren-predict,601,Not Swapped,74.3,1,1,1
+ChemicalTulip,arctic-missing-whale,602,Not Swapped,209.887,1,3,1
+ChemicalTulip,arctic-disappearing-act,603,Not Swapped,2560.974,2,2,1
+ChemicalTulip,arctic-cause-of-death,604,Not Swapped,63.717,1,0,1
+ChemicalTulip,arctic-salmon-monitoring,605,Not Swapped,30.585,1,0,1
+ChemicalTulip,arctic-in-ice,606,Swapped,1649.115,1,0,0
+ChemicalTulip,arctic-seal-habitats,607,Not Swapped,378.306,1,0,1
+ChemicalTulip,above-n-below,608,Not Swapped,103.035,1,2,1
+ChemicalTulip,arctic-endangered-seals,609,Not Swapped,744.197,1,3,1
+ChemicalTulip,arctic-in-ice,610,Not Swapped,196.353,1,2,1
+ChemicalTulip,arctic-picky-eaters,611,Not Swapped,93.918,1,1,1
+ChemicalTulip,arctic-salmon-competition,612,Not Swapped,138.484,1,1,1
+ChemicalTulip,arctic-time-of-death,613,Not Swapped,64.019,1,0,1
+ChemicalTulip,arctic-underneath,614,Not Swapped,22.301,1,0,1
+ChemicalTulip,arctic-stationary-survival,615,Not Swapped,99.953,1,1,1
+ChemicalTulip,arctic-isolated-instance,616,Not Swapped,541.91,1,7,1
+ChemicalTulip,kelp-musselfest-solution,617,Not Swapped,176.154,1,3,1
+ChemicalTulip,kelp-refuge-failure,618,Not Swapped,544.925,1,8,1
+ChemicalTulip,kelp-refuge-failure-simulation,619,Not Swapped,49.765,1,1,1
+ChemicalTulip,kelp-save-urchin-barren,620,Not Swapped,69.134,1,1,1
+ChemicalTulip,kelp-urchin-farm,621,Not Swapped,149.637,1,1,1
+ChemicalTulip,coral-casting-shade,622,Not Swapped,421.336,1,6,1
+ChemicalTulip,coral-eat-seaweed,623,Not Swapped,165.187,1,0,1
+ChemicalTulip,coral-fishy-bizz,624,Not Swapped,99.5,1,1,1
+ChemicalTulip,coral-hunting-lions,625,Swapped,395.923,1,1,0
+ChemicalTulip,coral-much-algae,626,Not Swapped,199.219,1,2,1
+ChemicalTulip,coral-ocean-plastics,627,Not Swapped,219.786,1,2,1
+ChemicalTulip,coral-tang-checkup,628,Not Swapped,91.183,1,2,1
+ChemicalTulip,coral-turtle-stability,629,Not Swapped,59.983,1,1,1
+ChemicalTulip,coral-hunting-lions,630,Swapped,1292.637,1,1,0
+ChemicalTulip,bayou-blue-waters,631,Swapped,393.942,1,3,0
+ChemicalTulip,final-final,632,Not Swapped,598.609,1,7,1
+ChewyAscend,kelp-welcome,633,Not Swapped,546.87,1,6,1
+ChewyAscend,kelp-bull-kelp-forest,634,Not Swapped,14764.459,1,2,1
+ChewyAscend,kelp-shop-welcome,635,Not Swapped,190.361,1,3,1
+ChewyAscend,kelp-energy,636,Not Swapped,194.16,1,1,1
+ChewyAscend,arctic-salmon-monitoring,637,Not Swapped,400.556,1,1,1
+ChewyAscend,arctic-missing-whale,638,Not Swapped,342.543,1,0,0
+CleverHerbs,kelp-welcome,640,Not Swapped,330.378,1,6,1
+CleverHerbs,kelp-bull-kelp-forest,641,Not Swapped,244.384,1,2,1
+CleverHerbs,kelp-shop-welcome,642,Not Swapped,169.282,1,3,1
+CleverHerbs,arctic-missing-whale,643,Swapped,761.514,3,1,0
+CleverHerbs,arctic-salmon-monitoring,644,Not Swapped,674.871,1,0,1
+CleverHerbs,arctic-missing-whale,645,Swapped,614.935,3,0,0
+CleverHerbs,kelp-energy,646,Not Swapped,154.599,1,1,1
+CleverHerbs,coral-turtle-population,647,Not Swapped,115.884,1,1,1
+CleverHerbs,arctic-missing-whale,648,Not Swapped,1089.305,3,2,1
+ClingingTrace,kelp-welcome,649,Not Swapped,242.296,1,6,1
+ClingingTrace,kelp-bull-kelp-forest,650,Not Swapped,309.912,1,2,1
+ClingingTrace,kelp-shop-welcome,651,Not Swapped,252.178,1,3,1
+ClingingTrace,kelp-energy,652,Not Swapped,497.232,1,1,1
+ClingingTrace,displaced-reef,653,Not Swapped,436.752,1,3,1
+ClingingTrace,arctic-salmon-monitoring,654,Not Swapped,498.1,1,1,1
+ClingingTrace,arctic-missing-whale,655,Not Swapped,1027.934,1,3,1
+ClingingTrace,arctic-underneath,656,Not Swapped,920.557,1,1,1
+ClingingTrace,bayou-shrimp-yields,657,Not Swapped,282.393,1,1,1
+ClingingTrace,coral-turtle-population,658,Not Swapped,184.606,1,1,1
+ClingingTrace,coral-fake-fix,659,Swapped,1310.758,1,3,0
+ClingingTrace,kelp-urchin-barren-viz,660,Not Swapped,367.174,1,4,1
+ClingingTrace,kelp-mussel-fest,661,Not Swapped,383.321,1,2,1
+ClingingTrace,kelp-start-refuge,662,Not Swapped,280.054,1,2,1
+ClingingTrace,kelp-urchin-barren-predict,663,Not Swapped,243.001,1,1,1
+ClingingTrace,coral-stressed,664,Not Swapped,400.029,1,2,1
+ClingingTrace,coral-ocean-plastics,665,Not Swapped,501.563,1,1,1
+ClingingTrace,coral-fishy-bizz,666,Not Swapped,388.685,1,1,1
+ClingingTrace,coral-turtle-stability,667,Not Swapped,350.18,1,2,1
+ClingingTrace,bayou-blue-waters,668,Swapped,966.3610000000001,2,3,0
+ClingingTrace,arctic-disappearing-act,669,Not Swapped,446.766,1,1,1
+ClingingTrace,arctic-in-ice,670,Not Swapped,321.29,1,3,1
+ClingingTrace,arctic-picky-eaters,671,Not Swapped,257.313,1,2,1
+ClingingTrace,arctic-time-of-death,672,Not Swapped,748.53,1,1,1
+ClingingTrace,arctic-seal-habitats,673,Not Swapped,913.073,1,3,1
+ClingingTrace,above-n-below,674,Not Swapped,333.237,1,2,1
+ClingingTrace,arctic-stationary-survival,675,Not Swapped,193.169,1,1,1
+ClingingTrace,arctic-isolated-instance,676,Not Swapped,805.576,1,7,1
+ClingingTrace,arctic-salmon-competition,677,Not Swapped,274.424,1,1,1
+ClingingTrace,arctic-cause-of-death,678,Not Swapped,917.238,1,0,1
+ClingingTrace,arctic-endangered-seals,679,Swapped,4155.91,1,1,0
+ClingingTrace,bayou-boom-cause,680,Not Swapped,558.48,1,2,1
+ClingingTrace,bayou-blue-waters,681,Not Swapped,484.32,2,1,1
+ClingingTrace,turtle-danger,682,Not Swapped,516.159,1,3,1
+ClingyPoll,kelp-welcome,683,Not Swapped,674.811,1,6,1
+ClingyPoll,kelp-bull-kelp-forest,684,Not Swapped,396.712,1,2,1
+ClingyPoll,kelp-shop-welcome,685,Not Swapped,147.93,1,3,1
+ClingyPoll,kelp-energy,686,Not Swapped,416.597,1,1,1
+CloseLaugh,kelp-welcome,687,Not Swapped,693.262,2,6,2
+CloseLaugh,kelp-bull-kelp-forest,688,Not Swapped,546.252,1,2,1
+CloseLaugh,kelp-shop-welcome,689,Not Swapped,281.871,1,3,1
+CloseLaugh,kelp-energy,690,Not Swapped,335.152,1,1,1
+CoarseGate,kelp-welcome,691,Not Swapped,386.285,1,6,1
+CoarseGate,kelp-bull-kelp-forest,692,Not Swapped,266.685,4,1,0
+CombinedPart,kelp-welcome,693,Not Swapped,195.014,1,6,1
+CombinedPart,kelp-bull-kelp-forest,694,Not Swapped,121.838,1,2,1
+CombinedPart,kelp-shop-welcome,695,Not Swapped,70.745,1,3,1
+CombinedPart,displaced-reef,696,Not Swapped,540.212,1,3,1
+CombinedPart,bayou-shrimp-yields,697,Not Swapped,177.996,1,1,1
+CombinedPart,coral-turtle-population,698,Not Swapped,93.236,1,1,1
+CombinedPart,arctic-missing-whale,699,Not Swapped,725.229,2,3,1
+CombinedPart,arctic-salmon-monitoring,700,Not Swapped,208.646,1,1,1
+CombinedPart,coral-fake-fix,701,Not Swapped,400.263,1,3,1
+CombinedPart,coral-lionfish-conspiracy,702,Not Swapped,353.339,1,3,1
+CombinedPart,kelp-energy,703,Not Swapped,138.427,1,1,1
+CombinedPart,kelp-urchin-barren-viz,704,Not Swapped,287.301,1,4,1
+CombinedPart,kelp-urchin-barren-predict,705,Not Swapped,162.394,1,1,1
+CombinedPart,kelp-mussel-fest,706,Not Swapped,205.084,1,3,1
+CombinedPart,arctic-disappearing-act,707,Not Swapped,2160.49,2,2,1
+CombinedPart,arctic-cause-of-death,708,Not Swapped,234.449,1,1,0
+ComicalChief,bayou-alt-energy,709,Not Swapped,1054.587,1,0,0
+CompoundGood,kelp-welcome,710,Not Swapped,197.696,1,6,1
+CompoundGood,kelp-bull-kelp-forest,711,Not Swapped,181.253,1,2,1
+CompoundGood,kelp-shop-welcome,712,Not Swapped,139.241,1,3,1
+CompoundGood,coral-turtle-population,713,Not Swapped,108.625,1,1,0
+ComputerCall,kelp-welcome,714,Not Swapped,403.677,1,6,1
+ComputerCall,kelp-bull-kelp-forest,715,Not Swapped,310.328,1,2,1
+ComputerCall,kelp-shop-welcome,716,Not Swapped,334.013,1,3,1
+ComputerCall,kelp-energy,717,Not Swapped,242.429,1,1,1
+ComputerCall,coral-turtle-population,718,Not Swapped,210.603,1,0,1
+ComputerCall,bayou-shrimp-yields,719,Not Swapped,424.461,1,1,1
+ComputerCall,displaced-reef,720,Not Swapped,161.506,1,3,1
+ComputerCall,arctic-missing-whale,721,Not Swapped,84493.712,2,3,1
+ComputerCall,arctic-salmon-monitoring,722,Not Swapped,136.725,1,1,1
+ConfusedYahoo,kelp-welcome,723,Not Swapped,245.983,1,6,1
+ConfusedYahoo,kelp-bull-kelp-forest,724,Not Swapped,347.199,1,2,1
+ConfusedYahoo,kelp-shop-welcome,725,Not Swapped,161.851,2,3,1
+ConfusedYahoo,kelp-energy,726,Not Swapped,495.636,1,1,1
+ConfusedYahoo,displaced-reef,727,Not Swapped,835.543,1,3,1
+ConfusedYahoo,bayou-shrimp-yields,728,Not Swapped,420.405,1,1,1
+ConfusedYahoo,kelp-urchin-barren-viz,729,Not Swapped,481.581,1,4,1
+ConfusedYahoo,kelp-mussel-fest,730,Not Swapped,504.074,1,3,1
+ConfusedYahoo,kelp-start-refuge,731,Not Swapped,376.02500000000003,3,2,1
+ConfusedYahoo,coral-stressed,732,Not Swapped,404.678,1,2,1
+ConfusedYahoo,coral-turtle-population,733,Not Swapped,348.945,1,1,1
+ContentTract,kelp-welcome,734,Not Swapped,788.767,1,6,1
+ContentTract,kelp-bull-kelp-forest,735,Not Swapped,200.128,1,2,1
+ContentTract,kelp-shop-welcome,736,Not Swapped,173.421,1,3,1
+ContentTract,kelp-energy,737,Not Swapped,260.98,1,1,1
+CottonyDisco,kelp-welcome,738,Not Swapped,228.012,1,6,1
+CottonyDisco,kelp-bull-kelp-forest,739,Not Swapped,154.316,1,2,1
+CottonyDisco,kelp-shop-welcome,740,Not Swapped,140.079,1,3,1
+CottonyDisco,kelp-energy,741,Not Swapped,225.533,1,1,1
+CottonyDisco,coral-turtle-population,742,Not Swapped,363.266,1,1,1
+CoyKendo,kelp-welcome,743,Not Swapped,299.217,1,6,1
+CoyKendo,kelp-bull-kelp-forest,744,Not Swapped,159.021,1,2,1
+CoyKendo,kelp-shop-welcome,745,Not Swapped,118.744,1,3,1
+CoyKendo,displaced-reef,746,Not Swapped,218.794,1,3,1
+CoyKendo,bayou-shrimp-yields,747,Not Swapped,183.409,1,1,1
+CoyKendo,coral-turtle-population,748,Not Swapped,121.169,1,1,1
+CoyKendo,coral-fake-fix,749,Not Swapped,480.444,1,3,1
+CoyKendo,coral-lionfish-conspiracy,750,Not Swapped,156.095,1,2,1
+CoyKendo,coral-stressed,751,Not Swapped,207.237,1,2,1
+CoyKendo,arctic-salmon-monitoring,752,Not Swapped,352.045,1,1,1
+CoyKendo,kelp-energy,753,Not Swapped,131.019,1,1,1
+CoyKendo,kelp-urchin-barren-viz,754,Not Swapped,251.93,1,4,1
+CoyKendo,kelp-mussel-fest,755,Not Swapped,219.488,1,3,1
+CoyKendo,kelp-start-refuge,756,Not Swapped,4214.928,1,2,1
+CoyKendo,arctic-missing-whale,757,Not Swapped,276.471,1,3,1
+CoyKendo,bayou-boom-cause,758,Not Swapped,334.902,1,2,1
+CoyKendo,bayou-blue-waters,759,Swapped,827.79,1,3,0
+CoyKendo,bayou-alt-energy,760,Not Swapped,296.272,1,1,0
+CrispDory,arctic-seal-habitats,763,Not Swapped,358.835,1,2,1
+CrispDory,bayou-boom-cause,764,Not Swapped,331.411,1,1,1
+CrispDory,bayou-alt-energy,765,Swapped,591.71,4,0,0
+CrispDory,arctic-isolated-instance,766,Swapped,315.71,1,0,0
+CrispDory,coral-fake-fix,767,Not Swapped,344.277,1,1,1
+CrispDory,coral-lionfish-conspiracy,768,Not Swapped,592.067,1,2,1
+CrispDory,coral-much-algae,769,Swapped,245.65,1,1,0
+CrispDory,coral-ocean-plastics,770,Not Swapped,202.607,1,0,1
+CrispDory,coral-turtle-stability,771,Swapped,522.57,1,0,0
+CrispDory,coral-stressed,772,Swapped,360.474,2,0,0
+CrispDory,bayou-oxygen-tracking,773,Not Swapped,380.066,1,2,1
+CrispDory,kelp-urchin-farm,774,Swapped,235.072,2,0,0
+CrispDory,kelp-refuge-failure,775,Swapped,1381.226,3,3,0
+CrispDory,arctic-disappearing-act,776,Swapped,644.731,5,0,0
+CrispDory,coral-hunting-lions,777,Swapped,352.08799999999997,5,0,0
+CrispDory,coral-fishy-bizz,778,Swapped,349.947,3,0,0
+CrispDory,bayou-blue-waters,779,Swapped,274.156,3,0,0
+CrispDory,bayou-blue-waters,781,Swapped,128.357,3,0,0
+CrispDory,above-n-below,782,Not Swapped,222.211,1,3,1
+CrispDory,arctic-endangered-seals,783,Swapped,166.546,2,0,0
+CrispDory,coral-hunting-lions,784,Swapped,132.916,5,0,0
+CrispDory,kelp-urchin-farm,785,Not Swapped,261.313,2,1,1
+CrispDory,kelp-save-urchin-barren,786,Swapped,462.852,1,0,0
+CrispDory,coral-hunting-lions,787,Swapped,169.705,5,0,0
+CrispDory,coral-fishy-bizz,788,Swapped,363.246,3,0,0
+CrispDory,turtle-danger,789,Swapped,306.77299999999997,3,0,0
+CrispDory,arctic-in-ice,790,Not Swapped,259.89,1,1,1
+CrispDory,arctic-salmon-competition,791,Swapped,114.536,1,0,0
+CrispDory,coral-hunting-lions,792,Swapped,146.512,5,0,0
+CrispDory,kelp-musselfest-solution,793,Not Swapped,1358.3029999999999,2,3,1
+CrispDory,kelp-refuge-failure,794,Swapped,164.808,3,0,0
+CrispDory,bayou-alt-energy,795,Swapped,71.116,4,0,0
+CrispDory,bayou-blue-waters,796,Swapped,56.908,3,0,0
+CrispDory,arctic-disappearing-act,797,Swapped,535.892,5,0,0
+CrispDory,turtle-danger,798,Swapped,5.536,3,0,0
+CrispDory,bayou-alt-energy,799,Swapped,250.443,4,0,0
+CrispDory,coral-hunting-lions,800,Swapped,867.206,5,0,0
+CrispDory,arctic-endangered-seals,801,Not Swapped,202.406,2,0,0
+CroppedFoam,kelp-welcome,803,Not Swapped,454.375,1,6,1
+CroppedFoam,kelp-bull-kelp-forest,804,Not Swapped,274.296,1,2,1
+CroppedFoam,kelp-shop-welcome,805,Not Swapped,194.882,1,3,1
+CroppedFoam,coral-turtle-population,806,Not Swapped,1347.595,1,1,1
+CroppedFoam,kelp-energy,807,Not Swapped,229.163,1,1,1
+CroppedFoam,displaced-reef,808,Not Swapped,319.611,1,3,1
+CroppedFoam,bayou-shrimp-yields,809,Not Swapped,148.854,1,1,1
+CroppedFoam,coral-fake-fix,810,Not Swapped,506.43899999999996,2,2,1
+CroppedFoam,coral-lionfish-conspiracy,811,Not Swapped,269.192,1,2,1
+CroppedFoam,kelp-urchin-barren-viz,812,Not Swapped,339.532,1,4,1
+CroppedFoam,kelp-urchin-barren-predict,813,Not Swapped,391.684,1,1,1
+CroppedFoam,kelp-mussel-fest,814,Not Swapped,402.015,1,2,1
+CroppedFoam,kelp-start-refuge,815,Not Swapped,997.625,1,2,1
+CroppedFoam,coral-stressed,816,Not Swapped,297.911,1,2,1
+CroppedFoam,arctic-missing-whale,817,Not Swapped,604.478,1,3,1
+CroppedFoam,arctic-salmon-monitoring,818,Not Swapped,632.944,1,1,1
+CroppedFoam,kelp-save-urchin-barren,819,Not Swapped,1381.455,2,1,1
+CroppedFoam,bayou-boom-cause,820,Not Swapped,400.598,1,2,1
+CroppedFoam,bayou-alt-energy,821,Not Swapped,1634.589,1,3,1
+CroppedFoam,bayou-blue-waters,822,Not Swapped,1121.628,1,3,0
+CroppedHabit,kelp-welcome,823,Not Swapped,466.997,1,6,1
+CroppedHabit,kelp-bull-kelp-forest,824,Not Swapped,417.866,1,2,1
+CroppedHabit,kelp-shop-welcome,825,Not Swapped,127.122,1,3,1
+CroppedHabit,kelp-energy,826,Not Swapped,167.439,1,1,1
+CuddlySmith,kelp-welcome,828,Not Swapped,514.922,1,6,1
+CuddlySmith,kelp-bull-kelp-forest,829,Not Swapped,329.56,1,2,1
+CuddlySmith,kelp-shop-welcome,830,Not Swapped,180.878,1,3,1
+CuddlySmith,kelp-energy,831,Not Swapped,325.365,2,1,1
+CuddlySmith,arctic-missing-whale,832,Swapped,904.6490000000001,3,0,0
+CuddlySmith,arctic-salmon-monitoring,833,Not Swapped,785.764,4,1,1
+CuddlySmith,arctic-missing-whale,834,Swapped,626.156,3,0,0
+CuddlySmith,displaced-reef,835,Not Swapped,210.15300000000002,2,2,0
+DaftSea,displaced-reef,838,Not Swapped,417.361,1,3,1
+DaftSea,bayou-shrimp-yields,839,Not Swapped,216.958,1,1,1
+DaftSea,coral-turtle-population,840,Not Swapped,145.348,1,1,1
+DaftSea,coral-fake-fix,841,Not Swapped,492.935,2,3,2
+DaftSea,coral-lionfish-conspiracy,842,Not Swapped,255.821,1,3,1
+DaftSea,coral-stressed,843,Not Swapped,5319.675,2,2,1
+DaftSea,kelp-urchin-barren-viz,844,Not Swapped,382.866,1,4,1
+DaftSea,kelp-energy,845,Not Swapped,50.019,1,0,0
+DaintyHutch,kelp-welcome,846,Not Swapped,532.744,1,6,1
+DaintyHutch,kelp-bull-kelp-forest,847,Not Swapped,461.221,1,2,1
+DaintyHutch,kelp-shop-welcome,848,Not Swapped,147.008,1,0,0
+DaintySewer,bayou-alt-energy,849,Swapped,110.318,1,0,0
+DaintySewer,turtle-danger,850,Not Swapped,462.643,1,0,0
+DamagedMarch,bayou-alt-energy,851,Swapped,564.922,1,0,0
+DamagedMarch,arctic-in-ice,852,Not Swapped,618.726,1,2,1
+DamagedMarch,arctic-isolated-instance,853,Not Swapped,301.496,1,0,0
+DecentCycle,kelp-welcome,855,Not Swapped,456.811,1,6,1
+DecentCycle,kelp-bull-kelp-forest,856,Not Swapped,329.304,1,2,1
+DecentCycle,kelp-shop-welcome,857,Not Swapped,293.587,1,3,1
+DecentCycle,displaced-reef,858,Not Swapped,151.244,1,3,1
+DecentCycle,bayou-shrimp-yields,859,Not Swapped,306.605,1,1,1
+DecentCycle,arctic-missing-whale,860,Swapped,775.685,1,1,0
+DecentCycle,arctic-salmon-monitoring,861,Not Swapped,166.661,1,1,1
+DecentCycle,arctic-missing-whale,862,Not Swapped,224.392,1,2,1
+DecentCycle,coral-turtle-population,863,Not Swapped,29.699,1,0,1
+DecentCycle,coral-fake-fix,864,Not Swapped,507.063,1,3,1
+DecentCycle,coral-lionfish-conspiracy,865,Not Swapped,156.96,1,2,1
+DecentCycle,kelp-urchin-barren-viz,866,Not Swapped,233.956,1,4,1
+DecentCycle,kelp-urchin-barren-predict,867,Not Swapped,248.375,1,1,1
+DecentCycle,kelp-energy,868,Not Swapped,141.461,1,1,1
+DecentCycle,kelp-mussel-fest,869,Not Swapped,307.287,1,3,1
+DecentCycle,kelp-start-refuge,870,Not Swapped,432.217,1,2,1
+DecentCycle,bayou-blue-waters,871,Not Swapped,612.227,1,5,1
+DecentCycle,bayou-oxygen-tracking,872,Not Swapped,440.816,1,3,1
+DecentCycle,bayou-boom-cause,873,Not Swapped,567.978,1,2,1
+DecentCycle,bayou-alt-energy,874,Not Swapped,1745.68,1,2,1
+DecentCycle,bayou-dirty-detritus,875,Not Swapped,304.938,1,3,1
+DecentCycle,bayou-methanogen,876,Not Swapped,1011.231,2,3,1
+DecentCycle,bayou-shrimp-tastrophe,877,Not Swapped,979.011,1,1,1
+DecentCycle,arctic-disappearing-act,878,Not Swapped,1626.258,2,3,1
+DecentCycle,arctic-cause-of-death,879,Not Swapped,1022.5649999999999,2,2,1
+DecentCycle,arctic-time-of-death,880,Not Swapped,288.878,1,1,1
+DecentCycle,kelp-save-urchin-barren,881,Not Swapped,223.649,1,1,1
+DecentCycle,kelp-musselfest-solution,882,Not Swapped,175.769,1,3,1
+DecentCycle,kelp-refuge-failure,883,Not Swapped,642.735,1,8,1
+DecentCycle,coral-fishy-bizz,884,Not Swapped,138.24,1,1,1
+DecentCycle,coral-much-algae,885,Not Swapped,631.436,1,5,1
+DecentCycle,coral-stressed,886,Not Swapped,231.049,1,2,1
+DecentCycle,coral-ocean-plastics,887,Not Swapped,699.68,1,2,1
+DecentCycle,coral-casting-shade,888,Not Swapped,414.495,2,6,2
+DecentCycle,coral-tang-checkup,889,Not Swapped,398.786,1,5,1
+DecentCycle,final-final,890,Not Swapped,864.75,1,7,1
+DeviousHaze,arctic-cause-of-death,891,Not Swapped,1098.612,1,1,0
+DevotedNylon,coral-fake-fix,892,Not Swapped,454.194,1,2,1
+DevotedNylon,coral-lionfish-conspiracy,893,Not Swapped,1044.617,1,2,1
+DevotedNylon,bayou-boom-cause,894,Not Swapped,44736.319,1,2,1
+DevotedNylon,turtle-danger,895,Swapped,1999.907,3,1,0
+DevotedNylon,bayou-alt-energy,896,Swapped,1171.057,2,0,0
+DevotedNylon,kelp-mussel-fest,897,Not Swapped,2013.973,1,2,1
+DevotedNylon,kelp-urchin-barren-viz,898,Not Swapped,550.282,1,4,1
+DevotedNylon,arctic-seal-habitats,899,Swapped,1180.1689999999999,2,3,0
+DevotedNylon,arctic-isolated-instance,900,Not Swapped,1139.562,1,8,1
+DevotedNylon,arctic-disappearing-act,901,Not Swapped,6233.137,1,1,1
+DevotedNylon,arctic-cause-of-death,902,Not Swapped,455.801,1,3,1
+DevotedNylon,arctic-time-of-death,903,Swapped,388.698,2,0,0
+DevotedNylon,kelp-start-refuge,904,Not Swapped,699.518,1,2,1
+DevotedNylon,turtle-danger,905,Not Swapped,513.496,3,3,1
+DevotedNylon,bayou-alt-energy,906,Not Swapped,11963.295,2,2,1
+DevotedNylon,bayou-blue-waters,907,Swapped,7969.621,2,1,0
+DevotedNylon,bayou-oxygen-tracking,908,Swapped,62238.675,2,0,0
+DevotedNylon,coral-casting-shade,909,Swapped,1542.18,2,1,0
+DevotedNylon,kelp-refuge-failure,910,Swapped,1670.193,2,8,0
+DevotedNylon,arctic-time-of-death,911,Swapped,731.198,2,1,0
+DevotedNylon,arctic-in-ice,912,Swapped,358.304,1,0,0
+DevotedNylon,bayou-oxygen-tracking,913,Not Swapped,1185.154,2,2,1
+DevotedNylon,bayou-blue-waters,914,Not Swapped,665.365,2,1,1
+DirectAgent,coral-hunting-lions,916,Swapped,236.987,3,0,0
+DirectAgent,coral-turtle-stability,917,Not Swapped,582.461,1,1,1
+DirectAgent,coral-hunting-lions,918,Swapped,390.549,3,0,0
+DirectAgent,arctic-endangered-seals,919,Not Swapped,2194.738,1,0,0
+DiverseTuxedo,kelp-bull-kelp-forest,920,Not Swapped,140.178,1,1,1
+DiverseTuxedo,kelp-shop-welcome,921,Not Swapped,179.13,1,3,1
+DiverseTuxedo,displaced-reef,922,Not Swapped,222.387,2,0,1
+DiverseTuxedo,bayou-shrimp-yields,923,Not Swapped,706.166,1,1,1
+DiverseTuxedo,coral-turtle-population,924,Not Swapped,113.454,1,1,1
+DiverseTuxedo,coral-fake-fix,925,Not Swapped,460.97799999999995,3,2,0
+DomesticUnion,kelp-welcome,927,Not Swapped,399.031,1,6,1
+DomesticUnion,kelp-bull-kelp-forest,928,Not Swapped,329.875,1,1,0
+DoubtingRebel,coral-ocean-plastics,930,Not Swapped,87.49,1,0,0
+DownwardPerch,kelp-welcome,931,Not Swapped,501.615,1,6,1
+DownwardPerch,kelp-bull-kelp-forest,932,Not Swapped,480.906,1,2,1
+DownwardPerch,kelp-shop-welcome,933,Not Swapped,176.547,1,3,1
+DownwardPerch,coral-turtle-population,934,Not Swapped,61.205,1,0,1
+DownwardPerch,arctic-missing-whale,935,Swapped,614.444,2,1,0
+DownwardPerch,arctic-salmon-monitoring,936,Not Swapped,215.761,1,1,1
+DownwardPerch,displaced-reef,937,Not Swapped,268.891,1,3,1
+DownwardPerch,bayou-shrimp-yields,938,Not Swapped,368.58299999999997,2,1,1
+DownwardPerch,arctic-missing-whale,939,Not Swapped,513.273,2,1,1
+DownwardPerch,arctic-underneath,940,Not Swapped,489.592,1,1,1
+DownwardPerch,arctic-stationary-survival,941,Not Swapped,397.066,1,1,1
+DownwardPerch,kelp-energy,942,Not Swapped,433.581,1,1,1
+DownwardPerch,kelp-mussel-fest,943,Not Swapped,445.472,2,2,1
+DownwardPerch,kelp-start-refuge,944,Not Swapped,324.65200000000004,2,2,1
+DownwardPerch,kelp-urchin-barren-viz,945,Not Swapped,323.182,1,4,1
+DownwardPerch,kelp-musselfest-solution,946,Not Swapped,362.985,1,3,1
+DownwardPerch,kelp-urchin-farm,947,Not Swapped,247.009,1,2,1
+DownwardPerch,kelp-refuge-failure,948,Not Swapped,1539.381,2,8,1
+DownwardPerch,kelp-refuge-failure-simulation,949,Not Swapped,164.454,1,1,1
+DownwardPerch,kelp-urchin-barren-predict,950,Not Swapped,214.468,1,1,1
+DownwardPerch,kelp-save-urchin-barren,951,Not Swapped,239.465,2,2,1
+DownwardPerch,coral-fake-fix,952,Not Swapped,528.727,1,3,1
+DownwardPerch,coral-turtle-stability,953,Not Swapped,473.441,1,3,1
+DownwardPerch,arctic-disappearing-act,954,Not Swapped,2019.084,1,1,1
+DownwardPerch,arctic-cause-of-death,955,Not Swapped,1025.86,1,3,1
+DownwardPerch,arctic-time-of-death,956,Not Swapped,424.106,1,0,1
+DownwardPerch,arctic-seal-habitats,957,Not Swapped,431.825,1,2,1
+DownwardPerch,above-n-below,958,Not Swapped,674.186,1,3,1
+DownwardPerch,coral-lionfish-conspiracy,959,Not Swapped,136.865,1,2,1
+DownwardPerch,coral-stressed,960,Not Swapped,231.936,1,2,1
+DressTorte,kelp-welcome,961,Not Swapped,448.41,1,6,1
+DressTorte,kelp-bull-kelp-forest,962,Not Swapped,246.705,1,2,1
+DressTorte,kelp-shop-welcome,963,Not Swapped,145.71,1,3,1
+DressTorte,kelp-energy,964,Not Swapped,174.662,1,1,1
+DressTorte,arctic-missing-whale,965,Swapped,1663.447,4,1,0
+DressTorte,coral-turtle-population,966,Not Swapped,49.54,1,0,1
+DressTorte,displaced-reef,967,Swapped,536.25,1,2,0
+DressTorte,bayou-shrimp-yields,968,Not Swapped,213.987,1,1,1
+DressTorte,displaced-reef,969,Not Swapped,66.965,1,0,1
+DressTorte,arctic-missing-whale,970,Not Swapped,1371.2150000000001,4,1,1
+DressTorte,arctic-salmon-monitoring,971,Not Swapped,186.432,1,1,1
+DressTorte,arctic-underneath,972,Not Swapped,267.116,2,1,1
+DressTorte,kelp-urchin-barren-viz,973,Not Swapped,316.342,1,4,1
+DressTorte,kelp-start-refuge,974,Not Swapped,296.027,2,2,1
+DressTorte,kelp-mussel-fest,975,Not Swapped,1408.444,1,2,1
+DressTorte,kelp-urchin-barren-predict,976,Not Swapped,244.67700000000002,2,1,1
+DressTorte,kelp-musselfest-solution,977,Not Swapped,1264.849,4,3,1
+DressTorte,kelp-urchin-farm,978,Not Swapped,224.677,1,1,1
+DressTorte,kelp-refuge-failure,979,Not Swapped,1235.373,2,8,1
+DressTorte,kelp-refuge-failure-simulation,980,Not Swapped,108.223,1,1,1
+DressTorte,arctic-seal-habitats,981,Not Swapped,682.982,1,4,1
+DressTorte,arctic-in-ice,982,Not Swapped,151.515,1,2,1
+DressTorte,kelp-save-urchin-barren,983,Not Swapped,735.0559999999999,3,1,1
+DressTorte,arctic-picky-eaters,984,Not Swapped,371.707,1,2,1
+DressTorte,above-n-below,985,Not Swapped,639.627,2,3,1
+DressTorte,arctic-stationary-survival,986,Not Swapped,293.618,1,1,1
+DryAbbey,kelp-welcome,988,Not Swapped,332.466,1,6,1
+DryAbbey,kelp-bull-kelp-forest,989,Not Swapped,207.385,1,2,1
+DryAbbey,kelp-shop-welcome,990,Not Swapped,219.184,1,3,1
+EarlyMud,arctic-missing-whale,991,Swapped,735.447,4,0,0
+EarlyMud,kelp-energy,992,Not Swapped,318.413,1,1,1
+EarlyMud,bayou-shrimp-yields,993,Not Swapped,363.193,1,1,1
+EarlyMud,displaced-reef,994,Swapped,1028.838,4,1,0
+EarlyMud,arctic-missing-whale,995,Swapped,570.785,4,1,0
+EarlyMud,displaced-reef,996,Not Swapped,350.328,4,2,1
+EarlyMud,arctic-underneath,997,Not Swapped,83.901,1,0,1
+EarlyMud,coral-turtle-population,998,Not Swapped,334.143,1,1,1
+EarlyMud,coral-fake-fix,999,Swapped,1236.284,2,3,0
+EarlyMud,kelp-start-refuge,1000,Not Swapped,369.935,1,2,1
+EarlyMud,coral-fake-fix,1001,Swapped,1253.384,2,0,0
+EarlyMud,arctic-missing-whale,1002,Not Swapped,155.09,4,0,1
+EarlyMud,kelp-mussel-fest,1003,Swapped,687.546,1,0,0
+EarlyMud,kelp-urchin-barren-viz,1004,Not Swapped,493.708,1,4,1
+EarlyMud,coral-stressed,1005,Not Swapped,662.3530000000001,2,0,1
+EarlyMud,arctic-stationary-survival,1006,Not Swapped,185.0,1,1,1
+EarlyMud,bayou-boom-cause,1007,Not Swapped,351.861,1,2,1
+EastThrill,kelp-welcome,1010,Not Swapped,791.599,1,6,1
+EastThrill,kelp-bull-kelp-forest,1011,Not Swapped,584.54,1,2,1
+EastThrill,kelp-shop-welcome,1012,Not Swapped,344.345,1,3,1
+EastThrill,kelp-energy,1013,Not Swapped,106.005,1,1,0
+EitherFrame,kelp-welcome,1014,Not Swapped,290.073,1,6,1
+EitherFrame,kelp-bull-kelp-forest,1015,Not Swapped,203.529,1,2,1
+EitherFrame,kelp-shop-welcome,1016,Not Swapped,200.614,1,3,1
+EitherFrame,kelp-energy,1017,Not Swapped,122.749,1,1,1
+EmptyGlobe,coral-hunting-lions,1018,Not Swapped,1479.045,1,4,1
+EmptyGlobe,turtle-danger,1019,Not Swapped,517.338,1,1,0
+EndemicTheory,kelp-welcome,1020,Not Swapped,1486.805,1,6,1
+EndemicTheory,kelp-bull-kelp-forest,1021,Not Swapped,251.734,1,1,0
+ErodingFactor,kelp-welcome,1023,Not Swapped,3953.356,1,6,1
+ErodingFactor,kelp-bull-kelp-forest,1024,Not Swapped,802.367,1,2,1
+ErodingFactor,kelp-shop-welcome,1025,Not Swapped,10696.614,1,3,1
+ErodingFactor,arctic-salmon-monitoring,1026,Not Swapped,1178.915,1,1,1
+ErodingFactor,arctic-missing-whale,1027,Not Swapped,281.485,1,0,0
+ErrantShape,kelp-welcome,1029,Not Swapped,424.126,1,6,1
+ErrantShape,kelp-bull-kelp-forest,1030,Not Swapped,353.038,1,2,1
+ErrantShape,kelp-shop-welcome,1031,Not Swapped,148.424,1,3,1
+ErrantShape,kelp-energy,1032,Not Swapped,243.547,1,1,1
+ErrantShape,coral-turtle-population,1033,Not Swapped,2424.1040000000003,6,0,1
+ErrantShape,displaced-reef,1034,Not Swapped,48.266,1,2,0
+EternalSnack,bayou-alt-energy,1035,Not Swapped,1820.888,1,2,1
+EternalSnack,bayou-shrimp-yields,1036,Not Swapped,137.097,1,1,1
+EternalSnack,bayou-blue-waters,1037,Not Swapped,461.378,1,4,1
+EternalSnack,bayou-dirty-detritus,1038,Not Swapped,240.431,1,4,1
+EternalSnack,bayou-oxygen-tracking,1039,Not Swapped,290.697,1,2,1
+EternalSnack,bayou-methanogen,1040,Not Swapped,456.22999999999996,2,3,1
+EternalSnack,turtle-danger,1041,Not Swapped,1453.186,3,3,1
+EternalSnack,turtle-danger2,1042,Not Swapped,583.657,1,2,1
+EternalSnack,bayou-hide-n-seek,1043,Not Swapped,432.304,1,2,1
+EternalSnack,bayou-reef-decision,1044,Not Swapped,241.678,1,1,1
+EternalSnack,bayou-shrimp-tastrophe,1045,Not Swapped,1215.409,1,1,1
+EternalSnack,arctic-endangered-seals,1046,Not Swapped,1231.77,1,2,1
+EternalSnack,kelp-refuge-failure-simulation,1047,Not Swapped,100.216,1,1,1
+EternalSnack,kelp-save-urchin-barren,1048,Not Swapped,258.543,1,1,1
+EternalSnack,kelp-urchin-farm,1049,Not Swapped,240.455,1,1,1
+EventfulIce,kelp-welcome,1051,Not Swapped,464.134,1,6,1
+EventfulIce,kelp-bull-kelp-forest,1052,Not Swapped,307.223,1,2,1
+EventfulIce,kelp-shop-welcome,1053,Not Swapped,4008.535,1,3,1
+EventfulIce,kelp-energy,1054,Not Swapped,163.205,1,1,1
+EventfulIce,displaced-reef,1055,Not Swapped,194.85,1,3,1
+EventfulIce,bayou-shrimp-yields,1056,Not Swapped,272.657,1,1,1
+EventfulIce,coral-turtle-population,1057,Not Swapped,28.164,1,0,1
+EventfulIce,coral-fake-fix,1058,Not Swapped,1517.401,1,3,1
+EventfulIce,coral-stressed,1059,Not Swapped,454.341,1,2,1
+EventfulIce,coral-lionfish-conspiracy,1060,Not Swapped,240.175,1,2,1
+EventfulIce,arctic-missing-whale,1061,Not Swapped,541.081,1,3,1
+EventfulIce,arctic-salmon-monitoring,1062,Not Swapped,83.73,1,0,1
+EventfulIce,kelp-urchin-barren-viz,1063,Not Swapped,368.948,1,4,1
+EventfulIce,kelp-mussel-fest,1064,Not Swapped,327.918,1,3,1
+EventfulIce,kelp-musselfest-solution,1065,Not Swapped,295.508,1,3,1
+EventfulIce,kelp-urchin-farm,1066,Not Swapped,219.369,1,2,1
+EventfulIce,kelp-start-refuge,1067,Not Swapped,366.361,1,2,1
+EventfulIce,turtle-danger,1068,Not Swapped,1326.523,1,4,1
+EventfulIce,bayou-blue-waters,1069,Swapped,1426.872,1,2,0
+EventfulIce,coral-ocean-plastics,1070,Not Swapped,413.751,1,2,1
+EventfulIce,coral-turtle-stability,1071,Not Swapped,98.524,1,1,1
+EventfulIce,coral-much-algae,1072,Not Swapped,279.645,1,3,1
+EventfulIce,coral-tang-checkup,1073,Not Swapped,300.818,1,5,1
+EventfulIce,coral-casting-shade,1074,Not Swapped,920.348,1,5,1
+EventfulIce,coral-eat-seaweed,1075,Not Swapped,474.781,1,1,1
+EventfulIce,arctic-seal-habitats,1076,Not Swapped,548.108,1,5,1
+EventfulIce,arctic-disappearing-act,1077,Not Swapped,5609.2,1,1,1
+EventfulIce,above-n-below,1078,Not Swapped,448.137,1,4,1
+EventfulIce,arctic-time-of-death,1079,Not Swapped,6812.304,1,0,1
+EventfulIce,arctic-cause-of-death,1080,Not Swapped,286.99,1,1,1
+EventfulIce,arctic-endangered-seals,1081,Swapped,7667.235,1,0,0
+EventfulIce,arctic-underneath,1082,Not Swapped,46151.513,1,0,1
+EventfulIce,arctic-stationary-survival,1083,Not Swapped,157.755,1,1,1
+EventfulIce,arctic-in-ice,1084,Not Swapped,182.925,1,2,1
+EventfulIce,kelp-urchin-barren-predict,1085,Not Swapped,135.591,1,1,1
+EventfulIce,kelp-save-urchin-barren,1086,Not Swapped,230.812,1,1,1
+EventfulIce,kelp-refuge-failure,1087,Not Swapped,882.042,1,8,1
+EventfulIce,kelp-refuge-failure-simulation,1088,Not Swapped,114.75,1,1,1
+EventfulIce,final-final,1089,Not Swapped,869.536,1,7,1
+EventfulIce,bayou-blue-waters,1090,Not Swapped,354.53,1,2,1
+EventfulIce,bayou-boom-cause,1091,Not Swapped,65.999,1,0,1
+EventfulIce,bayou-alt-energy,1092,Not Swapped,447667.989,2,1,0
+EventfulSafety,kelp-welcome,1093,Not Swapped,11879.268,1,6,1
+EventfulSafety,kelp-bull-kelp-forest,1094,Not Swapped,165.079,1,1,0
+ExtremeBureau,kelp-welcome,1096,Not Swapped,450.466,1,6,1
+ExtremeBureau,kelp-bull-kelp-forest,1097,Not Swapped,341.694,2,2,1
+ExtremeBureau,kelp-shop-welcome,1098,Not Swapped,440.219,1,3,1
+FabledBark,coral-hunting-lions,1099,Not Swapped,1590.944,2,4,1
+FabledBark,arctic-seal-habitats,1100,Not Swapped,322.07800000000003,2,5,1
+FabledBark,above-n-below,1101,Not Swapped,108.116,1,2,1
+FabledBark,arctic-disappearing-act,1102,Not Swapped,665.729,4,1,1
+FabledBark,arctic-cause-of-death,1103,Not Swapped,348.73,1,3,1
+FabledBark,arctic-in-ice,1104,Not Swapped,222.203,1,2,1
+FabledBark,arctic-salmon-competition,1105,Not Swapped,301.265,1,2,1
+FabledBark,arctic-picky-eaters,1106,Not Swapped,219.515,3,2,1
+FactualCameo,kelp-welcome,1107,Not Swapped,704.062,2,6,1
+FactualCameo,kelp-bull-kelp-forest,1108,Not Swapped,222.924,1,1,0
+FadedHanger,kelp-welcome,1109,Not Swapped,815.453,1,6,1
+FadedHanger,kelp-bull-kelp-forest,1110,Not Swapped,4017.646,1,2,0
+FavoriteWit,kelp-urchin-barren-viz,1111,Not Swapped,96.699,1,0,1
+FavoriteWit,arctic-missing-whale,1112,Not Swapped,904.288,2,3,1
+FavoriteWit,arctic-salmon-monitoring,1113,Not Swapped,202.58,1,0,1
+FavoriteWit,kelp-mussel-fest,1114,Not Swapped,95.097,1,0,0
+FederalBowler,kelp-welcome,1115,Not Swapped,252.525,1,6,1
+FederalBowler,kelp-bull-kelp-forest,1116,Not Swapped,212.877,1,2,1
+FederalBowler,kelp-shop-welcome,1117,Not Swapped,152.122,1,3,1
+FederalBowler,arctic-missing-whale,1118,Swapped,536.261,2,0,0
+FederalBowler,arctic-salmon-monitoring,1119,Not Swapped,484.857,1,1,1
+FederalBowler,arctic-missing-whale,1120,Swapped,453.319,2,1,0
+FederalBowler,kelp-energy,1121,Not Swapped,174.736,1,1,1
+FederalBowler,coral-turtle-population,1122,Not Swapped,122.824,1,1,1
+FederalBowler,arctic-missing-whale,1123,Not Swapped,242.231,2,2,1
+FederalBowler,arctic-underneath,1124,Not Swapped,6900.308,1,1,1
+FederalBowler,bayou-shrimp-yields,1125,Not Swapped,242.8,1,1,1
+FederalBowler,kelp-urchin-barren-viz,1126,Not Swapped,309.818,1,4,1
+FederalBowler,kelp-urchin-barren-predict,1127,Not Swapped,214.84,1,1,1
+FederalBowler,arctic-stationary-survival,1128,Not Swapped,201.713,2,1,1
+FederalBowler,displaced-reef,1129,Not Swapped,339.452,1,3,1
+FederalBowler,bayou-boom-cause,1130,Not Swapped,185.049,1,2,1
+FederalBowler,arctic-disappearing-act,1131,Not Swapped,12913.318,1,0,0
+FestiveFruit,kelp-welcome,1132,Not Swapped,349.724,1,6,1
+FestiveFruit,kelp-bull-kelp-forest,1133,Not Swapped,433.462,1,2,1
+FestiveFruit,kelp-shop-welcome,1134,Not Swapped,207.653,1,3,1
+FestiveFruit,arctic-missing-whale,1135,Not Swapped,1932.122,2,3,0
+FittedWick,kelp-welcome,1136,Not Swapped,406.994,1,6,1
+FittedWick,kelp-bull-kelp-forest,1137,Not Swapped,401.184,1,2,1
+FittedWick,kelp-shop-welcome,1138,Not Swapped,310.685,1,3,1
+FittedWick,kelp-energy,1139,Not Swapped,115.924,1,1,1
+FittedWick,coral-turtle-population,1140,Not Swapped,29.252,1,0,1
+FittedWick,bayou-shrimp-yields,1141,Not Swapped,414.95,1,1,1
+FittedWick,arctic-salmon-monitoring,1142,Not Swapped,260.252,1,0,1
+FittedWick,arctic-missing-whale,1143,Not Swapped,273.247,1,1,1
+FittedWick,arctic-underneath,1144,Not Swapped,352.135,1,0,1
+FittedWick,arctic-stationary-survival,1145,Not Swapped,58344.814,1,1,1
+FittedWick,displaced-reef,1146,Not Swapped,154.618,1,0,1
+FittedWick,kelp-mussel-fest,1147,Not Swapped,650.073,1,2,1
+FittedWick,kelp-urchin-barren-viz,1148,Not Swapped,343.346,1,4,1
+FittedWick,kelp-musselfest-solution,1149,Not Swapped,180.929,1,1,1
+FittedWick,kelp-urchin-farm,1150,Not Swapped,100.571,1,0,1
+FittedWick,kelp-urchin-barren-predict,1151,Not Swapped,591.05,1,1,1
+FittedWick,kelp-save-urchin-barren,1152,Not Swapped,234.555,1,1,1
+FittedWick,kelp-start-refuge,1153,Not Swapped,79.789,1,0,1
+FittedWick,kelp-refuge-failure,1154,Not Swapped,915.418,1,8,1
+FittedWick,arctic-seal-habitats,1155,Not Swapped,114.806,1,0,1
+FittedWick,above-n-below,1156,Not Swapped,608.861,1,2,1
+FittedWick,arctic-in-ice,1157,Not Swapped,773.85,1,1,1
+FittedWick,arctic-isolated-instance,1158,Not Swapped,67.709,1,0,1
+FittedWick,arctic-disappearing-act,1159,Not Swapped,1534.102,1,1,1
+FittedWick,coral-turtle-stability,1160,Not Swapped,12515.87,1,3,1
+FittedWick,coral-ocean-plastics,1161,Not Swapped,182.884,1,1,1
+FittedWick,bayou-boom-cause,1162,Not Swapped,90.717,1,0,1
+FittedWick,bayou-alt-energy,1163,Not Swapped,7233.159,2,2,1
+FittedWick,bayou-methanogen,1164,Swapped,1231.587,1,1,0
+FittedWick,arctic-cause-of-death,1165,Not Swapped,244.463,1,1,1
+FittedWick,coral-fishy-bizz,1166,Not Swapped,176.584,1,1,1
+FittedWick,coral-fake-fix,1167,Not Swapped,120.652,1,0,1
+FittedWick,coral-much-algae,1168,Not Swapped,597.782,1,3,1
+FittedWick,coral-tang-checkup,1169,Not Swapped,45439.161,1,1,1
+FittedWick,coral-lionfish-conspiracy,1170,Not Swapped,232.519,1,2,1
+FittedWick,bayou-blue-waters,1171,Not Swapped,431.339,1,2,1
+FittedWick,bayou-dirty-detritus,1172,Not Swapped,193.192,1,1,1
+FittedWick,turtle-danger,1173,Not Swapped,594.544,1,2,1
+FittedWick,turtle-danger2,1174,Not Swapped,2600.18,1,1,1
+FittedWick,bayou-hide-n-seek,1175,Not Swapped,2407.924,1,2,1
+FittedWick,bayou-reef-decision,1176,Not Swapped,3164.317,1,1,1
+FittedWick,bayou-methanogen,1177,Not Swapped,263.825,1,1,1
+FittedWick,final-final,1178,Not Swapped,983.7,2,1,1
+FittedWick,coral-hunting-lions,1179,Not Swapped,110.79,1,0,0
+FiveThorn,kelp-welcome,1180,Not Swapped,230.294,1,6,1
+FiveThorn,kelp-bull-kelp-forest,1181,Not Swapped,211.38,1,2,1
+FiveThorn,kelp-shop-welcome,1182,Not Swapped,105.28,1,3,1
+FiveThorn,kelp-energy,1183,Not Swapped,116.6,1,1,1
+FiveThorn,displaced-reef,1184,Not Swapped,281.335,1,3,1
+FiveThorn,bayou-shrimp-yields,1185,Not Swapped,138.902,1,1,1
+FiveThorn,arctic-missing-whale,1186,Not Swapped,231.67,1,3,1
+FiveThorn,arctic-salmon-monitoring,1187,Not Swapped,260.235,1,1,1
+FiveThorn,coral-turtle-population,1188,Not Swapped,152.97,1,1,1
+FiveThorn,coral-fake-fix,1189,Not Swapped,395.26,1,3,1
+FiveThorn,coral-lionfish-conspiracy,1190,Not Swapped,164.528,1,2,1
+FiveThorn,coral-stressed,1191,Not Swapped,346.803,2,2,2
+FiveThorn,kelp-mussel-fest,1192,Not Swapped,172.218,1,2,1
+FiveThorn,kelp-start-refuge,1193,Not Swapped,113.802,1,2,1
+FiveThorn,kelp-urchin-barren-viz,1194,Not Swapped,177.6,1,4,1
+FiveThorn,kelp-urchin-barren-predict,1195,Not Swapped,117.281,1,1,1
+FixedVan,kelp-welcome,1196,Not Swapped,887.298,1,6,1
+FixedVan,kelp-bull-kelp-forest,1197,Not Swapped,395.742,1,2,0
+FlexibleToe,kelp-welcome,1199,Not Swapped,348.55,1,6,1
+FlexibleToe,kelp-bull-kelp-forest,1200,Not Swapped,343.824,1,2,1
+FlexibleToe,kelp-shop-welcome,1201,Not Swapped,343.37,1,2,0
+FlippantLuxury,kelp-welcome,1203,Not Swapped,473.044,1,6,1
+FlippantLuxury,kelp-bull-kelp-forest,1204,Not Swapped,340.752,1,2,1
+FlippantLuxury,kelp-shop-welcome,1205,Not Swapped,208.009,1,3,1
+FlippantLuxury,kelp-energy,1206,Not Swapped,242.242,1,1,1
+FlippantLuxury,arctic-salmon-monitoring,1207,Not Swapped,97.979,1,0,1
+FlippantLuxury,arctic-missing-whale,1208,Swapped,1456.3110000000001,2,1,0
+FlippantLuxury,coral-turtle-population,1209,Not Swapped,72.968,1,0,1
+FlippantLuxury,coral-fake-fix,1210,Not Swapped,460.753,1,3,1
+FlippantLuxury,coral-lionfish-conspiracy,1211,Not Swapped,597.643,1,3,1
+FlippantLuxury,arctic-missing-whale,1212,Not Swapped,77.989,2,0,1
+FlippantLuxury,arctic-underneath,1213,Not Swapped,1788.363,1,1,0
+FloatingAnimal,kelp-welcome,1214,Not Swapped,242.41,1,6,1
+FloatingAnimal,kelp-bull-kelp-forest,1215,Not Swapped,190.334,1,2,1
+FloatingAnimal,kelp-shop-welcome,1216,Not Swapped,213.113,1,3,1
+FloatingAnimal,kelp-energy,1217,Not Swapped,515.299,1,1,1
+FloatingAnimal,displaced-reef,1218,Not Swapped,464.066,1,3,1
+FloatingAnimal,bayou-shrimp-yields,1219,Not Swapped,450.446,2,1,2
+FloatingAnimal,coral-turtle-population,1220,Not Swapped,38.548,1,0,1
+FloatingAnimal,coral-fake-fix,1221,Not Swapped,657.623,1,3,1
+FloatingAnimal,coral-lionfish-conspiracy,1222,Not Swapped,348.325,1,2,1
+FloatingAnimal,kelp-urchin-barren-viz,1223,Not Swapped,369.305,1,2,0
+FloodedLemur,coral-casting-shade,1225,Swapped,367.959,1,0,0
+FloodedLemur,kelp-start-refuge,1226,Not Swapped,301.29,1,2,1
+FloodedLemur,kelp-refuge-failure,1227,Not Swapped,1252.888,1,8,1
+FloodedLemur,kelp-urchin-farm,1228,Not Swapped,17.366,1,0,0
+FoamyOutrun,kelp-welcome,1230,Not Swapped,769.869,1,6,1
+FoamyOutrun,kelp-bull-kelp-forest,1231,Not Swapped,602.259,1,2,1
+FoamyOutrun,kelp-shop-welcome,1232,Not Swapped,279.142,1,3,1
+FoamyOutrun,kelp-energy,1233,Not Swapped,351.398,2,1,1
+FoamyOutrun,coral-turtle-population,1234,Not Swapped,679.497,1,1,1
+FoamyOutrun,bayou-shrimp-yields,1235,Not Swapped,323.987,1,1,1
+FoamyOutrun,coral-fake-fix,1236,Not Swapped,461.949,2,1,0
+FourthCarp,coral-turtle-population,1237,Not Swapped,137.967,1,1,1
+FourthCarp,coral-fake-fix,1238,Not Swapped,362.854,1,3,1
+FourthCarp,coral-lionfish-conspiracy,1239,Not Swapped,295.276,1,3,1
+FourthCarp,arctic-salmon-monitoring,1240,Not Swapped,144.333,1,1,1
+FourthCarp,arctic-missing-whale,1241,Not Swapped,193.108,1,3,1
+FourthCarp,kelp-urchin-barren-predict,1242,Not Swapped,198.776,1,1,1
+FourthCarp,kelp-start-refuge,1243,Not Swapped,393.073,1,2,1
+FourthCarp,kelp-mussel-fest,1244,Not Swapped,409.555,1,2,1
+FourthCarp,bayou-boom-cause,1245,Not Swapped,233.687,1,2,1
+FourthCarp,bayou-alt-energy,1246,Not Swapped,7513.472,2,3,1
+FourthCarp,bayou-blue-waters,1247,Swapped,1374.739,2,4,0
+FourthCarp,bayou-oxygen-tracking,1248,Not Swapped,1543.257,2,2,1
+FourthCarp,kelp-musselfest-solution,1249,Not Swapped,311.492,1,3,1
+FourthCarp,kelp-refuge-failure,1250,Swapped,2472.612,2,5,0
+FourthCarp,kelp-urchin-farm,1251,Not Swapped,487.871,2,1,1
+FourthCarp,bayou-blue-waters,1252,Swapped,853.547,2,0,0
+FourthCarp,coral-fishy-bizz,1253,Not Swapped,574.8720000000001,2,1,1
+FourthCarp,coral-hunting-lions,1254,Not Swapped,546.144,2,0,0
+FragrantAction,kelp-welcome,1255,Not Swapped,690.645,1,6,1
+FragrantAction,kelp-bull-kelp-forest,1256,Not Swapped,496.655,1,2,1
+FragrantAction,kelp-shop-welcome,1257,Not Swapped,291.278,1,3,1
+FragrantAction,kelp-energy,1258,Not Swapped,247.832,1,1,1
+FrequentJuice,kelp-welcome,1260,Not Swapped,413.725,2,5,1
+FrequentJuice,kelp-bull-kelp-forest,1261,Not Swapped,309.922,1,2,1
+FrequentJuice,kelp-shop-welcome,1262,Not Swapped,144.771,1,3,1
+FrequentJuice,kelp-energy,1263,Not Swapped,264.998,1,1,1
+FrontJudge,arctic-seal-habitats,1264,Swapped,1377.614,1,1,0
+FrontJudge,coral-lionfish-conspiracy,1265,Not Swapped,502.101,1,2,1
+FrontJudge,arctic-underneath,1266,Not Swapped,196.475,1,0,1
+FrontJudge,arctic-stationary-survival,1267,Not Swapped,1077.039,1,1,1
+FrontJudge,arctic-isolated-instance,1268,Not Swapped,5026.466,1,7,1
+FrontJudge,turtle-danger,1269,Swapped,15092.803,5,0,0
+FrontJudge,kelp-urchin-barren-predict,1270,Swapped,1693.799,1,0,0
+FrontJudge,kelp-musselfest-solution,1271,Swapped,906.337,2,0,0
+FrontJudge,arctic-in-ice,1272,Not Swapped,352.419,1,2,1
+FrontJudge,arctic-salmon-competition,1273,Not Swapped,2796.632,1,2,1
+FrontJudge,bayou-alt-energy,1274,Not Swapped,1580.759,1,2,1
+FrontJudge,coral-casting-shade,1275,Not Swapped,1863.973,2,8,1
+FrontJudge,coral-eat-seaweed,1276,Not Swapped,499.594,1,1,1
+FrontJudge,coral-much-algae,1277,Not Swapped,2926.466,1,2,1
+FrontJudge,coral-tang-checkup,1278,Not Swapped,997.182,1,5,1
+FrontJudge,bayou-blue-waters,1279,Swapped,1743.776,2,2,0
+FrontJudge,bayou-oxygen-tracking,1280,Not Swapped,413.045,1,2,1
+FrontJudge,arctic-disappearing-act,1281,Not Swapped,1518.527,1,1,1
+FrontJudge,kelp-urchin-farm,1282,Not Swapped,551.286,1,1,1
+FrontJudge,bayou-methanogen,1283,Not Swapped,2670.683,2,2,1
+FrontJudge,bayou-blue-waters,1284,Not Swapped,824.066,2,2,1
+FrontJudge,bayou-dirty-detritus,1285,Not Swapped,496.49,1,2,1
+FrontJudge,bayou-shrimp-tastrophe,1286,Swapped,65349.51,3,1,0
+FrontJudge,final-final,1287,Not Swapped,3773.598,1,7,1
+FrontJudge,arctic-cause-of-death,1288,Not Swapped,641.099,1,2,1
+FrontJudge,turtle-danger,1289,Not Swapped,16624.716,5,0,0
+FrostySigh,kelp-welcome,1290,Not Swapped,382.981,1,6,1
+FrostySigh,kelp-bull-kelp-forest,1291,Not Swapped,233.5,1,2,1
+FrostySigh,kelp-shop-welcome,1292,Not Swapped,248.619,1,3,1
+FrostySigh,kelp-energy,1293,Not Swapped,284.197,2,1,2
+FrostySigh,arctic-missing-whale,1294,Not Swapped,330.54,1,0,0
+FurryWindow,kelp-welcome,1295,Not Swapped,262.34,1,6,1
+FurryWindow,kelp-bull-kelp-forest,1296,Not Swapped,1390.671,1,2,1
+FurryWindow,kelp-shop-welcome,1297,Not Swapped,83.56,1,3,1
+FurryWindow,bayou-shrimp-yields,1298,Not Swapped,2228.568,1,1,1
+FurryWindow,displaced-reef,1299,Not Swapped,721.902,1,3,1
+FurryWindow,coral-turtle-population,1300,Not Swapped,279.625,1,1,1
+FurryWindow,arctic-missing-whale,1301,Not Swapped,368.899,1,3,1
+FurryWindow,arctic-salmon-monitoring,1302,Not Swapped,1207.537,1,1,1
+FurryWindow,arctic-underneath,1303,Not Swapped,39.55,1,0,1
+FurryWindow,arctic-stationary-survival,1304,Not Swapped,413.698,1,1,1
+FurryWindow,kelp-energy,1305,Not Swapped,283.9,1,1,1
+FurryWindow,kelp-urchin-barren-viz,1306,Not Swapped,866.22,1,4,1
+FurryWindow,coral-fake-fix,1307,Not Swapped,892.484,1,3,1
+FurryWindow,coral-lionfish-conspiracy,1308,Not Swapped,62209.893000000004,2,3,1
+FurryWindow,arctic-disappearing-act,1309,Not Swapped,852.551,1,2,1
+FurryWindow,arctic-in-ice,1310,Not Swapped,448.046,1,2,1
+FurryWindow,arctic-seal-habitats,1311,Not Swapped,5061.108,1,5,1
+FurryWindow,above-n-below,1312,Not Swapped,388.251,1,4,1
+FurryWindow,arctic-time-of-death,1313,Not Swapped,338.411,1,0,0
+GenerousGavel,kelp-welcome,1314,Not Swapped,453.08,1,6,1
+GenerousGavel,kelp-bull-kelp-forest,1315,Not Swapped,150.428,1,2,1
+GenerousGavel,kelp-shop-welcome,1316,Not Swapped,99.662,1,3,1
+GenerousGavel,coral-turtle-population,1317,Not Swapped,1209.293,1,0,1
+GenerousGavel,kelp-energy,1318,Not Swapped,312.457,1,1,1
+GenerousGavel,arctic-salmon-monitoring,1319,Not Swapped,216.412,1,1,1
+GenerousGavel,arctic-missing-whale,1320,Not Swapped,681.828,1,3,1
+GenerousGavel,coral-fake-fix,1321,Not Swapped,1792.323,2,3,1
+GenerousGavel,coral-lionfish-conspiracy,1322,Not Swapped,42.515,1,0,1
+GenerousGavel,kelp-urchin-barren-viz,1323,Not Swapped,238.11,1,4,1
+GenerousGavel,kelp-urchin-barren-predict,1324,Not Swapped,175.811,1,1,1
+GenerousGavel,kelp-start-refuge,1325,Not Swapped,165.028,1,2,1
+GenerousGavel,kelp-mussel-fest,1326,Not Swapped,390.155,1,2,1
+GenerousGavel,coral-stressed,1327,Not Swapped,80.643,1,0,1
+GenerousGavel,displaced-reef,1328,Not Swapped,311.558,2,3,1
+GenerousGavel,kelp-urchin-farm,1329,Not Swapped,213.393,1,1,1
+GenerousGavel,kelp-musselfest-solution,1330,Swapped,202.228,1,0,0
+GenerousGavel,arctic-underneath,1331,Not Swapped,289.074,1,1,1
+GentleHoof,kelp-welcome,1332,Not Swapped,633.156,1,6,1
+GentleHoof,kelp-bull-kelp-forest,1333,Not Swapped,1738.38,1,0,0
+GiddyCash,kelp-welcome,1334,Not Swapped,290.539,1,6,1
+GiddyCash,kelp-bull-kelp-forest,1335,Not Swapped,162.488,1,2,1
+GiddyCash,kelp-shop-welcome,1336,Not Swapped,111.608,1,3,1
+GiddyCash,coral-turtle-population,1337,Not Swapped,27.004,1,0,1
+GiddyCash,displaced-reef,1338,Not Swapped,190.734,1,3,1
+GiddyCash,bayou-shrimp-yields,1339,Not Swapped,122.438,1,1,1
+GiddyCash,kelp-energy,1340,Not Swapped,108.44,1,1,1
+GiddyCash,kelp-urchin-barren-viz,1341,Not Swapped,247.015,1,4,1
+GiddyCash,kelp-mussel-fest,1342,Not Swapped,208.434,1,2,1
+GiddyCash,kelp-start-refuge,1343,Not Swapped,170.234,1,2,1
+GiddyCash,arctic-missing-whale,1344,Not Swapped,135.155,1,1,1
+GiddyCash,arctic-salmon-monitoring,1345,Not Swapped,50.059,1,0,1
+GiddyCash,arctic-underneath,1346,Not Swapped,53.384,1,0,1
+GiddyCash,arctic-stationary-survival,1347,Not Swapped,131.478,1,1,1
+GiddyCash,coral-fake-fix,1348,Not Swapped,209.154,1,1,1
+GiddyCash,coral-lionfish-conspiracy,1349,Not Swapped,301.085,1,2,1
+GiddyCash,coral-stressed,1350,Not Swapped,248.765,1,2,1
+GiddyCash,coral-ocean-plastics,1351,Not Swapped,393.056,1,1,1
+GiddyCash,kelp-musselfest-solution,1352,Not Swapped,338.543,1,3,1
+GiddyCash,kelp-refuge-failure,1353,Not Swapped,831.68,1,8,1
+GiddyCash,kelp-refuge-failure-simulation,1354,Not Swapped,130.691,1,1,1
+GiddyCash,kelp-urchin-barren-predict,1355,Not Swapped,141.026,1,1,1
+GiddyCash,kelp-urchin-farm,1356,Not Swapped,4809.758000000001,2,1,1
+GiddyCash,kelp-save-urchin-barren,1357,Not Swapped,202.575,1,1,1
+GiddyCash,coral-casting-shade,1358,Not Swapped,533.742,1,6,1
+GiddyCash,coral-eat-seaweed,1359,Not Swapped,333.213,1,1,1
+GiddyCash,coral-fishy-bizz,1360,Not Swapped,165.964,1,1,1
+GiddyCash,coral-turtle-stability,1361,Not Swapped,118.375,1,1,1
+GiddyCash,arctic-disappearing-act,1362,Not Swapped,459.741,1,1,1
+GiddyCash,arctic-seal-habitats,1363,Not Swapped,485.204,1,2,1
+GiddyCash,coral-hunting-lions,1364,Not Swapped,2223.867,2,9,1
+GiddyCash,coral-much-algae,1365,Not Swapped,227.115,1,1,1
+GiddyCash,coral-tang-checkup,1366,Not Swapped,166.382,1,1,1
+GiddyCash,final-final,1367,Not Swapped,648.973,2,1,1
+GlassyDoll,kelp-welcome,1368,Not Swapped,403.224,1,6,1
+GlassyDoll,kelp-bull-kelp-forest,1369,Not Swapped,309.592,1,2,1
+GlassyDoll,kelp-shop-welcome,1370,Not Swapped,229.927,1,3,1
+GlassyDoll,kelp-energy,1371,Not Swapped,474.806,1,1,1
+GlassyDoll,coral-turtle-population,1372,Not Swapped,50.666,1,0,1
+GlassyDoll,arctic-missing-whale,1373,Swapped,527.857,2,0,0
+GlassyDoll,arctic-salmon-monitoring,1374,Not Swapped,206.123,1,1,1
+GlassyDoll,arctic-missing-whale,1375,Not Swapped,501.339,2,3,1
+GlassyDoll,coral-fake-fix,1376,Not Swapped,854.348,1,3,1
+GlassyDoll,coral-lionfish-conspiracy,1377,Not Swapped,476.669,1,3,1
+GlassyDoll,kelp-urchin-barren-viz,1378,Not Swapped,414.468,1,4,1
+GlassyDoll,kelp-urchin-barren-predict,1379,Not Swapped,235.734,1,1,1
+GlassyDoll,arctic-underneath,1380,Not Swapped,328.30800000000005,2,1,1
+GlassyDoll,arctic-stationary-survival,1381,Not Swapped,345.21,2,1,1
+GlassyDoll,arctic-in-ice,1382,Not Swapped,547.4449999999999,2,3,1
+GlassyDoll,kelp-start-refuge,1383,Not Swapped,414.739,1,2,1
+GlassyDoll,kelp-mussel-fest,1384,Not Swapped,279.43,1,2,1
+GlassyDoll,coral-turtle-stability,1385,Not Swapped,569.359,1,3,1
+GlassyDoll,coral-ocean-plastics,1386,Not Swapped,177.829,1,1,1
+GlassyDoll,arctic-disappearing-act,1387,Not Swapped,860.932,1,1,1
+GlassyDoll,arctic-seal-habitats,1388,Not Swapped,958.355,2,2,0
+GlobularPliers,kelp-welcome,1389,Not Swapped,526.986,1,6,1
+GlobularPliers,kelp-bull-kelp-forest,1390,Not Swapped,384.214,1,2,1
+GlobularPliers,kelp-shop-welcome,1391,Not Swapped,251.54,1,3,1
+GlobularPliers,coral-turtle-population,1392,Not Swapped,55.031,1,0,1
+GlobularPliers,kelp-energy,1393,Not Swapped,193.792,1,1,1
+GlobularPliers,arctic-missing-whale,1394,Swapped,24.639,1,0,0
+GlobularPliers,arctic-salmon-monitoring,1395,Not Swapped,336.178,1,0,1
+GlobularPliers,displaced-reef,1396,Swapped,22.298,1,0,0
+GlobularPliers,bayou-shrimp-yields,1397,Swapped,581.117,1,0,0
+GlobularPliers,kelp-urchin-barren-viz,1398,Not Swapped,428.722,1,2,1
+GlobularPliers,arctic-missing-whale,1399,Not Swapped,76.244,1,0,1
+GlobularPliers,bayou-shrimp-yields,1400,Not Swapped,26.879,1,0,1
+GlobularPliers,displaced-reef,1401,Not Swapped,63.999,1,0,1
+GlobularPliers,coral-fake-fix,1402,Not Swapped,288.695,1,1,1
+GlobularPliers,coral-lionfish-conspiracy,1403,Not Swapped,151.897,1,2,1
+GlobularPliers,coral-stressed,1404,Not Swapped,409.616,1,2,1
+GlobularPliers,kelp-mussel-fest,1405,Swapped,120.839,1,0,0
+GlobularPliers,kelp-start-refuge,1406,Swapped,39.892,1,0,0
+GlobularPliers,kelp-urchin-barren-predict,1407,Swapped,164.261,1,0,0
+GlobularPliers,kelp-start-refuge,1408,Not Swapped,160.515,1,1,1
+GlobularPliers,kelp-mussel-fest,1409,Not Swapped,503.916,1,3,1
+GlobularPliers,kelp-urchin-barren-predict,1410,Not Swapped,96.622,1,1,1
+GlobularPliers,arctic-disappearing-act,1411,Swapped,24.68,3,0,0
+GlobularPliers,arctic-in-ice,1412,Swapped,27.749,1,0,0
+GlobularPliers,arctic-seal-habitats,1413,Swapped,54.253,2,0,0
+GlobularPliers,arctic-disappearing-act,1414,Swapped,721.806,3,0,0
+GlobularPliers,arctic-in-ice,1415,Swapped,5.866,1,0,0
+GlobularPliers,arctic-seal-habitats,1416,Swapped,151.708,2,0,0
+GlobularPliers,arctic-in-ice,1417,Not Swapped,94.953,1,0,1
+GlobularPliers,arctic-underneath,1418,Not Swapped,129.154,1,0,1
+GlobularPliers,arctic-stationary-survival,1419,Not Swapped,171.91,1,1,1
+GlobularPliers,arctic-isolated-instance,1420,Not Swapped,418.634,1,7,1
+GlobularPliers,coral-turtle-stability,1421,Not Swapped,372.006,1,3,1
+GlobularPliers,coral-casting-shade,1422,Swapped,33.398,1,0,0
+GlobularPliers,coral-fishy-bizz,1423,Swapped,31.08,1,0,0
+GlobularPliers,coral-hunting-lions,1424,Swapped,41.47,1,0,0
+GlobularPliers,coral-much-algae,1425,Not Swapped,275.498,1,2,1
+GlobularPliers,coral-tang-checkup,1426,Swapped,56.193,1,1,0
+GlobularPliers,coral-hunting-lions,1427,Swapped,208.962,1,0,0
+GlobularPliers,kelp-musselfest-solution,1428,Swapped,25.513,1,0,0
+GlobularPliers,kelp-refuge-failure,1429,Swapped,37.866,1,0,0
+GlobularPliers,kelp-save-urchin-barren,1430,Swapped,27.321,1,0,0
+GlobularPliers,kelp-urchin-farm,1431,Swapped,18.148,1,0,0
+GlobularPliers,kelp-save-urchin-barren,1432,Not Swapped,437.647,1,1,1
+GlobularPliers,kelp-musselfest-solution,1433,Not Swapped,25.456,1,1,1
+GlobularPliers,kelp-urchin-farm,1434,Not Swapped,28.66,1,0,1
+GlobularPliers,kelp-refuge-failure,1435,Not Swapped,682.002,1,8,1
+GlobularPliers,kelp-refuge-failure-simulation,1436,Not Swapped,124.212,1,1,1
+GlobularPliers,bayou-blue-waters,1437,Swapped,26.614,1,0,0
+GlobularPliers,bayou-boom-cause,1438,Swapped,41.218,1,0,0
+GlobularPliers,bayou-oxygen-tracking,1439,Swapped,14.045,1,0,0
+GlobularPliers,turtle-danger,1440,Swapped,836.033,1,1,0
+GlobularPliers,bayou-blue-waters,1441,Not Swapped,361.376,1,3,1
+GlobularPliers,bayou-oxygen-tracking,1442,Not Swapped,71707.484,1,2,1
+GlobularPliers,bayou-dirty-detritus,1443,Not Swapped,452.317,1,2,1
+GlobularPliers,bayou-shrimp-tastrophe,1444,Swapped,1401.448,1,1,0
+GlobularPliers,bayou-boom-cause,1445,Not Swapped,89.655,1,0,1
+GlobularPliers,bayou-alt-energy,1446,Swapped,798.513,1,0,0
+GlobularPliers,turtle-danger,1447,Swapped,248.141,1,0,0
+GlobularPliers,arctic-picky-eaters,1448,Not Swapped,79124.493,1,2,1
+GlobularPliers,arctic-salmon-competition,1449,Swapped,709.605,2,1,0
+GlobularPliers,coral-casting-shade,1450,Swapped,12.274000000000001,1,0,0
+GlobularPliers,coral-fishy-bizz,1451,Swapped,6.609,1,0,0
+GlobularPliers,coral-hunting-lions,1452,Swapped,3.464,1,0,0
+GlobularPliers,coral-tang-checkup,1453,Swapped,372.554,1,0,0
+GlobularPliers,coral-casting-shade,1454,Swapped,10.072,1,0,0
+GlobularPliers,coral-ocean-plastics,1455,Swapped,327.243,1,0,0
+GlobularPliers,coral-casting-shade,1456,Not Swapped,2888.482,1,6,1
+GlobularPliers,coral-eat-seaweed,1457,Swapped,302.305,1,0,0
+GlobularPliers,coral-fishy-bizz,1458,Not Swapped,142.91,1,1,1
+GlobularPliers,coral-ocean-plastics,1459,Swapped,2.8609999999999998,1,0,0
+GlobularPliers,coral-eat-seaweed,1460,Swapped,2.291,1,0,0
+GlobularPliers,coral-hunting-lions,1461,Swapped,91.86,1,0,0
+GlobularPliers,bayou-alt-energy,1462,Swapped,387.713,1,0,0
+GlobularPliers,coral-tang-checkup,1463,Not Swapped,167.102,1,2,1
+GlobularPliers,coral-ocean-plastics,1464,Swapped,7.432,1,0,0
+GlobularPliers,coral-hunting-lions,1465,Swapped,504.42,1,0,0
+GlobularPliers,coral-ocean-plastics,1466,Swapped,2.457,1,0,0
+GlobularPliers,coral-eat-seaweed,1467,Swapped,149.82,1,0,0
+GlobularPliers,final-final,1468,Not Swapped,582.674,1,1,1
+GlobularPliers,arctic-seal-habitats,1469,Not Swapped,488.518,2,2,1
+GlobularPliers,above-n-below,1470,Not Swapped,224.926,1,1,1
+GlobularPliers,arctic-endangered-seals,1471,Swapped,1158.655,1,1,0
+GlobularPliers,arctic-salmon-competition,1472,Not Swapped,170.059,2,0,1
+GlobularPliers,arctic-disappearing-act,1473,Not Swapped,133463.53100000002,3,0,0
+GlossyRush,kelp-welcome,1474,Not Swapped,723.958,1,6,1
+GlossyRush,kelp-bull-kelp-forest,1475,Not Swapped,210.87199999999999,2,0,0
+GlumDip,arctic-disappearing-act,1476,Not Swapped,2203.535,2,1,1
+GlumDip,bayou-shrimp-yields,1477,Not Swapped,175.293,1,1,1
+GlumDip,displaced-reef,1478,Not Swapped,189.009,1,3,1
+GlumDip,kelp-urchin-barren-predict,1479,Not Swapped,483.675,1,1,1
+GlumFlair,kelp-welcome,1480,Not Swapped,218.122,2,7,1
+GlumFlair,kelp-bull-kelp-forest,1481,Not Swapped,109.053,1,2,1
+GlumFlair,kelp-shop-welcome,1482,Not Swapped,95.985,1,3,1
+GlumFlair,kelp-energy,1483,Not Swapped,75.75,1,1,1
+GlumFlair,arctic-salmon-monitoring,1484,Not Swapped,42.803,1,0,1
+GlumFlair,arctic-missing-whale,1485,Swapped,691.145,1,1,0
+GlumFlair,coral-turtle-population,1486,Not Swapped,20.118,1,0,1
+GlumFlair,coral-fake-fix,1487,Not Swapped,214.598,1,3,1
+GlumFlair,coral-lionfish-conspiracy,1488,Not Swapped,133.548,1,2,1
+GlumFlair,coral-stressed,1489,Not Swapped,208.519,1,2,1
+GlumFlair,displaced-reef,1490,Not Swapped,85.75,1,3,1
+GlumFlair,bayou-shrimp-yields,1491,Not Swapped,130.449,1,1,1
+GlumFlair,arctic-missing-whale,1492,Not Swapped,165.019,1,1,1
+GlumFlair,kelp-mussel-fest,1493,Not Swapped,186.443,1,3,1
+GlumFlair,kelp-urchin-barren-viz,1494,Not Swapped,228.89,1,4,1
+GlumFlair,kelp-start-refuge,1495,Not Swapped,107.055,1,2,1
+GlumFlair,kelp-musselfest-solution,1496,Not Swapped,143.508,1,3,1
+GlumFlair,kelp-urchin-farm,1497,Not Swapped,126.958,1,2,1
+GlumFlair,kelp-refuge-failure,1498,Not Swapped,682.663,1,8,1
+GlumFlair,kelp-urchin-barren-predict,1499,Not Swapped,102.049,1,1,1
+GlumFlair,kelp-refuge-failure-simulation,1500,Not Swapped,192.605,1,1,1
+GlumFlair,kelp-save-urchin-barren,1501,Not Swapped,201.529,1,1,1
+GlumFlair,bayou-blue-waters,1502,Not Swapped,338.624,1,5,1
+GlumFlair,bayou-dirty-detritus,1503,Not Swapped,141.288,1,2,1
+GlumFlair,bayou-oxygen-tracking,1504,Not Swapped,167.835,1,2,1
+GlumFlair,bayou-shrimp-tastrophe,1505,Not Swapped,15297.049,1,1,1
+GlumFlair,turtle-danger,1506,Not Swapped,435.968,1,3,1
+GlumFlair,turtle-danger2,1507,Not Swapped,808.911,1,2,1
+GlumFlair,bayou-hide-n-seek,1508,Not Swapped,441.352,1,4,1
+GlumFlair,bayou-reef-decision,1509,Not Swapped,188.366,1,1,1
+GlumFlair,bayou-boom-cause,1510,Not Swapped,260.322,1,2,1
+GlumFlair,bayou-alt-energy,1511,Not Swapped,408.22,1,2,1
+GlumFlair,bayou-methanogen,1512,Not Swapped,270.967,1,2,1
+GlumFlair,coral-casting-shade,1513,Not Swapped,431.25800000000004,2,6,1
+GlumFlair,coral-eat-seaweed,1514,Not Swapped,125.646,1,1,1
+GlumFlair,coral-fishy-bizz,1515,Not Swapped,181.129,1,3,1
+GlumFlair,final-final,1516,Not Swapped,656.222,1,7,1
+GlumFlair,coral-turtle-stability,1517,Not Swapped,218.631,1,2,1
+GlumFlair,coral-ocean-plastics,1518,Not Swapped,94.5,1,1,1
+GlumFlair,coral-much-algae,1519,Not Swapped,142.93,1,3,1
+GlumFlair,coral-tang-checkup,1520,Not Swapped,187.997,1,5,1
+GlumFlair,coral-hunting-lions,1521,Not Swapped,775.59,1,7,1
+GlumFlair,arctic-disappearing-act,1522,Not Swapped,52725.719,1,1,1
+GlumFlair,arctic-time-of-death,1523,Not Swapped,221.8,1,1,1
+GlumFlair,arctic-cause-of-death,1524,Not Swapped,267.368,1,1,1
+GlumFlair,arctic-in-ice,1525,Not Swapped,144.319,1,2,1
+GlumFlair,arctic-salmon-competition,1526,Not Swapped,163.383,1,1,1
+GlumFlair,arctic-picky-eaters,1527,Not Swapped,148.232,1,2,1
+GlumFlair,arctic-seal-habitats,1528,Not Swapped,315.512,1,4,1
+GlumFlair,above-n-below,1529,Not Swapped,304.631,1,4,1
+GlumFlair,arctic-underneath,1530,Not Swapped,35.331,1,0,1
+GlumFlair,arctic-stationary-survival,1531,Not Swapped,100.031,1,1,1
+GlumFlair,arctic-isolated-instance,1532,Not Swapped,430.2,1,7,1
+GlumFlair,arctic-endangered-seals,1533,Not Swapped,1132.909,1,0,0
+GnarlyDance,kelp-welcome,1534,Not Swapped,327.711,1,6,1
+GnarlyDance,kelp-bull-kelp-forest,1535,Not Swapped,147.635,1,2,1
+GnarlyDance,kelp-shop-welcome,1536,Not Swapped,149.081,1,3,1
+GnarlyDance,kelp-energy,1537,Not Swapped,122.15,1,1,1
+GnarlyDance,coral-turtle-population,1538,Not Swapped,383.716,1,1,1
+GoldOnion,kelp-save-urchin-barren,1539,Not Swapped,61.055,1,0,1
+GoldOnion,kelp-refuge-failure-simulation,1540,Not Swapped,1202.138,3,1,2
+GoldOnion,bayou-dirty-detritus,1541,Not Swapped,610.943,1,2,1
+GoldOnion,bayou-shrimp-tastrophe,1542,Swapped,786.619,1,0,0
+GoldOnion,coral-much-algae,1543,Not Swapped,242.218,1,2,0
+GraciousPint,kelp-welcome,1545,Not Swapped,451.874,1,6,1
+GraciousPint,kelp-bull-kelp-forest,1546,Not Swapped,352.019,1,2,1
+GraciousPint,kelp-shop-welcome,1547,Not Swapped,229.673,1,3,1
+GraciousPint,kelp-energy,1548,Not Swapped,354.705,1,1,1
+GraciousPint,arctic-missing-whale,1549,Not Swapped,1002.4259999999999,3,1,0
+GratefulMetal,bayou-shrimp-yields,1550,Not Swapped,780.327,1,1,1
+GratefulMetal,arctic-missing-whale,1551,Not Swapped,271.067,1,1,0
+GreedyOzone,kelp-welcome,1552,Not Swapped,345.154,1,6,1
+GreedyOzone,kelp-bull-kelp-forest,1553,Not Swapped,246.704,1,2,1
+GreedyOzone,kelp-shop-welcome,1554,Not Swapped,162.654,1,3,1
+GreedyOzone,coral-turtle-population,1555,Not Swapped,426.089,2,1,1
+GreedyOzone,displaced-reef,1556,Not Swapped,275.186,1,3,1
+GreedyOzone,bayou-shrimp-yields,1557,Not Swapped,239.504,1,1,1
+GreedyOzone,arctic-missing-whale,1558,Not Swapped,1.017,1,0,0
+GroovyMain,kelp-welcome,1560,Not Swapped,883.857,3,6,1
+GroovyMain,kelp-bull-kelp-forest,1561,Not Swapped,375.11199999999997,4,2,1
+GroovyMain,kelp-shop-welcome,1562,Not Swapped,399.638,1,3,1
+GroovyMain,kelp-energy,1563,Not Swapped,383.01,1,1,0
+GutsyTuba,kelp-welcome,1565,Not Swapped,581.143,1,6,1
+GutsyTuba,kelp-bull-kelp-forest,1566,Not Swapped,471.235,1,2,1
+GutsyTuba,kelp-shop-welcome,1567,Not Swapped,239.221,1,3,1
+GutsyTuba,kelp-energy,1568,Not Swapped,235.297,1,1,1
+GutsyTuba,coral-turtle-population,1569,Not Swapped,154.249,1,1,1
+HabitualVision,kelp-welcome,1570,Not Swapped,425.093,1,6,1
+HabitualVision,kelp-bull-kelp-forest,1571,Not Swapped,282.571,1,2,1
+HabitualVision,kelp-shop-welcome,1572,Not Swapped,347.521,1,3,1
+HabitualVision,arctic-missing-whale,1573,Swapped,884.757,2,1,0
+HabitualVision,coral-turtle-population,1574,Not Swapped,100.12,1,0,1
+HabitualVision,displaced-reef,1575,Not Swapped,160.848,1,3,1
+HabitualVision,bayou-shrimp-yields,1576,Not Swapped,168.465,2,1,1
+HabitualVision,arctic-underneath,1577,Not Swapped,302.637,1,1,1
+HappyBagel,kelp-welcome,1578,Not Swapped,1642.936,1,6,1
+HappyBagel,kelp-bull-kelp-forest,1579,Not Swapped,275.073,2,2,1
+HappyBagel,kelp-shop-welcome,1580,Not Swapped,226.421,1,3,1
+HappyBagel,displaced-reef,1581,Not Swapped,452.31,1,3,1
+HappyBagel,bayou-shrimp-yields,1582,Swapped,800.0830000000001,2,0,0
+HappyBagel,coral-turtle-population,1583,Not Swapped,48.91,1,0,1
+HappyBagel,arctic-salmon-monitoring,1584,Not Swapped,90.373,1,0,1
+HappyBagel,arctic-missing-whale,1585,Not Swapped,409.572,1,3,1
+HappyBagel,kelp-energy,1586,Not Swapped,198.195,1,1,1
+HappyBagel,bayou-shrimp-yields,1587,Not Swapped,190.897,2,0,0
+HazyTape,kelp-welcome,1589,Not Swapped,855.757,1,6,1
+HazyTape,kelp-bull-kelp-forest,1590,Not Swapped,290.943,1,2,1
+HazyTape,kelp-shop-welcome,1591,Not Swapped,1070.984,2,3,1
+HazyTape,kelp-energy,1592,Not Swapped,329.381,1,1,1
+HazyTape,arctic-salmon-monitoring,1593,Not Swapped,871.803,1,1,1
+HazyTape,arctic-missing-whale,1594,Swapped,1200.388,4,0,0
+HazyTape,coral-turtle-population,1595,Not Swapped,188.688,2,1,1
+HazyTape,arctic-missing-whale,1596,Not Swapped,368.94,4,3,1
+HazyTape,displaced-reef,1597,Not Swapped,532.894,1,3,1
+HazyTape,bayou-shrimp-yields,1598,Not Swapped,398.266,1,1,1
+HazyTape,kelp-urchin-barren-viz,1599,Not Swapped,1217.774,2,4,1
+HazyTape,coral-fake-fix,1600,Not Swapped,1715.5989999999997,4,3,1
+HazyTape,coral-lionfish-conspiracy,1601,Not Swapped,351.389,1,3,1
+HazyTape,coral-stressed,1602,Not Swapped,428.444,1,1,1
+HelpfulVan,kelp-welcome,1603,Not Swapped,262.816,1,6,1
+HelpfulVan,kelp-bull-kelp-forest,1604,Not Swapped,187.138,1,2,1
+HelpfulVan,kelp-shop-welcome,1605,Not Swapped,150.388,1,3,1
+HuggablePeak,kelp-welcome,1606,Not Swapped,523.177,1,6,1
+HuggablePeak,kelp-bull-kelp-forest,1607,Not Swapped,1404.3090000000002,2,2,1
+HuggablePeak,kelp-shop-welcome,1608,Not Swapped,278.398,1,3,1
+HuggablePeak,arctic-missing-whale,1609,Not Swapped,417.249,1,0,0
+ImmobileLoft,kelp-welcome,1610,Not Swapped,326.809,1,6,1
+ImmobileLoft,kelp-bull-kelp-forest,1611,Not Swapped,206.904,1,2,1
+ImmobileLoft,kelp-shop-welcome,1612,Not Swapped,7321.955,1,3,1
+ImmobileLoft,kelp-energy,1613,Not Swapped,129.296,1,1,1
+ImmobileLoft,displaced-reef,1614,Not Swapped,422.87,1,3,1
+ImmobileLoft,bayou-shrimp-yields,1615,Not Swapped,212.212,1,1,1
+ImmobileLoft,coral-turtle-population,1616,Not Swapped,161.971,1,1,1
+ImmobileLoft,coral-fake-fix,1617,Not Swapped,458.274,1,3,1
+ImmobileLoft,coral-lionfish-conspiracy,1618,Not Swapped,254.118,1,3,1
+ImmobileLoft,coral-stressed,1619,Not Swapped,13551.193,1,2,1
+ImmobileLoft,arctic-salmon-monitoring,1620,Not Swapped,227.073,1,1,1
+ImmobileLoft,arctic-missing-whale,1621,Not Swapped,344.791,1,3,1
+ImmobileLoft,kelp-mussel-fest,1622,Not Swapped,595.682,1,3,1
+ImmobileLoft,kelp-urchin-barren-viz,1623,Not Swapped,274.637,1,4,1
+ImmobileLoft,kelp-urchin-barren-predict,1624,Not Swapped,162.448,1,1,1
+ImmobileLoft,kelp-save-urchin-barren,1625,Not Swapped,6453.229,1,1,1
+ImmobileLoft,kelp-urchin-farm,1626,Not Swapped,275.748,1,1,1
+ImmobileLoft,kelp-start-refuge,1627,Not Swapped,256.547,1,2,1
+ImmobileLoft,kelp-refuge-failure,1628,Not Swapped,891.084,1,8,1
+ImmobileLoft,kelp-refuge-failure-simulation,1629,Not Swapped,110.269,1,1,1
+ImmobileLoft,kelp-musselfest-solution,1630,Not Swapped,241.32,1,3,1
+ImmobileLoft,bayou-blue-waters,1631,Not Swapped,550.121,1,5,1
+ImmobileLoft,bayou-oxygen-tracking,1632,Not Swapped,304.237,1,3,1
+ImmobileLoft,turtle-danger,1633,Not Swapped,584.616,1,3,1
+ImmobileLoft,turtle-danger2,1634,Not Swapped,9844.766,1,3,1
+ImmobileLoft,bayou-hide-n-seek,1635,Not Swapped,652.34,1,4,1
+ImmobileLoft,bayou-reef-decision,1636,Not Swapped,327.254,1,1,1
+ImmobileLoft,bayou-dirty-detritus,1637,Not Swapped,349.183,1,3,1
+ImmobileLoft,bayou-shrimp-tastrophe,1638,Not Swapped,1596.607,1,1,1
+ImmobileLoft,bayou-boom-cause,1639,Not Swapped,284.535,1,2,1
+ImmobileLoft,bayou-alt-energy,1640,Not Swapped,32886.772,1,3,1
+ImmobileLoft,bayou-methanogen,1641,Not Swapped,569.245,1,2,1
+ImmobileLoft,coral-turtle-stability,1642,Not Swapped,779.847,1,3,1
+ImmobileLoft,coral-fishy-bizz,1643,Not Swapped,160.682,1,1,1
+ImmobileLoft,coral-hunting-lions,1644,Not Swapped,4069.844,2,6,1
+ImmobileLoft,final-final,1645,Not Swapped,478.265,3,2,0
+ImproperScene,kelp-welcome,1647,Not Swapped,271.713,1,6,1
+ImproperScene,kelp-bull-kelp-forest,1648,Not Swapped,165.133,1,2,1
+ImproperScene,kelp-shop-welcome,1649,Not Swapped,97.427,1,3,1
+InherentMound,kelp-welcome,1650,Not Swapped,257.308,1,6,1
+InherentMound,kelp-bull-kelp-forest,1651,Not Swapped,233.401,1,2,1
+InherentMound,kelp-shop-welcome,1652,Not Swapped,113.733,1,3,1
+InherentMound,kelp-energy,1653,Not Swapped,136.737,1,1,1
+InherentMound,coral-turtle-population,1654,Not Swapped,86.05,1,1,1
+InherentMound,arctic-missing-whale,1655,Not Swapped,118.117,1,0,0
+InherentRoad,final-final,1656,Not Swapped,859.46,1,0,1
+InherentRoad,arctic-in-ice,1657,Not Swapped,738.541,1,2,1
+InherentRoad,arctic-picky-eaters,1658,Not Swapped,363.715,1,2,1
+InherentRoad,arctic-salmon-competition,1659,Not Swapped,381.254,1,1,1
+InherentRoad,arctic-isolated-instance,1660,Swapped,328.381,1,1,0
+InherentRoad,arctic-seal-habitats,1661,Not Swapped,915.8389999999999,3,4,1
+InherentRoad,above-n-below,1662,Not Swapped,280.179,1,3,1
+InherentRoad,arctic-endangered-seals,1663,Swapped,514.253,1,1,0
+InherentRoad,bayou-oxygen-tracking,1664,Not Swapped,338.179,1,2,1
+InherentRoad,turtle-danger,1665,Swapped,250.119,1,0,0
+InherentRoad,bayou-alt-energy,1666,Not Swapped,140.382,1,0,0
+InstantPeace,kelp-welcome,1667,Not Swapped,202.503,1,6,1
+InstantPeace,kelp-bull-kelp-forest,1668,Not Swapped,239.597,1,2,1
+InstantPeace,kelp-shop-welcome,1669,Not Swapped,213.149,1,3,1
+InstantPeace,coral-turtle-population,1670,Not Swapped,26.661,1,0,1
+InstantPeace,displaced-reef,1671,Not Swapped,126.871,1,0,1
+InstantPeace,bayou-shrimp-yields,1672,Not Swapped,161.091,1,1,1
+InstantPeace,coral-fake-fix,1673,Not Swapped,617.54,1,3,1
+InstantPeace,coral-lionfish-conspiracy,1674,Not Swapped,54.643,1,0,1
+InstantPeace,coral-stressed,1675,Not Swapped,429.663,1,2,1
+InstantPeace,kelp-energy,1676,Not Swapped,137.79,1,1,1
+InstantPeace,kelp-mussel-fest,1677,Not Swapped,365.753,1,2,1
+InstantPeace,kelp-urchin-barren-viz,1678,Not Swapped,233.301,1,4,1
+InstantPeace,kelp-urchin-barren-predict,1679,Not Swapped,130.031,1,1,1
+InstantPeace,kelp-start-refuge,1680,Not Swapped,178.434,1,1,1
+InstantPeace,arctic-salmon-monitoring,1681,Not Swapped,114.965,1,0,1
+InstantPeace,coral-turtle-stability,1682,Not Swapped,357.945,1,3,1
+InstantPeace,coral-casting-shade,1683,Not Swapped,528.508,1,6,1
+InstantPeace,coral-eat-seaweed,1684,Swapped,633.968,2,0,0
+InstantPeace,coral-much-algae,1685,Swapped,2420.001,3,2,0
+InstantPeace,bayou-blue-waters,1686,Swapped,980.42,2,3,0
+InstantPeace,bayou-boom-cause,1687,Not Swapped,3030.602,1,2,1
+InstantPeace,bayou-blue-waters,1688,Swapped,144.054,2,0,0
+InstantPeace,bayou-alt-energy,1689,Not Swapped,477.553,1,2,1
+InstantPeace,bayou-methanogen,1690,Not Swapped,713.763,1,2,1
+InstantPeace,bayou-blue-waters,1691,Swapped,209.349,2,0,0
+InstantPeace,coral-much-algae,1692,Not Swapped,18124.642,3,0,1
+InstantPeace,coral-eat-seaweed,1693,Not Swapped,195.224,2,1,1
+InstantPeace,coral-fishy-bizz,1694,Not Swapped,939.888,1,3,1
+InstantPeace,coral-tang-checkup,1695,Not Swapped,460.727,1,4,1
+InstantPeace,bayou-blue-waters,1696,Swapped,24.882,2,0,0
+InstantPeace,bayou-oxygen-tracking,1697,Not Swapped,353.272,1,2,1
+InstantPeace,turtle-danger,1698,Not Swapped,1985.901,1,3,1
+InstantPeace,arctic-seal-habitats,1699,Not Swapped,530.704,1,5,1
+InstantPeace,arctic-missing-whale,1700,Not Swapped,452.444,1,1,1
+InstantPeace,bayou-blue-waters,1701,Not Swapped,166.314,2,0,1
+InstantPeace,bayou-dirty-detritus,1702,Not Swapped,225.634,1,2,1
+InstantPeace,turtle-danger2,1703,Not Swapped,960.277,1,2,1
+InstantPeace,bayou-shrimp-tastrophe,1704,Not Swapped,72156.736,1,1,1
+InstantPeace,bayou-hide-n-seek,1705,Not Swapped,411.282,1,2,1
+InstantPeace,bayou-reef-decision,1706,Not Swapped,246.951,1,1,1
+InstantPeace,arctic-underneath,1707,Not Swapped,262.027,1,1,1
+InstantPeace,above-n-below,1708,Swapped,766.291,1,0,0
+InstantPeace,kelp-refuge-failure,1709,Not Swapped,630.317,1,8,1
+InstantPeace,kelp-urchin-farm,1710,Not Swapped,122.722,1,1,1
+InstantPeace,kelp-musselfest-solution,1711,Not Swapped,239.218,1,3,1
+InstantPeace,kelp-save-urchin-barren,1712,Not Swapped,106.069,1,1,1
+InstantPeace,kelp-refuge-failure-simulation,1713,Not Swapped,82.027,1,1,1
+InstantPeace,final-final,1714,Not Swapped,862.627,1,7,1
+InstantPeace,arctic-disappearing-act,1715,Not Swapped,8548.212,1,1,1
+InstantPeace,above-n-below,1716,Swapped,404.133,1,0,0
+InstantPeace,arctic-cause-of-death,1717,Not Swapped,295.85,1,1,1
+InstantPeace,arctic-time-of-death,1718,Not Swapped,82.487,1,0,1
+InstantPeace,arctic-in-ice,1719,Not Swapped,253.808,1,2,1
+InstantPeace,arctic-stationary-survival,1720,Not Swapped,172.102,1,1,1
+InstantPeace,arctic-isolated-instance,1721,Not Swapped,294.116,1,1,1
+InstantPeace,arctic-picky-eaters,1722,Not Swapped,199.775,1,2,1
+InstantPeace,arctic-salmon-competition,1723,Not Swapped,188.631,1,1,1
+InstantPeace,above-n-below,1724,Not Swapped,378.315,1,0,1
+InstantPeace,arctic-endangered-seals,1725,Not Swapped,1464.244,1,2,1
+InternalWash,kelp-welcome,1726,Not Swapped,1501.518,2,6,1
+InternalWash,kelp-bull-kelp-forest,1727,Not Swapped,286.003,1,2,1
+InternalWash,kelp-shop-welcome,1728,Not Swapped,194.565,1,2,0
+ItsPilot,kelp-welcome,1730,Not Swapped,252.654,1,6,1
+ItsPilot,kelp-bull-kelp-forest,1731,Not Swapped,230.414,1,2,1
+ItsPilot,kelp-shop-welcome,1732,Not Swapped,128.233,1,3,1
+ItsPilot,coral-turtle-population,1733,Not Swapped,72.964,1,0,1
+ItsPilot,displaced-reef,1734,Not Swapped,666.967,1,3,1
+ItsPilot,bayou-shrimp-yields,1735,Not Swapped,164.918,1,1,1
+ItsPilot,arctic-missing-whale,1736,Not Swapped,899.878,1,3,1
+ItsPilot,arctic-salmon-monitoring,1737,Not Swapped,350.41,1,1,1
+ItsPilot,kelp-energy,1738,Not Swapped,1135.248,1,1,1
+ItsPilot,coral-fake-fix,1739,Not Swapped,552.549,1,3,1
+ItsPilot,coral-lionfish-conspiracy,1740,Not Swapped,710.437,1,3,1
+ItsPilot,kelp-urchin-barren-viz,1741,Not Swapped,697.887,1,4,1
+ItsPilot,kelp-mussel-fest,1742,Not Swapped,570.087,1,3,1
+ItsPilot,kelp-start-refuge,1743,Not Swapped,313.13399999999996,2,2,2
+ItsPilot,bayou-blue-waters,1744,Not Swapped,1394.695,1,5,1
+ItsPilot,bayou-dirty-detritus,1745,Not Swapped,417.771,1,5,1
+ItsPilot,turtle-danger,1746,Not Swapped,740.977,1,3,1
+ItsPilot,turtle-danger2,1747,Not Swapped,12177.407000000001,3,3,1
+ItsPilot,arctic-disappearing-act,1748,Not Swapped,1368.629,1,2,1
+ItsPilot,arctic-cause-of-death,1749,Not Swapped,1181.109,1,2,1
+ItsPilot,arctic-in-ice,1750,Not Swapped,355.172,1,2,1
+ItsPilot,bayou-hide-n-seek,1751,Not Swapped,2138.628,1,2,1
+ItsPilot,bayou-oxygen-tracking,1752,Not Swapped,288.493,1,2,1
+ItsPilot,kelp-musselfest-solution,1753,Not Swapped,4244.951,2,3,1
+ItsPilot,kelp-refuge-failure,1754,Not Swapped,792.269,1,8,1
+ItsPilot,coral-much-algae,1755,Not Swapped,358.374,1,5,1
+ItsPilot,coral-tang-checkup,1756,Not Swapped,340.077,1,5,1
+ItsPilot,arctic-salmon-competition,1757,Not Swapped,1277.809,1,2,1
+ItsPilot,arctic-picky-eaters,1758,Not Swapped,236.769,1,2,1
+ItsPilot,arctic-time-of-death,1759,Not Swapped,126.402,1,0,1
+ItsPilot,arctic-underneath,1760,Not Swapped,311.793,1,1,1
+ItsPilot,kelp-refuge-failure-simulation,1761,Not Swapped,116.542,1,1,1
+ItsPilot,kelp-urchin-barren-predict,1762,Not Swapped,4301.99,1,1,1
+ItsPilot,kelp-urchin-farm,1763,Not Swapped,159.718,1,1,1
+ItsPilot,bayou-shrimp-tastrophe,1764,Not Swapped,2064.749,1,1,1
+ItsPilot,coral-turtle-stability,1765,Not Swapped,441.882,1,3,1
+ItsPilot,arctic-seal-habitats,1766,Not Swapped,605.999,1,4,1
+ItsPilot,arctic-stationary-survival,1767,Not Swapped,199.964,1,1,1
+ItsPilot,above-n-below,1768,Not Swapped,945.866,1,4,1
+ItsPilot,arctic-endangered-seals,1769,Not Swapped,4598.381,6,2,1
+ItsPilot,arctic-isolated-instance,1770,Not Swapped,906.806,1,7,1
+ItsPilot,coral-fishy-bizz,1771,Not Swapped,181.008,1,1,1
+ItsPilot,coral-hunting-lions,1772,Not Swapped,7989.763000000001,4,8,1
+ItsPilot,coral-stressed,1773,Not Swapped,186.527,2,2,1
+ItsPilot,coral-casting-shade,1774,Not Swapped,200.661,1,8,1
+ItsPilot,coral-eat-seaweed,1775,Not Swapped,471.143,1,1,1
+ItsPilot,bayou-boom-cause,1776,Not Swapped,1246.57,1,0,1
+ItsPilot,bayou-alt-energy,1777,Not Swapped,1626.369,3,3,1
+ItsPilot,kelp-save-urchin-barren,1778,Not Swapped,299.2,1,1,1
+ItsPilot,final-final,1779,Not Swapped,429.748,4,2,0
+JollyMusic,kelp-welcome,1780,Not Swapped,8801.911,1,6,1
+JollyMusic,kelp-bull-kelp-forest,1781,Not Swapped,344.873,1,2,1
+JollyMusic,kelp-shop-welcome,1782,Not Swapped,618.841,1,3,1
+JollyMusic,arctic-missing-whale,1783,Swapped,1778.774,2,0,0
+JollyMusic,kelp-energy,1784,Not Swapped,713.89,1,1,1
+JollyMusic,bayou-shrimp-yields,1785,Not Swapped,744.674,2,1,1
+JollyMusic,displaced-reef,1786,Not Swapped,915.404,1,3,1
+JollyMusic,arctic-underneath,1787,Not Swapped,573.914,2,1,2
+JollyMusic,coral-turtle-population,1788,Not Swapped,246.615,1,1,1
+JollyMusic,kelp-start-refuge,1789,Not Swapped,649.47,1,2,1
+JollyMusic,arctic-missing-whale,1790,Not Swapped,630.077,2,2,1
+JollyMusic,arctic-stationary-survival,1791,Not Swapped,622.853,1,1,1
+JollyMusic,arctic-salmon-monitoring,1792,Not Swapped,575.638,1,1,0
+JovialMenu,kelp-welcome,1793,Not Swapped,277.68,1,6,1
+JovialMenu,kelp-bull-kelp-forest,1794,Not Swapped,275.647,1,2,1
+JovialMenu,kelp-shop-welcome,1795,Not Swapped,260.546,1,3,1
+JustVelvet,kelp-welcome,1796,Not Swapped,390.004,1,6,1
+JustVelvet,kelp-bull-kelp-forest,1797,Not Swapped,433.584,1,2,1
+JustVelvet,kelp-shop-welcome,1798,Not Swapped,215.958,1,3,1
+JustVelvet,arctic-salmon-monitoring,1799,Swapped,328.514,1,0,0
+JustVelvet,arctic-missing-whale,1800,Swapped,1162.339,1,1,0
+JustVelvet,displaced-reef,1801,Not Swapped,337.697,1,3,1
+JustVelvet,bayou-shrimp-yields,1802,Swapped,493.137,1,0,0
+JustVelvet,arctic-salmon-monitoring,1803,Not Swapped,35.468,1,0,1
+JustVelvet,coral-turtle-population,1804,Not Swapped,224.076,1,1,1
+JustVelvet,coral-fake-fix,1805,Not Swapped,434.384,1,3,1
+JustVelvet,kelp-urchin-barren-viz,1806,Not Swapped,235.859,1,4,1
+JustVelvet,arctic-missing-whale,1807,Not Swapped,431.06,1,2,1
+JustVelvet,arctic-underneath,1808,Not Swapped,226.578,1,0,1
+JustVelvet,arctic-stationary-survival,1809,Not Swapped,359.366,1,1,1
+JustVelvet,bayou-shrimp-yields,1810,Not Swapped,95.022,1,1,1
+JustVelvet,kelp-energy,1811,Not Swapped,168.175,1,1,1
+JustVelvet,bayou-boom-cause,1812,Not Swapped,85.104,1,0,1
+JustVelvet,arctic-seal-habitats,1813,Not Swapped,494.437,1,3,1
+JustVelvet,arctic-isolated-instance,1814,Swapped,878.069,3,1,0
+JustVelvet,coral-stressed,1815,Not Swapped,385.398,1,2,1
+JustVelvet,coral-lionfish-conspiracy,1816,Not Swapped,293.597,1,2,1
+JustVelvet,coral-ocean-plastics,1817,Not Swapped,467.854,1,2,1
+JustVelvet,coral-fishy-bizz,1818,Swapped,106.171,1,0,0
+JustVelvet,coral-turtle-stability,1819,Not Swapped,80.855,1,1,1
+JustVelvet,above-n-below,1820,Swapped,1957.098,2,3,0
+JustVelvet,arctic-disappearing-act,1821,Swapped,355.432,1,0,0
+JustVelvet,arctic-in-ice,1822,Not Swapped,133.406,1,1,1
+JustVelvet,arctic-picky-eaters,1823,Swapped,1115.446,1,0,0
+JustVelvet,kelp-urchin-farm,1824,Not Swapped,230.993,1,2,1
+JustVelvet,kelp-urchin-barren-predict,1825,Not Swapped,450.734,1,1,1
+JustVelvet,kelp-save-urchin-barren,1826,Not Swapped,191.977,2,1,1
+JustVelvet,kelp-mussel-fest,1827,Not Swapped,210.158,1,1,1
+JustVelvet,kelp-musselfest-solution,1828,Not Swapped,639.141,1,3,1
+JustVelvet,kelp-start-refuge,1829,Not Swapped,181.54,1,2,1
+JustVelvet,kelp-refuge-failure,1830,Swapped,1253.183,2,8,0
+JustVelvet,bayou-alt-energy,1831,Not Swapped,527.97,1,2,1
+JustVelvet,bayou-blue-waters,1832,Not Swapped,660.76,1,5,1
+JustVelvet,bayou-dirty-detritus,1833,Not Swapped,281.015,1,2,1
+JustVelvet,bayou-methanogen,1834,Not Swapped,945.304,1,2,1
+JustVelvet,bayou-oxygen-tracking,1835,Not Swapped,25743.823,1,2,1
+JustVelvet,bayou-shrimp-tastrophe,1836,Not Swapped,1878.094,3,1,1
+JustVelvet,turtle-danger,1837,Swapped,1840.5430000000001,3,0,0
+JustVelvet,final-final,1838,Not Swapped,969.737,1,7,1
+JustVelvet,kelp-refuge-failure,1839,Swapped,227.411,2,0,0
+JustVelvet,above-n-below,1840,Not Swapped,33.604,2,0,1
+JustVelvet,arctic-isolated-instance,1841,Not Swapped,462.18100000000004,3,5,1
+JustVelvet,arctic-endangered-seals,1842,Not Swapped,14308.864,1,0,0
+KnownLocket,kelp-welcome,1844,Not Swapped,548.744,1,6,1
+KnownLocket,kelp-bull-kelp-forest,1845,Not Swapped,321.351,1,2,1
+KnownLocket,kelp-shop-welcome,1846,Not Swapped,279.303,1,3,1
+LastingMethod,kelp-start-refuge,1847,Swapped,287.074,1,0,0
+LastingMethod,coral-ocean-plastics,1848,Not Swapped,478.386,1,2,1
+LastingMethod,coral-turtle-stability,1849,Not Swapped,98.304,1,1,1
+LastingMethod,turtle-danger,1850,Not Swapped,407.941,1,1,0
+LaudableHarp,kelp-welcome,1851,Not Swapped,417.043,1,6,1
+LaudableHarp,kelp-bull-kelp-forest,1852,Not Swapped,334.795,1,2,1
+LaudableHarp,kelp-shop-welcome,1853,Not Swapped,147.008,1,3,1
+LaudableHarp,displaced-reef,1854,Not Swapped,279.098,1,3,1
+LaudableHarp,bayou-shrimp-yields,1855,Not Swapped,271.162,1,1,1
+LaudableHarp,arctic-missing-whale,1856,Not Swapped,473.674,1,3,1
+LaudableHarp,arctic-salmon-monitoring,1857,Not Swapped,214.997,1,1,1
+LaudableHarp,coral-stressed,1858,Not Swapped,474.706,1,2,1
+LaudableHarp,coral-turtle-population,1859,Not Swapped,191.723,1,1,1
+LaudableHarp,coral-fake-fix,1860,Not Swapped,721.239,1,3,1
+LaudableHarp,coral-lionfish-conspiracy,1861,Not Swapped,356.409,1,2,1
+LaudableHarp,kelp-energy,1862,Not Swapped,226.398,1,1,1
+LaudableHarp,kelp-mussel-fest,1863,Not Swapped,279.617,3,2,1
+LaudableHarp,kelp-urchin-barren-viz,1864,Not Swapped,301.22,1,4,1
+LaudableHarp,kelp-start-refuge,1865,Not Swapped,208.283,1,2,1
+LaudableHarp,kelp-musselfest-solution,1866,Swapped,507.82,3,0,0
+LaudableHarp,kelp-urchin-farm,1867,Swapped,28.376,1,0,0
+LaudableHarp,kelp-musselfest-solution,1868,Swapped,27.076,3,0,0
+LaudableHarp,kelp-urchin-farm,1869,Not Swapped,276.471,1,2,1
+LaudableHarp,kelp-musselfest-solution,1870,Swapped,688.377,3,0,0
+LaudableHarp,bayou-blue-waters,1871,Swapped,1412.5839999999998,3,4,0
+LaudableHarp,turtle-danger,1872,Swapped,1560.373,2,0,0
+LaudableHarp,coral-ocean-plastics,1873,Not Swapped,829.454,1,2,1
+LaudableHarp,coral-turtle-stability,1874,Not Swapped,130.887,2,1,1
+LaudableHarp,coral-casting-shade,1875,Swapped,492.169,2,2,0
+LaudableHarp,kelp-musselfest-solution,1876,Not Swapped,238.501,3,4,1
+LaudableHarp,kelp-refuge-failure,1877,Not Swapped,1012.363,1,8,1
+LaudableHarp,kelp-urchin-barren-predict,1878,Not Swapped,282.834,1,1,1
+LaudableHarp,kelp-refuge-failure-simulation,1879,Not Swapped,172.609,1,1,1
+LaudableHarp,kelp-save-urchin-barren,1880,Not Swapped,214.781,1,1,1
+LaudableHarp,bayou-blue-waters,1881,Not Swapped,189.845,3,1,1
+LaudableHarp,turtle-danger,1882,Swapped,423.425,2,0,0
+LaudableHarp,bayou-boom-cause,1883,Not Swapped,375.905,1,1,1
+LaudableHarp,bayou-alt-energy,1884,Not Swapped,1176.71,3,3,1
+LaudableHarp,bayou-dirty-detritus,1885,Not Swapped,236.427,1,2,1
+LaudableHarp,bayou-methanogen,1886,Swapped,1156.152,1,2,0
+LaudableHarp,coral-casting-shade,1887,Not Swapped,5193.785,2,4,1
+LaudableHarp,coral-eat-seaweed,1888,Not Swapped,625.764,1,1,1
+LaudableHarp,coral-fishy-bizz,1889,Swapped,365.015,1,0,0
+LaudableHarp,coral-hunting-lions,1890,Not Swapped,2477.5139999999997,2,8,0
+LearnedStyle,kelp-welcome,1891,Not Swapped,485.872,1,6,1
+LearnedStyle,kelp-bull-kelp-forest,1892,Not Swapped,235.07,1,2,1
+LearnedStyle,kelp-shop-welcome,1893,Not Swapped,185.027,1,3,1
+LearnedStyle,arctic-missing-whale,1894,Swapped,450.438,1,0,0
+LearnedStyle,arctic-salmon-monitoring,1895,Not Swapped,134.694,1,0,1
+LevelOffice,kelp-welcome,1896,Not Swapped,602.158,1,6,1
+LevelOffice,kelp-bull-kelp-forest,1897,Not Swapped,288.494,1,2,1
+LevelOffice,kelp-shop-welcome,1898,Not Swapped,324.687,1,3,1
+LevelOffice,kelp-energy,1899,Not Swapped,319.188,1,1,1
+LogisticKoala,arctic-missing-whale,1900,Not Swapped,513.663,1,0,0
+LuminousTrowel,kelp-welcome,1902,Not Swapped,510.678,1,6,1
+LuminousTrowel,kelp-bull-kelp-forest,1903,Not Swapped,287.012,1,2,1
+LuminousTrowel,kelp-shop-welcome,1904,Not Swapped,231.264,1,3,1
+LuminousTrowel,kelp-energy,1905,Not Swapped,350.766,1,1,1
+MagicDesert,arctic-stationary-survival,1907,Not Swapped,58.937,1,0,1
+MagicDesert,kelp-mussel-fest,1908,Swapped,17.581,1,0,0
+MagicDesert,kelp-start-refuge,1909,Swapped,23.701,1,0,0
+MagicDesert,kelp-urchin-barren-predict,1910,Not Swapped,620.637,1,1,1
+MagicDesert,kelp-mussel-fest,1911,Not Swapped,93.032,1,1,1
+MagicDesert,kelp-start-refuge,1912,Not Swapped,68.454,1,0,1
+MagicDesert,bayou-shrimp-yields,1913,Not Swapped,168.025,1,1,1
+MagicDesert,bayou-boom-cause,1914,Not Swapped,465.69,1,2,1
+MagicDesert,turtle-danger,1915,Not Swapped,430.863,1,2,1
+MagicDesert,bayou-alt-energy,1916,Not Swapped,576.191,1,3,1
+MagicDesert,bayou-blue-waters,1917,Swapped,348.503,1,0,0
+MagicDesert,turtle-danger2,1918,Not Swapped,471.208,1,1,1
+MagicDesert,bayou-hide-n-seek,1919,Not Swapped,634.117,1,4,1
+MagicDesert,bayou-reef-decision,1920,Not Swapped,251.821,1,1,1
+MagicDesert,bayou-methanogen,1921,Swapped,24.095,1,0,0
+MagicDesert,bayou-oxygen-tracking,1922,Not Swapped,952.321,1,3,1
+MagicDesert,bayou-methanogen,1923,Not Swapped,604.418,1,3,1
+MagicDesert,coral-turtle-stability,1924,Not Swapped,280.621,1,3,1
+MagicDesert,coral-fishy-bizz,1925,Not Swapped,91.043,1,1,1
+MagicDesert,coral-fake-fix,1926,Not Swapped,271.286,1,3,1
+MagicDesert,coral-lionfish-conspiracy,1927,Not Swapped,177.509,1,2,1
+MagicDesert,coral-hunting-lions,1928,Swapped,1304.899,1,3,0
+MagicDesert,coral-stressed,1929,Not Swapped,105.764,1,0,1
+MagicDesert,coral-casting-shade,1930,Not Swapped,378.4,1,6,1
+MagicDesert,coral-eat-seaweed,1931,Swapped,769.888,1,0,0
+MagicDesert,arctic-disappearing-act,1932,Not Swapped,272.976,1,1,1
+MagicDesert,arctic-time-of-death,1933,Not Swapped,341.409,1,1,1
+MagicDesert,arctic-cause-of-death,1934,Not Swapped,169.846,1,0,1
+MagicDesert,arctic-in-ice,1935,Not Swapped,230.432,1,2,1
+MagicDesert,arctic-isolated-instance,1936,Not Swapped,362.04,1,6,1
+MagicDesert,arctic-picky-eaters,1937,Not Swapped,140.189,1,2,1
+MagicDesert,arctic-salmon-competition,1938,Not Swapped,138.544,1,1,1
+MagicDesert,arctic-seal-habitats,1939,Not Swapped,529.001,1,2,1
+MagicDesert,above-n-below,1940,Not Swapped,169.194,1,2,1
+MagicDesert,arctic-endangered-seals,1941,Swapped,1289.598,1,1,0
+MagicDesert,kelp-musselfest-solution,1942,Not Swapped,1630.794,1,3,1
+MagicDesert,final-final,1943,Not Swapped,726.819,1,7,1
+MainFolder,kelp-welcome,1944,Not Swapped,1284.722,3,6,1
+MainFolder,kelp-bull-kelp-forest,1945,Not Swapped,513.902,1,2,1
+MainFolder,kelp-shop-welcome,1946,Not Swapped,304.938,1,3,1
+MainFolder,displaced-reef,1947,Swapped,732.971,2,3,0
+MainFolder,arctic-salmon-monitoring,1948,Not Swapped,361.761,1,0,1
+MainFolder,arctic-missing-whale,1949,Swapped,377.04,1,1,0
+MainFolder,displaced-reef,1950,Not Swapped,124.16,2,0,1
+MaskedPrior,coral-stressed,1951,Not Swapped,264.204,1,0,1
+MaskedPrior,coral-ocean-plastics,1952,Not Swapped,511.922,1,1,1
+MaskedPrior,coral-turtle-stability,1953,Not Swapped,703.529,2,2,1
+MelodicHero,kelp-welcome,1955,Not Swapped,300.937,1,6,1
+MelodicHero,kelp-bull-kelp-forest,1956,Not Swapped,334.215,1,2,1
+MelodicHero,kelp-shop-welcome,1957,Not Swapped,111.901,1,3,1
+MistakenVendor,kelp-welcome,1961,Not Swapped,996.352,1,6,1
+MistakenVendor,kelp-bull-kelp-forest,1962,Not Swapped,784.037,1,2,1
+MistakenVendor,kelp-shop-welcome,1963,Not Swapped,334.781,1,2,0
+MoreSafari,bayou-alt-energy,1964,Swapped,628.626,1,0,0
+MoreSafari,kelp-urchin-farm,1965,Not Swapped,262.215,1,2,1
+MoreSafari,coral-turtle-stability,1966,Not Swapped,299.199,1,1,0
+MovingIcy,kelp-welcome,1968,Not Swapped,448.619,1,6,1
+MovingIcy,kelp-bull-kelp-forest,1969,Not Swapped,8373.448,1,2,1
+MovingIcy,kelp-shop-welcome,1970,Not Swapped,202.705,1,3,1
+MovingIcy,coral-turtle-population,1971,Not Swapped,812.821,1,1,1
+MovingIcy,bayou-shrimp-yields,1972,Not Swapped,287.905,1,1,1
+MovingIcy,displaced-reef,1973,Not Swapped,157.768,1,3,1
+MovingIcy,arctic-missing-whale,1974,Swapped,1067.658,1,1,0
+MovingIcy,coral-fake-fix,1975,Not Swapped,772.338,1,1,1
+MovingIcy,kelp-start-refuge,1976,Swapped,1809.456,1,0,0
+MovingIcy,coral-stressed,1977,Not Swapped,849.233,1,2,1
+MovingIcy,arctic-missing-whale,1978,Not Swapped,442.368,1,2,1
+MovingIcy,arctic-salmon-monitoring,1979,Not Swapped,315.047,1,0,1
+MovingIcy,kelp-start-refuge,1980,Not Swapped,421.868,1,2,1
+MovingIcy,coral-lionfish-conspiracy,1981,Not Swapped,241.292,1,0,1
+MovingIcy,arctic-underneath,1982,Not Swapped,92.854,1,0,1
+MovingIcy,kelp-mussel-fest,1983,Not Swapped,313.732,1,1,1
+MovingIcy,kelp-urchin-barren-viz,1984,Not Swapped,365.397,1,4,1
+MovingIcy,bayou-blue-waters,1985,Not Swapped,244.195,1,2,0
+NationalHash,kelp-welcome,1987,Not Swapped,4450.478,1,6,1
+NationalHash,kelp-bull-kelp-forest,1988,Not Swapped,308.814,1,2,1
+NationalHash,kelp-shop-welcome,1989,Not Swapped,268.518,1,3,1
+NationalHash,kelp-energy,1990,Not Swapped,148.583,1,1,1
+NationalHash,coral-turtle-population,1991,Not Swapped,456.735,1,1,1
+NationalHash,displaced-reef,1992,Not Swapped,454.017,1,3,1
+NationalHash,bayou-shrimp-yields,1993,Not Swapped,183.4,1,1,1
+NationalHash,kelp-urchin-barren-viz,1994,Not Swapped,422.51,1,4,1
+NationalHash,kelp-start-refuge,1995,Not Swapped,1600.974,1,2,1
+NationalHash,kelp-mussel-fest,1996,Not Swapped,220.905,1,2,1
+NationalHash,coral-fake-fix,1997,Not Swapped,520.664,1,2,1
+NationalHash,coral-lionfish-conspiracy,1998,Not Swapped,199.631,1,2,1
+NationalHash,arctic-missing-whale,1999,Not Swapped,768.418,1,3,1
+NationalHash,arctic-salmon-monitoring,2000,Not Swapped,298.423,1,1,1
+NationalHash,coral-fishy-bizz,2001,Not Swapped,350.076,1,1,1
+NationalHash,coral-much-algae,2002,Not Swapped,381.614,1,2,1
+NationalHash,coral-stressed,2003,Not Swapped,328.928,1,2,1
+NationalHash,coral-casting-shade,2004,Not Swapped,2254.412,1,7,1
+NationalHash,coral-eat-seaweed,2005,Not Swapped,172.393,1,1,1
+NationalHash,coral-hunting-lions,2006,Not Swapped,3552.5570000000002,2,9,1
+NationalHash,coral-tang-checkup,2007,Not Swapped,237.079,1,1,1
+NationalHash,coral-ocean-plastics,2008,Not Swapped,624.95,1,2,1
+NationalHash,coral-turtle-stability,2009,Not Swapped,104.236,1,1,1
+NationalHash,arctic-disappearing-act,2010,Not Swapped,369.099,1,1,1
+NationalHash,arctic-time-of-death,2011,Not Swapped,410.307,1,0,1
+NationalHash,arctic-cause-of-death,2012,Not Swapped,616.356,1,1,1
+NationalHash,arctic-seal-habitats,2013,Not Swapped,686.726,1,4,1
+NationalHash,above-n-below,2014,Not Swapped,901.475,2,3,1
+NationalHash,arctic-in-ice,2015,Not Swapped,193.576,1,2,1
+NationalHash,arctic-picky-eaters,2016,Not Swapped,178.37,1,2,1
+NationalHash,arctic-salmon-competition,2017,Not Swapped,170.259,1,1,1
+NationalHash,arctic-endangered-seals,2018,Not Swapped,1662.74,1,2,1
+NationalHash,bayou-blue-waters,2019,Not Swapped,2355.617,1,5,1
+NationalHash,bayou-boom-cause,2020,Not Swapped,398.606,1,2,1
+NationalHash,final-final,2021,Not Swapped,765.763,1,7,1
+NationalRadio,turtle-danger,2022,Not Swapped,296.383,1,0,0
+NativeApp,coral-fake-fix,2023,Not Swapped,711.469,1,3,1
+NativeApp,arctic-in-ice,2024,Swapped,372.845,2,1,0
+NativeApp,arctic-underneath,2025,Not Swapped,438.184,1,1,1
+NativeApp,arctic-disappearing-act,2026,Not Swapped,614.761,2,1,1
+NativeApp,arctic-stationary-survival,2027,Not Swapped,407.729,1,1,1
+NativeApp,arctic-isolated-instance,2028,Swapped,1593.804,1,4,0
+NativeApp,arctic-time-of-death,2029,Not Swapped,344.315,1,1,1
+NativeApp,arctic-seal-habitats,2030,Not Swapped,592.457,1,2,1
+NativeApp,arctic-in-ice,2031,Not Swapped,453.573,2,2,1
+NativeApp,arctic-isolated-instance,2032,Not Swapped,504.286,1,4,1
+NativeApp,kelp-save-urchin-barren,2033,Not Swapped,264.143,1,1,1
+NativeApp,kelp-musselfest-solution,2034,Not Swapped,361.911,1,3,1
+NativeApp,kelp-refuge-failure,2035,Not Swapped,1040.208,1,8,1
+NativeApp,kelp-urchin-farm,2036,Not Swapped,909.233,1,1,1
+NativeApp,kelp-refuge-failure-simulation,2037,Not Swapped,138.835,1,1,1
+NativeApp,bayou-boom-cause,2038,Not Swapped,345.025,1,2,1
+NativeApp,above-n-below,2039,Not Swapped,492.25,1,1,1
+NativeApp,arctic-picky-eaters,2040,Not Swapped,571.811,1,2,1
+NativeApp,arctic-cause-of-death,2041,Not Swapped,598.337,1,0,1
+NativeApp,arctic-endangered-seals,2042,Not Swapped,4176.593,2,2,1
+NativeApp,arctic-salmon-competition,2043,Not Swapped,1525.478,1,1,1
+NativeApp,bayou-alt-energy,2044,Swapped,379.145,4,0,0
+NativeApp,final-final,2045,Not Swapped,1226.787,1,7,1
+NativeApp,bayou-alt-energy,2046,Not Swapped,2985.401,4,3,1
+NativeApp,bayou-methanogen,2047,Not Swapped,927.71,1,2,0
+NeutralHive,kelp-welcome,2049,Not Swapped,460.304,1,6,1
+NeutralHive,kelp-bull-kelp-forest,2050,Not Swapped,233.049,1,1,0
+NeutralPuppy,kelp-welcome,2051,Not Swapped,664.906,1,6,1
+NeutralPuppy,kelp-bull-kelp-forest,2052,Not Swapped,494.626,1,1,0
+NewestSpiral,kelp-welcome,2053,Not Swapped,396.109,1,6,1
+NewestSpiral,kelp-bull-kelp-forest,2054,Not Swapped,277.752,1,2,1
+NewestSpiral,kelp-shop-welcome,2055,Not Swapped,129.975,1,3,1
+NewestSpiral,kelp-energy,2056,Not Swapped,247.411,1,1,1
+NewestSpiral,arctic-missing-whale,2057,Swapped,934.722,4,1,0
+NewestSpiral,arctic-salmon-monitoring,2058,Swapped,545.261,1,0,0
+NewestSpiral,coral-turtle-population,2059,Swapped,229.315,2,2,0
+NewestSpiral,arctic-salmon-monitoring,2060,Swapped,447.897,1,0,0
+NewestSpiral,arctic-missing-whale,2061,Swapped,17.199,4,0,0
+NewestSpiral,arctic-salmon-monitoring,2062,Not Swapped,71.22,1,0,1
+NewestSpiral,arctic-missing-whale,2063,Swapped,257.561,4,0,0
+NewestSpiral,bayou-shrimp-yields,2064,Swapped,150.39600000000002,3,0,0
+NewestSpiral,displaced-reef,2065,Not Swapped,214.91,1,3,1
+NewestSpiral,arctic-missing-whale,2066,Not Swapped,926.958,4,2,1
+NewestSpiral,arctic-underneath,2067,Not Swapped,747.325,1,0,1
+NewestSpiral,arctic-stationary-survival,2068,Not Swapped,449.48299999999995,2,1,1
+NewestSpiral,coral-turtle-population,2069,Not Swapped,112.378,2,0,1
+NewestSpiral,coral-fake-fix,2070,Swapped,504.026,3,3,0
+NewestSpiral,kelp-urchin-barren-viz,2071,Not Swapped,231.138,1,4,1
+NewestSpiral,bayou-shrimp-yields,2072,Not Swapped,142.016,3,1,1
+NewestSpiral,coral-stressed,2073,Not Swapped,270.874,1,2,1
+NewestSpiral,coral-turtle-stability,2074,Not Swapped,611.401,2,3,1
+NewestSpiral,coral-fake-fix,2075,Not Swapped,184.569,3,0,1
+NewestSpiral,coral-lionfish-conspiracy,2076,Not Swapped,120.1,1,0,1
+NewestSpiral,kelp-mussel-fest,2077,Not Swapped,466.666,2,3,1
+NewestSpiral,kelp-urchin-barren-predict,2078,Not Swapped,250.317,1,1,1
+NewestSpiral,kelp-start-refuge,2079,Not Swapped,448.798,1,2,1
+NewestSpiral,arctic-seal-habitats,2080,Not Swapped,397.433,2,4,1
+NewestSpiral,above-n-below,2081,Swapped,398.298,1,1,0
+NewestSpiral,arctic-disappearing-act,2082,Swapped,35.124,1,0,0
+NewestSpiral,above-n-below,2083,Not Swapped,333.516,1,3,0
+NineClay,kelp-welcome,2085,Not Swapped,329.653,1,6,1
+NineClay,kelp-bull-kelp-forest,2086,Not Swapped,227.923,1,2,1
+NineClay,kelp-shop-welcome,2087,Not Swapped,128.91,1,3,1
+NineClay,coral-turtle-population,2088,Not Swapped,278.408,1,0,1
+NobleFlag,kelp-welcome,2090,Not Swapped,360.521,1,6,1
+NobleFlag,kelp-bull-kelp-forest,2091,Not Swapped,153.274,1,2,1
+NobleFlag,kelp-shop-welcome,2092,Not Swapped,127.48400000000001,2,3,1
+NobleFlag,coral-turtle-population,2093,Not Swapped,189.322,1,1,1
+NobleFlag,arctic-missing-whale,2094,Swapped,297.721,2,1,0
+NobleFlag,arctic-salmon-monitoring,2095,Not Swapped,249.383,1,1,1
+NobleFlag,displaced-reef,2096,Not Swapped,215.199,1,3,1
+NobleFlag,bayou-shrimp-yields,2097,Not Swapped,135.776,1,1,1
+NobleFlag,coral-fake-fix,2098,Not Swapped,271.79,1,2,1
+NobleFlag,arctic-missing-whale,2099,Not Swapped,225.929,2,2,1
+NobleFlag,kelp-energy,2100,Not Swapped,139.123,1,1,1
+NobleFlag,kelp-urchin-barren-viz,2101,Not Swapped,328.413,1,4,1
+NobleFlag,kelp-urchin-barren-predict,2102,Not Swapped,222.754,1,1,1
+NobleFlag,coral-lionfish-conspiracy,2103,Not Swapped,157.569,1,2,1
+NobleFlag,coral-stressed,2104,Not Swapped,202.294,1,1,1
+NobleFlag,coral-turtle-stability,2105,Not Swapped,346.217,1,3,1
+NobleFlag,kelp-mussel-fest,2106,Not Swapped,229.371,1,2,1
+NobleFlag,kelp-start-refuge,2107,Not Swapped,168.231,1,2,1
+NobleFlag,arctic-seal-habitats,2108,Not Swapped,656.09,1,4,1
+NobleFlag,arctic-underneath,2109,Not Swapped,202.929,1,1,1
+NobleFlag,bayou-boom-cause,2110,Not Swapped,357.916,1,2,1
+NobleFlag,bayou-oxygen-tracking,2111,Swapped,1357.274,3,1,0
+NobleFlag,bayou-alt-energy,2112,Swapped,154.601,1,0,0
+NobleFlag,arctic-disappearing-act,2113,Not Swapped,625.417,1,1,1
+NobleFlag,arctic-cause-of-death,2114,Not Swapped,342.1,1,2,1
+NobleFlag,arctic-time-of-death,2115,Not Swapped,96.963,1,0,1
+NobleFlag,arctic-in-ice,2116,Not Swapped,181.331,1,2,1
+NobleFlag,coral-fishy-bizz,2117,Not Swapped,122.856,1,1,1
+NobleFlag,coral-hunting-lions,2118,Swapped,235.21,3,2,0
+NobleFlag,kelp-save-urchin-barren,2119,Not Swapped,265.53,1,1,1
+NobleFlag,kelp-musselfest-solution,2120,Not Swapped,464.025,1,3,1
+NobleFlag,kelp-refuge-failure,2121,Swapped,662.943,1,5,0
+NobleFlag,kelp-urchin-farm,2122,Not Swapped,114.542,1,1,1
+NobleFlag,arctic-picky-eaters,2123,Not Swapped,159.451,1,2,1
+NobleFlag,above-n-below,2124,Not Swapped,348.934,1,4,1
+NobleFlag,arctic-endangered-seals,2125,Swapped,559.342,1,0,0
+NobleFlag,arctic-stationary-survival,2126,Not Swapped,1669.378,1,1,1
+NobleFlag,bayou-blue-waters,2127,Swapped,893.8910000000001,3,2,0
+NobleFlag,coral-casting-shade,2128,Swapped,42.522,1,0,0
+NobleFlag,coral-much-algae,2129,Not Swapped,205.979,1,3,1
+NobleFlag,coral-tang-checkup,2130,Not Swapped,141.353,1,5,1
+NobleFlag,coral-hunting-lions,2131,Swapped,929.284,3,1,0
+NobleFlag,final-final,2132,Not Swapped,590.776,4,2,0
+NotableGutter,kelp-welcome,2133,Not Swapped,214.466,1,6,1
+NotableGutter,kelp-bull-kelp-forest,2134,Not Swapped,128.559,1,2,1
+NotableGutter,kelp-shop-welcome,2135,Not Swapped,94.23,1,3,1
+NotableGutter,kelp-energy,2136,Not Swapped,88.213,1,1,1
+NotableGutter,coral-turtle-population,2137,Not Swapped,139.707,1,1,1
+NotableGutter,arctic-missing-whale,2138,Swapped,534.893,1,1,0
+NotableGutter,arctic-salmon-monitoring,2139,Not Swapped,133.421,1,1,1
+NotableGutter,arctic-missing-whale,2140,Not Swapped,243.552,1,2,1
+NotableGutter,arctic-underneath,2141,Not Swapped,43.318,1,0,1
+NotableGutter,arctic-stationary-survival,2142,Not Swapped,115.055,1,1,1
+NotableGutter,kelp-mussel-fest,2143,Not Swapped,192.025,1,2,1
+NotableGutter,kelp-urchin-barren-viz,2144,Not Swapped,175.085,1,4,1
+NotableGutter,kelp-start-refuge,2145,Not Swapped,116.042,1,2,1
+NotableGutter,kelp-urchin-barren-predict,2146,Not Swapped,177.156,1,1,1
+NotableGutter,kelp-save-urchin-barren,2147,Not Swapped,102.831,1,1,1
+NotableGutter,arctic-isolated-instance,2148,Not Swapped,420.162,1,0,0
+OneStuff,displaced-reef,2149,Swapped,30.077,1,0,0
+OneStuff,bayou-shrimp-yields,2150,Not Swapped,516.486,1,0,0
+PartyNovel,kelp-welcome,2152,Not Swapped,172.296,1,6,1
+PartyNovel,kelp-bull-kelp-forest,2153,Not Swapped,200.076,1,2,1
+PartyNovel,kelp-shop-welcome,2154,Not Swapped,133.439,1,3,1
+PartyNovel,kelp-energy,2155,Not Swapped,97.944,1,1,1
+PartyNovel,displaced-reef,2156,Not Swapped,330.398,1,3,1
+PartyNovel,bayou-shrimp-yields,2157,Not Swapped,150.86,1,1,1
+PartyNovel,coral-turtle-population,2158,Not Swapped,116.088,1,1,1
+PartyNovel,coral-fake-fix,2159,Not Swapped,398.274,2,3,2
+PartyNovel,coral-lionfish-conspiracy,2160,Not Swapped,247.31,1,3,1
+PartyNovel,coral-stressed,2161,Not Swapped,154.503,1,2,1
+PartyNovel,arctic-salmon-monitoring,2162,Not Swapped,277.583,1,1,1
+PartyNovel,arctic-missing-whale,2163,Not Swapped,203.249,1,3,1
+PartyNovel,kelp-urchin-barren-viz,2164,Not Swapped,249.595,1,4,1
+PartyNovel,kelp-start-refuge,2165,Not Swapped,128.345,1,2,1
+PartyNovel,kelp-mussel-fest,2166,Not Swapped,203.034,1,2,1
+PartyNovel,kelp-refuge-failure,2167,Not Swapped,12340.569,1,8,1
+PartyNovel,kelp-refuge-failure-simulation,2168,Not Swapped,1062.511,1,1,1
+PartyNovel,kelp-musselfest-solution,2169,Not Swapped,180.77,1,3,1
+PartyNovel,kelp-urchin-barren-predict,2170,Not Swapped,144.675,1,1,1
+PartyNovel,kelp-save-urchin-barren,2171,Not Swapped,145.171,1,1,1
+PartyNovel,kelp-urchin-farm,2172,Not Swapped,202.95,1,1,1
+PartyNovel,bayou-blue-waters,2173,Not Swapped,749.498,1,5,1
+PartyNovel,bayou-oxygen-tracking,2174,Not Swapped,325.43,1,2,1
+PartyNovel,turtle-danger,2175,Not Swapped,909.928,1,3,1
+PartyNovel,turtle-danger2,2176,Not Swapped,704.882,1,3,1
+PartyNovel,bayou-hide-n-seek,2177,Not Swapped,34167.09,1,4,1
+PartyNovel,bayou-reef-decision,2178,Not Swapped,207.031,1,1,1
+PartyNovel,bayou-dirty-detritus,2179,Not Swapped,343.038,1,3,1
+PartyNovel,bayou-shrimp-tastrophe,2180,Not Swapped,1097.955,1,1,1
+PartyNovel,bayou-boom-cause,2181,Not Swapped,277.232,1,2,1
+PartyNovel,bayou-alt-energy,2182,Not Swapped,666.136,1,3,1
+PartyNovel,bayou-methanogen,2183,Not Swapped,2058.028,1,2,1
+PartyNovel,coral-fishy-bizz,2184,Not Swapped,199.787,1,2,1
+PartyNovel,coral-much-algae,2185,Not Swapped,235.268,1,3,1
+PartyNovel,coral-turtle-stability,2186,Swapped,986.608,1,0,0
+PartyNovel,final-final,2187,Not Swapped,781.659,1,7,1
+PastBeach,kelp-welcome,2188,Not Swapped,169.8,1,6,1
+PastBeach,kelp-bull-kelp-forest,2189,Not Swapped,211.619,1,2,1
+PastBeach,kelp-shop-welcome,2190,Not Swapped,155.011,1,3,1
+PastBeach,arctic-missing-whale,2191,Swapped,446.774,1,1,0
+PastBeach,arctic-salmon-monitoring,2192,Not Swapped,265.974,1,1,1
+PastBeach,arctic-missing-whale,2193,Not Swapped,564.335,1,2,1
+PastBeach,arctic-underneath,2194,Not Swapped,233.118,1,1,1
+PastBeach,arctic-stationary-survival,2195,Not Swapped,256.125,1,1,1
+PastBeach,coral-turtle-population,2196,Not Swapped,177.205,1,1,1
+PastBeach,coral-fake-fix,2197,Not Swapped,529.104,1,3,1
+PastBeach,coral-lionfish-conspiracy,2198,Not Swapped,416.51,1,2,1
+PastBeach,coral-stressed,2199,Not Swapped,526.4300000000001,2,2,1
+PastBeach,bayou-shrimp-yields,2200,Not Swapped,5138.361,1,1,1
+PastBeach,displaced-reef,2201,Not Swapped,350.009,1,3,1
+PastBeach,kelp-energy,2202,Not Swapped,191.73,1,1,1
+PastBeach,kelp-urchin-farm,2203,Not Swapped,501.101,2,2,1
+PastBeach,kelp-start-refuge,2204,Not Swapped,377.619,1,2,1
+PastBeach,kelp-refuge-failure,2205,Not Swapped,969.502,1,8,1
+PastBeach,kelp-urchin-barren-viz,2206,Not Swapped,316.809,1,4,1
+PastBeach,kelp-urchin-barren-predict,2207,Not Swapped,214.444,1,1,1
+PastBeach,arctic-seal-habitats,2208,Not Swapped,672.228,1,4,1
+PastBeach,above-n-below,2209,Not Swapped,815.944,1,3,1
+PastBeach,arctic-endangered-seals,2210,Swapped,1800.734,2,0,0
+PastBeach,arctic-isolated-instance,2211,Swapped,2629.8630000000003,3,1,0
+PastBeach,arctic-endangered-seals,2212,Swapped,156.423,2,0,0
+PastBeach,arctic-disappearing-act,2213,Not Swapped,681.431,1,1,1
+PastBeach,arctic-time-of-death,2214,Swapped,190.86599999999999,4,0,0
+PastBeach,arctic-in-ice,2215,Not Swapped,136.261,1,0,1
+PastBeach,arctic-isolated-instance,2216,Not Swapped,479.433,3,7,1
+PlasticPie,kelp-start-refuge,2217,Not Swapped,408.93,1,2,1
+PlasticPie,kelp-mussel-fest,2218,Not Swapped,423.512,1,2,1
+PlasticPie,kelp-urchin-barren-viz,2219,Not Swapped,1045.69,1,4,1
+PlasticPie,arctic-underneath,2220,Not Swapped,19988.711,1,1,1
+PlasticPie,arctic-stationary-survival,2221,Not Swapped,760.745,1,1,1
+PrivateClam,kelp-welcome,2222,Not Swapped,272.977,1,6,1
+PrivateClam,kelp-bull-kelp-forest,2223,Not Swapped,429.614,1,1,0
+PrivateRumor,kelp-welcome,2225,Not Swapped,307.535,1,6,1
+PrivateRumor,kelp-bull-kelp-forest,2226,Not Swapped,248.986,1,2,1
+PrivateRumor,kelp-shop-welcome,2227,Not Swapped,125.416,1,3,1
+PrivateRumor,kelp-energy,2228,Not Swapped,855.066,1,1,1
+PrivateRumor,displaced-reef,2229,Not Swapped,342.092,1,3,1
+PrivateRumor,bayou-shrimp-yields,2230,Not Swapped,312.357,1,1,1
+PrivateRumor,kelp-start-refuge,2231,Not Swapped,1583.082,1,2,1
+PrivateRumor,kelp-mussel-fest,2232,Not Swapped,4291.582,1,2,1
+PrivateRumor,kelp-urchin-barren-viz,2233,Not Swapped,429.838,1,4,1
+PrivateRumor,kelp-urchin-barren-predict,2234,Not Swapped,153.802,1,1,1
+PrivateRumor,coral-stressed,2235,Not Swapped,342.688,1,2,1
+PrivateRumor,coral-turtle-population,2236,Not Swapped,38.767,1,0,1
+PrivateRumor,coral-fake-fix,2237,Not Swapped,397.59,1,3,1
+PrivateRumor,coral-lionfish-conspiracy,2238,Not Swapped,159.969,1,2,1
+PrivateRumor,arctic-missing-whale,2239,Not Swapped,331.023,1,3,1
+PrivateRumor,arctic-disappearing-act,2240,Not Swapped,281.656,1,1,1
+PrivateRumor,arctic-cause-of-death,2241,Not Swapped,949.167,1,1,1
+PrivateRumor,arctic-salmon-monitoring,2242,Not Swapped,200.721,1,0,1
+PrivateRumor,arctic-in-ice,2243,Not Swapped,233.437,1,2,1
+PrivateRumor,arctic-picky-eaters,2244,Swapped,55974.592,1,0,0
+PrivateRumor,arctic-salmon-competition,2245,Not Swapped,172.602,1,1,1
+PrivateRumor,arctic-seal-habitats,2246,Not Swapped,675.396,1,5,1
+PrivateRumor,above-n-below,2247,Not Swapped,754.166,1,3,1
+PrivateRumor,arctic-endangered-seals,2248,Swapped,451.457,1,0,0
+PrivateRumor,arctic-picky-eaters,2249,Not Swapped,72.219,1,0,1
+PrivateRumor,arctic-endangered-seals,2250,Not Swapped,638.795,1,2,1
+PrivateRumor,arctic-time-of-death,2251,Not Swapped,4163.175,1,0,1
+PrivateRumor,arctic-underneath,2252,Not Swapped,204.671,1,0,1
+PrivateRumor,arctic-stationary-survival,2253,Not Swapped,131.687,1,1,1
+PrivateRumor,arctic-isolated-instance,2254,Not Swapped,560.459,1,7,1
+PrivateRumor,kelp-musselfest-solution,2255,Not Swapped,2148.542,1,3,1
+PrivateRumor,kelp-refuge-failure,2256,Not Swapped,571.191,1,8,1
+PrivateRumor,kelp-refuge-failure-simulation,2257,Not Swapped,69.185,1,1,1
+PrivateRumor,kelp-save-urchin-barren,2258,Not Swapped,241.188,1,1,1
+PrivateRumor,kelp-urchin-farm,2259,Not Swapped,173.453,1,1,1
+PrivateRumor,coral-casting-shade,2260,Not Swapped,1082.966,1,6,1
+PrivateRumor,coral-eat-seaweed,2261,Not Swapped,558.844,1,1,1
+PrivateRumor,coral-fishy-bizz,2262,Not Swapped,153.081,1,1,1
+PrivateRumor,coral-hunting-lions,2263,Swapped,9757.484999999999,2,7,0
+PrivateRumor,coral-much-algae,2264,Not Swapped,111.636,1,1,1
+PrivateRumor,coral-ocean-plastics,2265,Not Swapped,201.887,1,2,1
+PrivateRumor,coral-tang-checkup,2266,Swapped,23.365,1,0,0
+PrivateRumor,coral-hunting-lions,2267,Not Swapped,648.959,2,2,1
+PrivateRumor,coral-tang-checkup,2268,Not Swapped,166.101,1,1,1
+PrivateRumor,coral-turtle-stability,2269,Not Swapped,83.466,1,1,1
+PrivateRumor,final-final,2270,Not Swapped,1327.836,2,2,0
+QualitySkill,kelp-welcome,2273,Not Swapped,6712.457,1,6,1
+QualitySkill,kelp-bull-kelp-forest,2274,Not Swapped,315.118,1,2,1
+QualitySkill,kelp-shop-welcome,2275,Not Swapped,325.514,1,3,1
+QualitySkill,kelp-energy,2276,Not Swapped,338.363,1,1,1
+RandomPedal,kelp-welcome,2279,Not Swapped,833.637,1,6,1
+RandomPedal,kelp-bull-kelp-forest,2280,Not Swapped,305.809,1,2,1
+RandomPedal,kelp-shop-welcome,2281,Not Swapped,1105.224,1,3,1
+RandomPedal,kelp-energy,2282,Not Swapped,196.64,1,1,1
+RandomPedal,displaced-reef,2283,Swapped,1369.794,3,2,0
+RandomPedal,arctic-missing-whale,2284,Swapped,1015.306,3,3,0
+RandomPedal,arctic-salmon-monitoring,2285,Not Swapped,789.304,2,2,1
+RandomPedal,arctic-missing-whale,2286,Not Swapped,77.315,3,0,1
+RandomPedal,displaced-reef,2287,Not Swapped,455.692,3,1,1
+RandomPedal,bayou-shrimp-yields,2288,Not Swapped,174.14,1,1,1
+RandomPedal,kelp-urchin-barren-viz,2289,Not Swapped,409.311,2,4,1
+RandomPedal,coral-stressed,2290,Not Swapped,965.468,2,2,1
+RandomPedal,coral-turtle-population,2291,Not Swapped,154.933,1,1,1
+RandomPedal,coral-fake-fix,2292,Not Swapped,438.641,1,0,1
+RandomPedal,coral-lionfish-conspiracy,2293,Not Swapped,348.37,1,2,1
+RandomPedal,kelp-start-refuge,2294,Not Swapped,411.739,1,2,1
+RandomPedal,bayou-boom-cause,2295,Not Swapped,854.575,1,2,1
+RandomPedal,turtle-danger,2296,Not Swapped,539.506,1,3,1
+RandomPedal,bayou-alt-energy,2297,Not Swapped,792.432,1,2,1
+RandomPedal,bayou-blue-waters,2298,Swapped,75352.131,1,1,0
+RandomPedal,turtle-danger2,2299,Not Swapped,1325.281,1,1,0
+RealWafer,kelp-welcome,2300,Not Swapped,379.603,1,6,1
+RealWafer,kelp-bull-kelp-forest,2301,Not Swapped,237.735,1,2,1
+RealWafer,kelp-shop-welcome,2302,Not Swapped,475.988,1,3,1
+RegalLunge,kelp-welcome,2303,Not Swapped,342.546,1,6,1
+RegalLunge,kelp-bull-kelp-forest,2304,Not Swapped,183.254,1,2,1
+RegalLunge,kelp-shop-welcome,2305,Not Swapped,152.46,1,3,1
+RegalLunge,kelp-energy,2306,Not Swapped,221.965,1,1,1
+RegalLunge,displaced-reef,2307,Not Swapped,321.377,1,3,1
+RegalLunge,bayou-shrimp-yields,2308,Not Swapped,457.137,1,1,1
+RegalLunge,kelp-mussel-fest,2309,Not Swapped,306.13,1,2,1
+RegalLunge,kelp-start-refuge,2310,Not Swapped,236.907,1,2,1
+RegalLunge,kelp-urchin-barren-viz,2311,Not Swapped,268.578,1,4,1
+RegalLunge,kelp-urchin-barren-predict,2312,Not Swapped,200.654,1,1,1
+RegalLunge,arctic-missing-whale,2313,Not Swapped,314.736,2,3,0
+RegionalCliff,kelp-welcome,2314,Not Swapped,399.03,1,6,1
+RegionalCliff,kelp-bull-kelp-forest,2315,Not Swapped,157.531,1,2,1
+RegionalCliff,kelp-shop-welcome,2316,Not Swapped,112.719,1,3,1
+RelevantPark,kelp-welcome,2318,Not Swapped,1127.418,1,6,1
+RelevantPark,kelp-bull-kelp-forest,2319,Not Swapped,290.318,1,2,1
+RelevantPark,kelp-shop-welcome,2320,Not Swapped,227.908,1,3,1
+RelevantPark,coral-turtle-population,2321,Not Swapped,814.769,2,0,1
+RelevantPark,kelp-energy,2322,Not Swapped,247.166,1,1,1
+RelevantPark,displaced-reef,2323,Not Swapped,147.236,1,3,1
+RelevantPark,arctic-missing-whale,2324,Not Swapped,1879.213,1,1,1
+RelevantPark,coral-fake-fix,2325,Not Swapped,678.084,1,1,1
+RelevantPark,kelp-mussel-fest,2326,Not Swapped,1271.664,4,2,1
+RelevantPark,coral-lionfish-conspiracy,2327,Not Swapped,361.216,1,2,1
+RelevantPark,coral-stressed,2328,Not Swapped,405.431,1,1,1
+RelevantPark,bayou-shrimp-yields,2329,Not Swapped,265.23,1,1,1
+RelevantPark,arctic-salmon-monitoring,2330,Not Swapped,404.392,1,0,1
+RelevantPark,kelp-start-refuge,2331,Not Swapped,255.759,1,2,1
+RelevantPark,kelp-urchin-barren-viz,2332,Not Swapped,277.731,1,4,1
+RelevantPark,kelp-urchin-barren-predict,2333,Not Swapped,256.037,1,1,1
+RelevantPark,arctic-underneath,2334,Not Swapped,701.544,1,0,1
+RelevantPark,arctic-disappearing-act,2335,Not Swapped,1355.821,2,1,1
+RelevantPark,arctic-cause-of-death,2336,Not Swapped,3489.9719999999998,3,2,1
+RelevantPark,arctic-in-ice,2337,Not Swapped,847.024,4,2,1
+RelevantPark,bayou-blue-waters,2338,Swapped,2574.266,4,3,0
+RelevantPark,kelp-musselfest-solution,2339,Not Swapped,955.196,1,3,1
+RelevantPark,kelp-refuge-failure,2340,Not Swapped,11915.455,2,8,1
+RelevantPark,coral-casting-shade,2341,Not Swapped,64717.056,1,6,1
+RelevantPark,arctic-picky-eaters,2342,Not Swapped,360.841,1,2,1
+RelevantPark,arctic-salmon-competition,2343,Not Swapped,225.248,1,1,1
+RelevantPark,kelp-refuge-failure-simulation,2344,Not Swapped,113.217,1,1,1
+RelevantPark,kelp-save-urchin-barren,2345,Not Swapped,902.804,2,1,1
+RelevantPark,kelp-urchin-farm,2346,Not Swapped,174.133,1,1,1
+RelevantPark,bayou-blue-waters,2347,Not Swapped,12589.445,4,2,1
+RepairedClaw,bayou-alt-energy,2348,Swapped,485.455,1,0,0
+RepairedClaw,bayou-blue-waters,2349,Not Swapped,38.687,1,0,0
+RepeatedFull,bayou-methanogen,2351,Not Swapped,289.701,1,0,1
+RepeatedFull,bayou-hide-n-seek,2352,Not Swapped,424.409,1,1,1
+RepeatedFull,bayou-reef-decision,2353,Not Swapped,1695.0059999999999,3,1,1
+RepeatedFull,arctic-seal-habitats,2354,Not Swapped,727.729,2,4,1
+RepeatedFull,above-n-below,2355,Not Swapped,1504.345,2,4,0
+ResidentZone,bayou-shrimp-yields,2356,Swapped,587.587,1,0,0
+ResidentZone,arctic-underneath,2357,Not Swapped,577.847,1,1,1
+ResidentZone,arctic-stationary-survival,2358,Not Swapped,538.475,1,1,1
+ResidentZone,kelp-urchin-barren-viz,2359,Not Swapped,467.223,1,4,1
+ResidentZone,bayou-shrimp-yields,2360,Not Swapped,239.231,1,1,1
+RestfulSmile,kelp-welcome,2362,Not Swapped,380.96,1,6,1
+RestfulSmile,kelp-bull-kelp-forest,2363,Not Swapped,255.555,1,2,1
+RestfulSmile,kelp-shop-welcome,2364,Not Swapped,459.395,1,3,1
+RestfulSmile,coral-turtle-population,2365,Not Swapped,46.384,1,0,1
+RestfulSmile,displaced-reef,2366,Not Swapped,581.812,1,3,1
+RestfulSmile,bayou-shrimp-yields,2367,Not Swapped,222.136,1,1,1
+RestfulSmile,arctic-salmon-monitoring,2368,Not Swapped,108.738,1,0,1
+RestfulSmile,arctic-missing-whale,2369,Not Swapped,634.0,1,3,1
+RestfulSmile,coral-fake-fix,2370,Not Swapped,457.597,2,1,1
+RestfulSmile,kelp-energy,2371,Not Swapped,238.233,1,1,1
+RestfulSmile,kelp-urchin-barren-viz,2372,Not Swapped,444.615,1,4,1
+RestfulSmile,coral-lionfish-conspiracy,2373,Not Swapped,269.527,1,0,1
+RestfulSmile,coral-stressed,2374,Not Swapped,884.381,1,2,1
+RestfulSmile,kelp-mussel-fest,2375,Swapped,496.567,2,0,0
+RestfulSmile,kelp-start-refuge,2376,Not Swapped,541.593,3,2,3
+RestoredNotion,kelp-welcome,2377,Not Swapped,518.023,1,6,1
+RestoredNotion,kelp-bull-kelp-forest,2378,Not Swapped,281.781,1,2,1
+RestoredNotion,kelp-shop-welcome,2379,Not Swapped,195.878,1,3,1
+RetiredMetal,kelp-welcome,2380,Not Swapped,439.57,1,6,1
+RetiredMetal,kelp-bull-kelp-forest,2381,Not Swapped,280.298,1,2,1
+RetiredMetal,kelp-shop-welcome,2382,Not Swapped,547.916,1,3,1
+RetiredMetal,displaced-reef,2383,Not Swapped,248.25,1,3,1
+RetiredMetal,bayou-shrimp-yields,2384,Not Swapped,266.73699999999997,3,2,1
+RetiredMetal,coral-turtle-population,2385,Not Swapped,36.092,1,0,1
+RetiredMetal,coral-fake-fix,2386,Not Swapped,905.662,1,3,1
+RetiredMetal,coral-lionfish-conspiracy,2387,Not Swapped,167.333,1,2,1
+RetiredMetal,coral-stressed,2388,Not Swapped,329.005,1,2,1
+RetiredMetal,arctic-missing-whale,2389,Not Swapped,643.518,1,3,1
+RetiredMetal,arctic-salmon-monitoring,2390,Not Swapped,152.082,1,0,1
+RetiredMetal,kelp-urchin-barren-viz,2391,Not Swapped,656.285,1,4,1
+RetiredMetal,kelp-urchin-barren-predict,2392,Not Swapped,263.253,1,1,1
+RetiredMetal,kelp-start-refuge,2393,Not Swapped,260.13100000000003,2,2,1
+RevampedNose,kelp-welcome,2394,Not Swapped,173.453,1,6,1
+RevampedNose,kelp-bull-kelp-forest,2395,Not Swapped,172.48,1,2,1
+RevampedNose,kelp-shop-welcome,2396,Not Swapped,87.965,1,3,1
+RevampedNose,kelp-energy,2397,Not Swapped,85.08,1,1,1
+RevampedNose,displaced-reef,2398,Not Swapped,75.134,1,0,1
+RevampedNose,coral-turtle-population,2399,Not Swapped,27.183,1,0,1
+RevampedNose,kelp-urchin-barren-viz,2400,Not Swapped,265.997,1,4,1
+RevampedNose,kelp-start-refuge,2401,Not Swapped,138.031,1,2,1
+RevampedNose,kelp-mussel-fest,2402,Not Swapped,179.033,1,2,1
+RevampedNose,kelp-urchin-barren-predict,2403,Not Swapped,252.28,1,1,1
+RevampedVane,kelp-welcome,2404,Not Swapped,214.98,1,6,1
+RevampedVane,kelp-bull-kelp-forest,2405,Not Swapped,128.886,1,2,1
+RevampedVane,kelp-shop-welcome,2406,Not Swapped,180.362,1,3,1
+RevampedVane,displaced-reef,2407,Not Swapped,85.224,1,3,1
+RevampedVane,bayou-shrimp-yields,2408,Not Swapped,160.593,1,1,1
+RevampedVane,kelp-energy,2409,Not Swapped,89.118,1,1,1
+RevampedVane,kelp-start-refuge,2410,Not Swapped,128.122,1,2,1
+RevampedVane,kelp-mussel-fest,2411,Not Swapped,157.058,1,2,1
+RevampedVane,kelp-urchin-barren-viz,2412,Not Swapped,203.003,1,4,1
+RevampedVane,kelp-urchin-barren-predict,2413,Not Swapped,131.678,1,1,1
+RevampedVane,arctic-salmon-monitoring,2414,Not Swapped,41.487,1,0,1
+RevampedVane,arctic-missing-whale,2415,Not Swapped,337.724,1,3,1
+RevampedVane,coral-turtle-population,2416,Not Swapped,16.562,1,0,1
+RevampedVane,coral-fake-fix,2417,Not Swapped,224.123,1,3,1
+RevampedVane,coral-lionfish-conspiracy,2418,Not Swapped,10524.628,1,2,1
+RevampedVane,coral-stressed,2419,Not Swapped,211.47,1,2,1
+RevampedVane,coral-turtle-stability,2420,Not Swapped,275.071,1,3,1
+RevampedVane,coral-ocean-plastics,2421,Not Swapped,30.886,1,0,1
+RevampedVane,coral-casting-shade,2422,Not Swapped,343.419,1,6,1
+RevampedVane,coral-much-algae,2423,Not Swapped,217.037,1,3,1
+RevampedVane,coral-eat-seaweed,2424,Not Swapped,219.158,1,1,1
+RevampedVane,coral-fishy-bizz,2425,Not Swapped,75.916,1,1,1
+RevampedVane,coral-tang-checkup,2426,Not Swapped,305.372,1,5,1
+RevampedVane,coral-hunting-lions,2427,Not Swapped,1041.815,1,7,1
+RevampedVane,arctic-in-ice,2428,Not Swapped,285.039,1,3,1
+RevampedVane,arctic-salmon-competition,2429,Not Swapped,115.253,1,2,1
+RevampedVane,arctic-picky-eaters,2430,Not Swapped,125.419,1,2,1
+RevampedVane,arctic-disappearing-act,2431,Not Swapped,144.586,1,1,1
+RevampedVane,arctic-time-of-death,2432,Not Swapped,255.673,1,1,1
+RevampedVane,arctic-seal-habitats,2433,Not Swapped,422.282,1,5,1
+RevampedVane,above-n-below,2434,Not Swapped,262.677,1,4,1
+RevampedVane,arctic-cause-of-death,2435,Not Swapped,79.837,1,0,1
+RevampedVane,arctic-underneath,2436,Not Swapped,38.148,1,0,1
+RevampedVane,arctic-stationary-survival,2437,Not Swapped,98.721,1,1,1
+RevampedVane,arctic-isolated-instance,2438,Not Swapped,373.781,1,8,1
+RevampedVane,arctic-endangered-seals,2439,Swapped,246.522,1,0,0
+RevampedVane,bayou-blue-waters,2440,Not Swapped,449.622,1,5,1
+RevampedVane,bayou-dirty-detritus,2441,Not Swapped,144.742,1,2,1
+RevampedVane,bayou-oxygen-tracking,2442,Not Swapped,174.639,1,2,1
+RevampedVane,bayou-shrimp-tastrophe,2443,Not Swapped,70926.087,1,1,1
+RevampedVane,turtle-danger,2444,Not Swapped,300.333,1,3,1
+RevampedVane,turtle-danger2,2445,Not Swapped,11948.219,1,2,1
+RevampedVane,bayou-hide-n-seek,2446,Not Swapped,1320.064,1,4,1
+RevampedVane,bayou-reef-decision,2447,Not Swapped,1072.606,1,1,1
+RevampedVane,bayou-boom-cause,2448,Not Swapped,184.908,1,2,1
+RevampedVane,final-final,2449,Not Swapped,737.643,1,7,1
+RevampedVane,kelp-musselfest-solution,2450,Not Swapped,204.77,1,3,1
+RevampedVane,kelp-refuge-failure,2451,Not Swapped,60695.107,1,8,1
+RevampedVane,kelp-refuge-failure-simulation,2452,Not Swapped,75.636,1,1,1
+RevampedVane,kelp-save-urchin-barren,2453,Not Swapped,127.604,1,1,1
+RevampedVane,kelp-urchin-farm,2454,Not Swapped,94.602,1,1,1
+RevampedVane,bayou-alt-energy,2455,Not Swapped,520.574,1,3,1
+RevampedVane,bayou-methanogen,2456,Not Swapped,289.868,1,2,1
+RevampedVane,arctic-endangered-seals,2457,Not Swapped,907.496,1,0,0
+RicherPotato,arctic-seal-habitats,2458,Swapped,22.685,1,0,0
+RicherPotato,arctic-in-ice,2459,Not Swapped,615.861,1,2,1
+RoomyLynx,kelp-welcome,2461,Not Swapped,341.747,1,6,1
+RoomyLynx,kelp-bull-kelp-forest,2462,Not Swapped,295.703,1,2,1
+RoomyLynx,kelp-shop-welcome,2463,Not Swapped,209.024,1,3,1
+RoomyLynx,kelp-energy,2464,Not Swapped,225.596,1,1,1
+RoomyLynx,arctic-missing-whale,2465,Swapped,690.242,1,1,0
+RoomyLynx,arctic-salmon-monitoring,2466,Not Swapped,253.662,1,1,1
+RoomyLynx,arctic-missing-whale,2467,Swapped,273.022,1,0,0
+RoomyLynx,coral-turtle-population,2468,Not Swapped,136.244,1,1,1
+RoomyLynx,arctic-missing-whale,2469,Not Swapped,67.761,1,0,1
+RousingLemur,kelp-welcome,2470,Not Swapped,554.709,1,6,1
+RousingLemur,kelp-bull-kelp-forest,2471,Not Swapped,291.457,1,2,1
+RousingLemur,kelp-shop-welcome,2472,Not Swapped,228.757,1,3,1
+RousingLemur,kelp-energy,2473,Not Swapped,319.779,1,1,0
+RousingNerve,kelp-welcome,2474,Not Swapped,235.252,2,6,1
+RousingNerve,kelp-bull-kelp-forest,2475,Not Swapped,312.599,1,2,1
+RousingNerve,kelp-shop-welcome,2476,Not Swapped,86.992,1,3,1
+RousingNerve,arctic-missing-whale,2477,Swapped,579.351,1,0,0
+RousingNerve,coral-turtle-population,2478,Not Swapped,294.4,1,1,1
+RousingNerve,displaced-reef,2479,Not Swapped,1137.358,1,3,1
+RousingNerve,bayou-shrimp-yields,2480,Not Swapped,189.522,1,1,1
+RousingNerve,coral-fake-fix,2481,Not Swapped,2479.6130000000003,2,3,0
+RoyalIgloo,kelp-welcome,2482,Not Swapped,780.625,1,6,1
+RoyalIgloo,kelp-bull-kelp-forest,2483,Not Swapped,566.041,1,2,1
+RoyalIgloo,kelp-shop-welcome,2484,Not Swapped,241.947,1,3,1
+RoyalIgloo,kelp-energy,2485,Not Swapped,444.634,2,1,1
+RoyalIgloo,displaced-reef,2486,Not Swapped,12.244,1,0,0
+ScarceSlice,kelp-welcome,2489,Not Swapped,446.882,1,6,1
+ScarceSlice,kelp-bull-kelp-forest,2490,Not Swapped,253.39,1,2,1
+ScarceSlice,kelp-shop-welcome,2491,Not Swapped,237.245,1,3,1
+ScentedRamen,kelp-welcome,2492,Not Swapped,827.91,1,6,1
+ScentedRamen,kelp-bull-kelp-forest,2493,Not Swapped,523.666,1,2,1
+ScentedRamen,kelp-shop-welcome,2494,Not Swapped,447.698,1,3,1
+ScentedRamen,coral-turtle-population,2495,Swapped,2665.044,1,0,0
+ScentedRamen,bayou-shrimp-yields,2496,Swapped,729.009,1,1,0
+ScentedRamen,kelp-energy,2497,Not Swapped,308.45,1,0,0
+ScrappyToad,kelp-welcome,2498,Not Swapped,319.454,1,6,1
+ScrappyToad,kelp-bull-kelp-forest,2499,Not Swapped,178.179,1,2,1
+ScrappyToad,kelp-shop-welcome,2500,Not Swapped,112.492,1,3,1
+ScrappyToad,kelp-energy,2501,Not Swapped,186.131,1,1,1
+ScrappyToad,arctic-missing-whale,2502,Swapped,632.382,3,0,0
+ScrappyToad,arctic-salmon-monitoring,2503,Swapped,530.079,1,0,0
+ScrappyToad,displaced-reef,2504,Not Swapped,328.464,1,3,1
+ScrappyToad,bayou-shrimp-yields,2505,Not Swapped,185.295,1,1,1
+ScrappyToad,coral-turtle-population,2506,Not Swapped,196.093,1,1,1
+ScrappyToad,arctic-missing-whale,2507,Swapped,425.292,3,0,0
+ScrappyToad,arctic-salmon-monitoring,2508,Not Swapped,245.761,1,1,1
+ScrappyToad,arctic-underneath,2509,Swapped,2181.916,2,0,0
+ScrappyToad,kelp-urchin-barren-viz,2510,Not Swapped,360.049,1,4,1
+ScrappyToad,kelp-urchin-barren-predict,2511,Not Swapped,356.617,1,1,1
+ScrappyToad,kelp-mussel-fest,2512,Not Swapped,331.869,1,3,1
+ScrappyToad,kelp-start-refuge,2513,Not Swapped,280.761,1,2,1
+ScrappyToad,coral-fake-fix,2514,Not Swapped,448.317,1,3,1
+ScrappyToad,coral-lionfish-conspiracy,2515,Not Swapped,340.516,1,3,1
+ScrappyToad,coral-stressed,2516,Not Swapped,212.909,1,2,1
+ScrappyToad,coral-casting-shade,2517,Not Swapped,1000.686,1,8,1
+ScrappyToad,coral-eat-seaweed,2518,Swapped,1488.035,3,0,0
+ScrappyToad,coral-fishy-bizz,2519,Not Swapped,1449.863,1,2,1
+ScrappyToad,coral-hunting-lions,2520,Swapped,1799.203,6,3,0
+ScrappyToad,coral-much-algae,2521,Not Swapped,225.406,1,2,1
+ScrappyToad,coral-tang-checkup,2522,Not Swapped,166.71,1,5,1
+ScrappyToad,coral-ocean-plastics,2523,Not Swapped,391.48,2,1,1
+ScrappyToad,coral-turtle-stability,2524,Not Swapped,129.757,1,1,1
+ScrappyToad,coral-eat-seaweed,2525,Not Swapped,321.18,3,1,1
+ScrappyToad,coral-hunting-lions,2526,Swapped,407.921,6,0,0
+ScrappyToad,kelp-musselfest-solution,2527,Not Swapped,210.999,1,3,1
+ScrappyToad,kelp-refuge-failure,2528,Not Swapped,694.956,1,8,1
+ScrappyToad,kelp-refuge-failure-simulation,2529,Not Swapped,96.58,1,1,1
+ScrappyToad,kelp-save-urchin-barren,2530,Swapped,305.329,6,0,0
+ScrappyToad,kelp-urchin-farm,2531,Not Swapped,199.446,1,1,1
+ScrappyToad,kelp-save-urchin-barren,2532,Swapped,900.485,6,0,0
+ScrappyToad,arctic-underneath,2533,Not Swapped,424.029,2,1,1
+ScrappyToad,arctic-stationary-survival,2534,Not Swapped,167.479,1,1,1
+ScrappyToad,arctic-isolated-instance,2535,Not Swapped,570.574,1,7,1
+ScrappyToad,arctic-seal-habitats,2536,Not Swapped,701.263,1,2,1
+ScrappyToad,above-n-below,2537,Swapped,878.427,3,0,0
+ScrappyToad,coral-hunting-lions,2538,Not Swapped,7039.23,6,7,2
+ScrappyToad,bayou-blue-waters,2539,Not Swapped,329.313,1,5,1
+ScrappyToad,bayou-boom-cause,2540,Swapped,531.26,1,0,0
+ScrappyToad,final-final,2541,Not Swapped,844.31,1,7,1
+ScrappyToad,kelp-save-urchin-barren,2542,Swapped,1661.016,6,0,0
+ScrappyToad,bayou-boom-cause,2543,Not Swapped,265.849,1,2,1
+ScrappyToad,bayou-alt-energy,2544,Not Swapped,734.467,1,3,1
+ScrappyToad,bayou-dirty-detritus,2545,Not Swapped,454.895,1,4,1
+ScrappyToad,bayou-methanogen,2546,Not Swapped,608.408,1,2,1
+ScrappyToad,bayou-oxygen-tracking,2547,Not Swapped,2729.598,2,2,1
+ScrappyToad,bayou-shrimp-tastrophe,2548,Not Swapped,1505.027,2,1,1
+ScrappyToad,turtle-danger,2549,Swapped,832.856,5,0,0
+ScrappyToad,arctic-in-ice,2550,Swapped,331.828,2,0,0
+ScrappyToad,arctic-missing-whale,2551,Not Swapped,328.434,3,2,1
+ScrappyToad,arctic-disappearing-act,2552,Not Swapped,514.737,1,1,1
+ScrappyToad,arctic-cause-of-death,2553,Not Swapped,791.7429999999999,2,3,1
+ScrappyToad,arctic-time-of-death,2554,Not Swapped,420.622,1,1,1
+ScrappyToad,arctic-in-ice,2555,Not Swapped,367.199,2,2,1
+ScrappyToad,arctic-picky-eaters,2556,Not Swapped,297.646,1,2,1
+ScrappyToad,arctic-salmon-competition,2557,Not Swapped,280.929,1,1,1
+ScrappyToad,above-n-below,2558,Not Swapped,433.671,3,0,1
+ScrappyToad,arctic-endangered-seals,2559,Swapped,1174.1499999999999,6,0,0
+ScrappyToad,kelp-save-urchin-barren,2560,Swapped,242.096,6,0,0
+ScrappyToad,turtle-danger,2561,Swapped,381.646,5,0,0
+ScrappyToad,kelp-save-urchin-barren,2562,Swapped,893.6,6,0,0
+ScrappyToad,turtle-danger,2563,Not Swapped,265.232,5,0,1
+ScrappyToad,turtle-danger2,2564,Not Swapped,2032.8229999999999,2,2,1
+ScrappyToad,bayou-hide-n-seek,2565,Not Swapped,587.254,1,2,1
+ScrappyToad,bayou-reef-decision,2566,Not Swapped,290.361,1,1,1
+ScrappyToad,kelp-save-urchin-barren,2567,Swapped,71.881,6,0,0
+ScrappyToad,arctic-endangered-seals,2568,Not Swapped,1926.1599999999999,6,2,1
+ScrappyToad,kelp-save-urchin-barren,2569,Not Swapped,808.154,6,0,0
+SelflessWeird,kelp-welcome,2572,Not Swapped,437.68,1,6,1
+SelflessWeird,kelp-bull-kelp-forest,2573,Not Swapped,280.652,1,2,1
+SelflessWeird,kelp-shop-welcome,2574,Not Swapped,449.707,1,3,1
+SelflessWeird,displaced-reef,2575,Not Swapped,520.231,1,3,1
+SelflessWeird,bayou-shrimp-yields,2576,Not Swapped,225.614,1,1,1
+SelflessWeird,arctic-missing-whale,2577,Not Swapped,313.247,1,3,1
+SelflessWeird,arctic-salmon-monitoring,2578,Not Swapped,260.81,1,1,1
+SelflessWeird,coral-turtle-population,2579,Not Swapped,33.46,1,0,1
+SelflessWeird,kelp-energy,2580,Not Swapped,137.644,1,1,1
+SeparateAffect,kelp-welcome,2581,Not Swapped,753.749,1,6,1
+SeparateAffect,kelp-bull-kelp-forest,2582,Not Swapped,306.752,1,2,1
+SeparateAffect,kelp-shop-welcome,2583,Not Swapped,166.676,1,1,0
+SeventhGoodie,kelp-welcome,2585,Not Swapped,300.982,1,6,1
+SeventhGoodie,kelp-bull-kelp-forest,2586,Not Swapped,250.807,1,2,1
+SeventhGoodie,kelp-shop-welcome,2587,Not Swapped,291.124,1,3,1
+SeventhGoodie,bayou-shrimp-yields,2588,Not Swapped,470.708,1,1,1
+SeventhGoodie,displaced-reef,2589,Not Swapped,254.358,1,3,1
+SeventhGoodie,arctic-missing-whale,2590,Swapped,436.703,1,2,0
+SeventhGoodie,arctic-salmon-monitoring,2591,Not Swapped,73.933,1,0,1
+SeventhGoodie,coral-turtle-population,2592,Not Swapped,38.527,1,0,1
+SeventhGoodie,kelp-mussel-fest,2593,Not Swapped,408.783,1,2,1
+SeventhGoodie,kelp-start-refuge,2594,Not Swapped,1087.737,1,2,1
+SeventhGoodie,arctic-missing-whale,2595,Not Swapped,453.671,1,1,1
+SeventhGoodie,arctic-underneath,2596,Not Swapped,274.133,1,1,1
+SeventhGoodie,arctic-stationary-survival,2597,Not Swapped,405.429,1,1,1
+SeventhGoodie,coral-fake-fix,2598,Not Swapped,597.174,1,3,1
+SeventhGoodie,coral-lionfish-conspiracy,2599,Not Swapped,158.681,1,0,1
+SeventhGoodie,arctic-disappearing-act,2600,Not Swapped,934.38,1,1,1
+SeventhGoodie,coral-stressed,2601,Not Swapped,876.612,1,1,1
+SeventhGoodie,kelp-urchin-barren-viz,2602,Not Swapped,294.999,1,4,1
+SeventhGoodie,bayou-boom-cause,2603,Not Swapped,474.321,1,2,1
+SeventhGoodie,kelp-refuge-failure,2604,Swapped,1126.753,1,3,0
+SeventhGoodie,arctic-cause-of-death,2605,Swapped,1434.377,3,0,0
+SeventhGoodie,bayou-alt-energy,2606,Not Swapped,1444.022,1,3,1
+SeventhGoodie,kelp-energy,2607,Not Swapped,213.41,1,1,1
+ShadowySoup,kelp-welcome,2608,Not Swapped,465.756,1,6,1
+ShadowySoup,kelp-bull-kelp-forest,2609,Not Swapped,315.745,1,2,1
+ShadowySoup,kelp-shop-welcome,2610,Not Swapped,188.817,1,3,1
+ShadowySoup,coral-turtle-population,2611,Not Swapped,271.527,1,2,1
+ShadowySoup,arctic-missing-whale,2612,Swapped,448.447,1,0,0
+ShadowySoup,arctic-salmon-monitoring,2613,Not Swapped,359.599,1,1,1
+ShadowySoup,arctic-missing-whale,2614,Swapped,593.715,1,0,0
+ShadowySoup,displaced-reef,2615,Not Swapped,97987.963,1,3,1
+ShadowySoup,bayou-shrimp-yields,2616,Not Swapped,171.564,1,1,1
+ShadowySoup,kelp-energy,2617,Not Swapped,461.958,1,1,1
+ShadowySoup,arctic-missing-whale,2618,Not Swapped,441.321,1,2,1
+ShadowySoup,coral-fake-fix,2619,Not Swapped,782.309,2,4,1
+ShadowySoup,coral-lionfish-conspiracy,2620,Not Swapped,396.816,1,3,1
+ShadowySoup,kelp-urchin-barren-viz,2621,Not Swapped,1370.948,1,4,1
+ShadowySoup,arctic-underneath,2622,Not Swapped,38412.484,1,1,1
+ShadowySoup,arctic-stationary-survival,2623,Not Swapped,252.817,1,1,1
+ShadowySoup,coral-turtle-stability,2624,Swapped,835.461,2,1,0
+ShadowySoup,coral-fishy-bizz,2625,Swapped,481.919,1,1,0
+ShadowySoup,turtle-danger,2626,Swapped,17089.7,2,1,0
+ShadowySoup,kelp-start-refuge,2627,Not Swapped,336.892,1,2,1
+ShadowySoup,kelp-mussel-fest,2628,Not Swapped,289.471,1,2,1
+ShadowySoup,coral-stressed,2629,Not Swapped,279.086,1,2,1
+ShadowySoup,coral-casting-shade,2630,Swapped,1008.258,1,5,0
+ShadowySoup,coral-ocean-plastics,2631,Swapped,499.106,1,0,0
+ShadowySoup,arctic-disappearing-act,2632,Swapped,992.749,1,0,0
+ShadowySoup,arctic-in-ice,2633,Not Swapped,272.586,1,3,1
+ShadowySoup,bayou-oxygen-tracking,2634,Swapped,987.62,1,1,0
+ShadowySoup,kelp-urchin-barren-predict,2635,Not Swapped,260.48,1,1,1
+ShadowySoup,kelp-save-urchin-barren,2636,Swapped,665.644,1,0,0
+ShadowySoup,kelp-refuge-failure,2637,Not Swapped,287.002,1,4,0
+SilentWinner,kelp-welcome,2638,Not Swapped,725.254,1,6,1
+SilentWinner,kelp-bull-kelp-forest,2639,Not Swapped,622.961,1,2,1
+SilentWinner,kelp-shop-welcome,2640,Not Swapped,212.736,1,3,1
+SixDusk,arctic-missing-whale,2641,Not Swapped,168276.349,1,1,1
+SixDusk,coral-fake-fix,2642,Not Swapped,59623.927,1,2,0
+SkillfulNurse,kelp-welcome,2643,Not Swapped,448.592,1,6,1
+SkillfulNurse,kelp-bull-kelp-forest,2644,Not Swapped,593.759,1,2,1
+SkillfulNurse,kelp-shop-welcome,2645,Not Swapped,424.034,1,3,1
+SleepingTree,arctic-missing-whale,2646,Swapped,665.549,2,1,0
+SleepingTree,arctic-salmon-monitoring,2647,Not Swapped,299.082,1,1,1
+SleepingTree,arctic-missing-whale,2648,Swapped,800.125,2,0,0
+SleepingTree,kelp-energy,2649,Not Swapped,224.915,1,1,1
+SleepingTree,arctic-missing-whale,2650,Not Swapped,252.831,2,2,1
+SleepingTree,displaced-reef,2651,Not Swapped,300.414,1,3,1
+SleepingTree,bayou-shrimp-yields,2652,Not Swapped,296.986,1,1,1
+SleepingTree,coral-fake-fix,2653,Not Swapped,790.493,1,3,1
+SleepingTree,coral-lionfish-conspiracy,2654,Not Swapped,180.398,1,2,1
+SleepingTree,coral-stressed,2655,Not Swapped,288.315,1,2,1
+SleepingTree,kelp-mussel-fest,2656,Not Swapped,274.015,1,2,1
+SleepingTree,kelp-start-refuge,2657,Not Swapped,411.666,1,2,1
+SleepingTree,kelp-urchin-barren-viz,2658,Not Swapped,264.399,1,4,1
+SleepingTree,kelp-urchin-barren-predict,2659,Not Swapped,345.563,1,1,1
+SleepingTree,kelp-musselfest-solution,2660,Not Swapped,1280.04,1,3,1
+SleepingTree,kelp-refuge-failure,2661,Not Swapped,811.41,1,8,1
+SleepingTree,kelp-refuge-failure-simulation,2662,Not Swapped,150.568,1,1,1
+SleepingTree,kelp-urchin-farm,2663,Not Swapped,208.401,1,1,1
+SleepingTree,arctic-disappearing-act,2664,Not Swapped,559.116,1,2,1
+SleepingTree,arctic-cause-of-death,2665,Not Swapped,313.984,1,1,1
+SleepingTree,arctic-in-ice,2666,Not Swapped,227.579,1,2,1
+SleepingTree,arctic-time-of-death,2667,Not Swapped,512.276,1,1,1
+SleepingTree,coral-casting-shade,2668,Not Swapped,676.072,1,8,1
+SleepingTree,coral-eat-seaweed,2669,Not Swapped,230.142,1,1,1
+SleepingTree,coral-fishy-bizz,2670,Not Swapped,199.068,1,1,1
+SleepingTree,coral-hunting-lions,2671,Not Swapped,3687.912,1,9,1
+SleepingTree,coral-much-algae,2672,Not Swapped,352.54,1,1,1
+SleepingTree,coral-ocean-plastics,2673,Not Swapped,1005.715,1,2,1
+SleepingTree,coral-tang-checkup,2674,Not Swapped,175.365,1,1,1
+SleepingTree,coral-turtle-stability,2675,Not Swapped,308.132,1,1,1
+SleepingTree,bayou-blue-waters,2676,Swapped,380.668,1,0,0
+SleepingTree,kelp-save-urchin-barren,2677,Not Swapped,215.235,1,1,1
+SleepingTree,final-final,2678,Not Swapped,1776.802,1,7,1
+SmartestGopher,kelp-welcome,2679,Not Swapped,663.44,1,6,1
+SmartestGopher,kelp-bull-kelp-forest,2680,Not Swapped,248.137,1,2,1
+SmartestGopher,kelp-shop-welcome,2681,Not Swapped,1102.725,2,3,1
+SmartestGopher,kelp-energy,2682,Not Swapped,322.12,1,1,1
+SmartestGopher,arctic-salmon-monitoring,2683,Not Swapped,471.46,1,1,1
+SmartestGopher,arctic-missing-whale,2684,Swapped,1433.9969999999998,3,0,0
+SmartestGopher,coral-turtle-population,2685,Not Swapped,36.288,1,0,1
+SmartestGopher,coral-fake-fix,2686,Swapped,294.397,2,0,0
+SmartestGopher,arctic-missing-whale,2687,Not Swapped,499.141,3,3,1
+SmartestGopher,kelp-urchin-barren-viz,2688,Not Swapped,366.736,1,4,1
+SmartestGopher,kelp-urchin-barren-predict,2689,Not Swapped,337.664,1,1,1
+SmartestGopher,coral-fake-fix,2690,Not Swapped,378.264,2,3,1
+SoaringSeat,kelp-welcome,2692,Not Swapped,414.159,1,6,1
+SoaringSeat,kelp-bull-kelp-forest,2693,Not Swapped,16.038,1,0,0
+SociablePencil,kelp-welcome,2694,Not Swapped,615.698,1,6,1
+SociablePencil,kelp-bull-kelp-forest,2695,Not Swapped,420.674,1,2,1
+SociablePencil,kelp-shop-welcome,2696,Not Swapped,499.857,1,3,1
+SociablePencil,displaced-reef,2697,Swapped,486.116,1,1,0
+SociablePencil,bayou-shrimp-yields,2698,Swapped,864510.663,1,0,0
+SociablePencil,arctic-missing-whale,2699,Swapped,83309.169,1,0,0
+SociablePencil,arctic-salmon-monitoring,2700,Not Swapped,2376.728,1,1,0
+SolarHip,kelp-welcome,2701,Not Swapped,1184.2469999999998,2,6,1
+SolarHip,kelp-bull-kelp-forest,2702,Not Swapped,253.178,1,2,1
+SolarHip,kelp-shop-welcome,2703,Not Swapped,151.595,1,3,1
+SolarHip,kelp-energy,2704,Not Swapped,194.533,1,1,1
+SpecialSpan,arctic-isolated-instance,2707,Not Swapped,1007.2479999999999,2,3,0
+SpeedyFlower,kelp-welcome,2708,Not Swapped,536.383,1,6,1
+SpeedyFlower,kelp-bull-kelp-forest,2709,Not Swapped,415.124,1,2,1
+SpeedyFlower,kelp-shop-welcome,2710,Not Swapped,463.054,2,3,1
+SpeedyFlower,kelp-energy,2711,Not Swapped,653.969,1,1,1
+SpeedyFlower,displaced-reef,2712,Not Swapped,918.125,2,3,1
+SpeedyFlower,bayou-shrimp-yields,2713,Not Swapped,375.23,1,1,1
+SpeedyFlower,coral-turtle-population,2714,Not Swapped,229.217,1,1,1
+SpeedyFlower,coral-fake-fix,2715,Not Swapped,840.479,1,3,1
+SpeedyFlower,coral-lionfish-conspiracy,2716,Not Swapped,398.931,1,2,1
+SpeedyFlower,arctic-missing-whale,2717,Not Swapped,435.875,1,3,1
+SpeedyFlower,arctic-salmon-monitoring,2718,Not Swapped,545.867,2,1,1
+SpeedyFlower,arctic-underneath,2719,Not Swapped,578.962,1,1,1
+SpeedyFlower,arctic-stationary-survival,2720,Not Swapped,797.567,1,1,1
+SpeedyFlower,kelp-mussel-fest,2721,Not Swapped,575.351,2,2,1
+SpeedyFlower,kelp-start-refuge,2722,Not Swapped,481.271,1,2,1
+SpeedyFlower,kelp-urchin-barren-viz,2723,Not Swapped,483.89,1,4,1
+SpeedyFlower,kelp-urchin-barren-predict,2724,Not Swapped,257.585,1,1,1
+SpeedyFlower,coral-stressed,2725,Not Swapped,278.967,1,2,1
+SpeedyFlower,coral-turtle-stability,2726,Not Swapped,1303.049,1,1,0
+SportingChorus,kelp-welcome,2728,Not Swapped,382.209,1,6,1
+SportingChorus,kelp-bull-kelp-forest,2729,Not Swapped,225.524,1,2,1
+SportingChorus,kelp-shop-welcome,2730,Not Swapped,251.981,1,3,1
+SportingChorus,arctic-missing-whale,2731,Swapped,535.905,1,1,0
+SportingChorus,kelp-energy,2732,Not Swapped,42.721,1,0,0
+StackedLoss,kelp-welcome,2734,Not Swapped,424.847,1,6,1
+StackedLoss,kelp-bull-kelp-forest,2735,Not Swapped,428.568,1,2,1
+StackedLoss,kelp-shop-welcome,2736,Not Swapped,188.069,1,3,1
+StackedTax,kelp-welcome,2737,Not Swapped,378.12,1,6,1
+StackedTax,kelp-bull-kelp-forest,2738,Not Swapped,200.402,1,2,1
+StackedTax,kelp-shop-welcome,2739,Not Swapped,232.266,1,3,1
+StackedTax,coral-turtle-population,2740,Not Swapped,222.068,1,1,1
+StackedTax,displaced-reef,2741,Not Swapped,341.135,1,3,1
+StackedTax,bayou-shrimp-yields,2742,Not Swapped,132.865,1,1,1
+StackedTax,arctic-missing-whale,2743,Not Swapped,732.951,1,3,1
+StackedTax,arctic-salmon-monitoring,2744,Not Swapped,45.408,1,0,1
+StackedTax,kelp-start-refuge,2745,Not Swapped,146.884,1,2,1
+StackedTax,kelp-urchin-barren-viz,2746,Not Swapped,264.017,1,4,1
+StackedTax,kelp-urchin-barren-predict,2747,Not Swapped,128.71,1,1,1
+StackedTax,kelp-energy,2748,Not Swapped,100.522,1,1,1
+StackedTax,kelp-mussel-fest,2749,Not Swapped,206.808,1,2,1
+StackedTax,arctic-underneath,2750,Not Swapped,42.963,1,0,1
+StackedTax,arctic-stationary-survival,2751,Not Swapped,369.302,1,1,1
+StackedTax,arctic-seal-habitats,2752,Not Swapped,392.236,1,4,0
+StarchedDancer,kelp-welcome,2753,Not Swapped,1395.563,1,6,1
+StarchedDancer,kelp-bull-kelp-forest,2754,Not Swapped,412.71,1,2,1
+StarchedDancer,kelp-shop-welcome,2755,Not Swapped,1337.782,1,3,1
+StarchedDancer,arctic-missing-whale,2756,Swapped,1894.975,1,1,0
+StarchedDancer,arctic-salmon-monitoring,2757,Not Swapped,468.693,1,1,1
+StarchedDancer,kelp-energy,2758,Not Swapped,381.959,1,1,1
+StarchedDancer,coral-turtle-population,2759,Not Swapped,392.148,1,1,1
+StarchedDancer,coral-fake-fix,2760,Not Swapped,818.27,1,3,1
+StarchedDancer,coral-lionfish-conspiracy,2761,Not Swapped,665.52,1,2,0
+StaticCranky,kelp-welcome,2762,Not Swapped,471.264,1,6,1
+StaticCranky,kelp-bull-kelp-forest,2763,Not Swapped,431.234,1,2,1
+StaticCranky,kelp-shop-welcome,2764,Not Swapped,2459.854,1,3,1
+StaticTan,kelp-welcome,2765,Not Swapped,479.275,1,6,1
+StaticTan,kelp-bull-kelp-forest,2766,Not Swapped,312.745,1,2,1
+StaticTan,kelp-shop-welcome,2767,Not Swapped,175.231,1,3,1
+StaticTan,kelp-energy,2768,Not Swapped,171.917,1,1,1
+StatusBead,kelp-welcome,2769,Not Swapped,652.428,1,6,1
+StatusBead,kelp-bull-kelp-forest,2770,Not Swapped,550.164,1,2,1
+StatusBead,kelp-shop-welcome,2771,Not Swapped,346.389,1,3,1
+StatusBead,arctic-missing-whale,2772,Swapped,1327.532,2,1,0
+StatusBead,arctic-salmon-monitoring,2773,Not Swapped,242.608,1,0,1
+StatusBead,arctic-missing-whale,2774,Swapped,1859.618,2,0,0
+StatusBead,displaced-reef,2775,Not Swapped,157.87,1,0,1
+StatusBead,bayou-shrimp-yields,2776,Not Swapped,300.881,1,1,1
+StatusBead,arctic-missing-whale,2777,Not Swapped,613.972,2,1,1
+StatusBead,arctic-underneath,2778,Not Swapped,100.177,1,0,1
+StatusBead,arctic-stationary-survival,2779,Not Swapped,310.452,1,1,1
+StatusBead,coral-turtle-population,2780,Not Swapped,47.535,1,0,1
+StatusBead,coral-fake-fix,2781,Not Swapped,520.448,1,3,1
+StatusBead,coral-lionfish-conspiracy,2782,Not Swapped,65153.17,1,3,1
+StatusBead,coral-stressed,2783,Not Swapped,535.0999999999999,2,2,1
+StatusBead,kelp-energy,2784,Not Swapped,256.582,1,1,1
+StatusBead,kelp-mussel-fest,2785,Not Swapped,491.789,1,2,1
+StatusBead,turtle-danger,2786,Swapped,392.98400000000004,3,0,0
+StatusBead,bayou-blue-waters,2787,Swapped,1192.089,1,3,0
+StatusBead,arctic-isolated-instance,2788,Not Swapped,296.461,1,0,0
+StiltedTwine,kelp-welcome,2790,Not Swapped,8722.206,1,6,1
+StiltedTwine,kelp-bull-kelp-forest,2791,Not Swapped,55415.955,1,2,1
+StiltedTwine,kelp-shop-welcome,2792,Not Swapped,340.823,1,3,1
+StiltedTwine,kelp-energy,2793,Not Swapped,142.99,1,1,1
+StiltedTwine,displaced-reef,2794,Not Swapped,510.981,1,3,1
+StiltedTwine,bayou-shrimp-yields,2795,Not Swapped,269.405,1,1,1
+StiltedTwine,coral-turtle-population,2796,Not Swapped,52.496,1,0,1
+StiltedTwine,coral-fake-fix,2797,Not Swapped,850.316,1,3,1
+StiltedTwine,coral-lionfish-conspiracy,2798,Not Swapped,171.138,1,2,1
+StiltedTwine,coral-stressed,2799,Not Swapped,310.33,1,2,1
+StiltedTwine,arctic-salmon-monitoring,2800,Not Swapped,222.504,1,1,1
+StiltedTwine,arctic-missing-whale,2801,Not Swapped,279.176,1,3,1
+StiltedTwine,kelp-mussel-fest,2802,Not Swapped,669.06,1,1,1
+StiltedTwine,kelp-start-refuge,2803,Not Swapped,227.622,1,0,1
+StiltedTwine,kelp-urchin-barren-viz,2804,Not Swapped,346.66,1,2,1
+StiltedTwine,kelp-urchin-barren-predict,2805,Not Swapped,26510.336,1,1,1
+StiltedTwine,kelp-musselfest-solution,2806,Not Swapped,73963.47,1,3,1
+StiltedTwine,kelp-urchin-farm,2807,Not Swapped,212.202,1,1,1
+StiltedTwine,kelp-refuge-failure,2808,Not Swapped,1004.356,1,8,1
+StiltedTwine,kelp-save-urchin-barren,2809,Not Swapped,384.602,1,1,1
+StiltedTwine,kelp-refuge-failure-simulation,2810,Not Swapped,130.274,1,1,1
+StiltedTwine,arctic-seal-habitats,2811,Not Swapped,835.172,1,5,1
+StiltedTwine,arctic-in-ice,2812,Not Swapped,417.391,1,2,1
+StiltedTwine,arctic-salmon-competition,2813,Swapped,5085.325,1,0,0
+StiltedTwine,arctic-picky-eaters,2814,Not Swapped,265.046,1,2,1
+StiltedTwine,arctic-salmon-competition,2815,Not Swapped,336.836,1,1,1
+StiltedTwine,above-n-below,2816,Not Swapped,400.785,1,0,1
+StiltedTwine,arctic-disappearing-act,2817,Not Swapped,506.316,1,2,1
+StiltedTwine,arctic-underneath,2818,Not Swapped,60.973,1,0,1
+StiltedTwine,arctic-cause-of-death,2819,Not Swapped,358.593,1,1,1
+StiltedTwine,arctic-time-of-death,2820,Not Swapped,289.524,1,1,1
+StiltedTwine,arctic-stationary-survival,2821,Not Swapped,196.977,1,1,1
+StiltedTwine,arctic-isolated-instance,2822,Not Swapped,709.629,1,7,1
+StiltedTwine,arctic-endangered-seals,2823,Not Swapped,61678.832,1,3,1
+StiltedTwine,bayou-boom-cause,2824,Swapped,327.469,1,0,0
+StiltedTwine,final-final,2825,Not Swapped,708.6809999999999,3,2,0
+StockOats,kelp-welcome,2827,Not Swapped,449.574,1,6,1
+StockOats,kelp-bull-kelp-forest,2828,Not Swapped,633.986,1,2,1
+StockOats,kelp-shop-welcome,2829,Not Swapped,398.163,1,3,1
+StockOats,coral-turtle-population,2830,Not Swapped,60.822,1,0,1
+StockOats,arctic-missing-whale,2831,Swapped,422.513,3,1,0
+StockOats,arctic-salmon-monitoring,2832,Not Swapped,357.059,1,1,1
+StockOats,displaced-reef,2833,Not Swapped,657.375,1,3,1
+StockOats,coral-fake-fix,2834,Not Swapped,1685.984,4,3,1
+StockOats,coral-stressed,2835,Not Swapped,525.19,1,2,1
+StockOats,coral-lionfish-conspiracy,2836,Not Swapped,514.405,1,2,1
+StockOats,kelp-urchin-barren-viz,2837,Not Swapped,772.487,1,4,1
+StockOats,kelp-urchin-barren-predict,2838,Not Swapped,729.013,1,1,1
+StockOats,kelp-start-refuge,2839,Not Swapped,685.9949999999999,2,0,2
+StockOats,kelp-mussel-fest,2840,Not Swapped,315.254,1,0,1
+StockOats,kelp-energy,2841,Not Swapped,381.522,1,1,1
+StockOats,bayou-shrimp-yields,2842,Not Swapped,401.528,1,1,1
+StockOats,kelp-save-urchin-barren,2843,Not Swapped,818.846,1,1,1
+StockOats,kelp-urchin-farm,2844,Not Swapped,429.759,1,1,1
+StockOats,kelp-refuge-failure,2845,Swapped,2521.757,2,3,0
+StockOats,arctic-missing-whale,2846,Not Swapped,739.986,3,2,1
+StockOats,arctic-underneath,2847,Swapped,906.517,1,0,0
+StockOats,bayou-boom-cause,2848,Not Swapped,383.55,1,2,1
+StockOats,bayou-alt-energy,2849,Not Swapped,3063.887,1,3,1
+StockOats,bayou-oxygen-tracking,2850,Not Swapped,47718.586,2,3,1
+StockOats,bayou-methanogen,2851,Not Swapped,1264.5049999999999,2,2,0
+StrongerTrip,coral-turtle-population,2853,Not Swapped,174.947,1,1,1
+StunningPond,turtle-danger2,2854,Not Swapped,1873267.417,1,0,0
+SublimeWidget,kelp-welcome,2855,Not Swapped,820.738,1,6,1
+SublimeWidget,kelp-bull-kelp-forest,2856,Not Swapped,22.104,1,0,0
+SuitableSash,kelp-welcome,2857,Not Swapped,946.862,1,6,1
+SuitableSash,kelp-bull-kelp-forest,2858,Not Swapped,113.924,1,1,0
+SyllabicPermit,kelp-welcome,2861,Not Swapped,615.844,1,6,1
+SyllabicPermit,kelp-bull-kelp-forest,2862,Not Swapped,518.936,1,2,1
+SyllabicPermit,kelp-shop-welcome,2863,Not Swapped,168.53,1,3,1
+SyllabicPermit,kelp-energy,2864,Not Swapped,155.49,1,1,1
+SyllabicPermit,bayou-shrimp-yields,2865,Not Swapped,331.092,1,0,0
+TallerCat,kelp-welcome,2866,Not Swapped,254.021,1,6,1
+TallerCat,kelp-bull-kelp-forest,2867,Not Swapped,199.297,1,2,1
+TallerCat,kelp-shop-welcome,2868,Not Swapped,126.946,1,3,1
+TallerCat,kelp-energy,2869,Not Swapped,120.848,1,1,1
+TallerCat,coral-turtle-population,2870,Not Swapped,29.833,1,0,1
+TallerCat,displaced-reef,2871,Not Swapped,152.631,1,3,1
+TallerCat,kelp-mussel-fest,2872,Not Swapped,161.966,1,2,1
+TallerCat,kelp-start-refuge,2873,Not Swapped,187.218,1,1,1
+TallerCat,kelp-urchin-barren-viz,2874,Not Swapped,235.23,1,4,1
+TallerCat,kelp-urchin-barren-predict,2875,Not Swapped,173.978,1,1,1
+TallerCat,coral-stressed,2876,Not Swapped,517.497,1,2,1
+TallerCat,coral-fake-fix,2877,Not Swapped,327.417,1,3,1
+TallerCat,coral-lionfish-conspiracy,2878,Not Swapped,256.348,1,2,1
+TallerCat,arctic-salmon-monitoring,2879,Not Swapped,63.566,1,0,1
+TallerCat,bayou-shrimp-yields,2880,Not Swapped,207.6,1,1,1
+TallerCat,bayou-blue-waters,2881,Swapped,413.61199999999997,2,3,0
+TallerCat,bayou-oxygen-tracking,2882,Not Swapped,294.173,1,2,1
+TallestHost,bayou-oxygen-tracking,2884,Not Swapped,1033.779,1,3,1
+TallestHost,arctic-seal-habitats,2885,Not Swapped,579.828,1,0,0
+TanOutlet,kelp-welcome,2886,Not Swapped,282.38,1,6,1
+TanOutlet,kelp-bull-kelp-forest,2887,Not Swapped,258.915,1,2,1
+TanOutlet,kelp-shop-welcome,2888,Not Swapped,153.727,1,3,1
+TanOutlet,coral-turtle-population,2889,Not Swapped,912.807,1,2,1
+TanOutlet,kelp-energy,2890,Not Swapped,121.987,1,1,1
+TanOutlet,bayou-shrimp-yields,2891,Not Swapped,189.052,1,1,1
+TanOutlet,displaced-reef,2892,Not Swapped,358.527,1,3,1
+TanOutlet,coral-fake-fix,2893,Not Swapped,535.329,1,3,1
+TanOutlet,coral-lionfish-conspiracy,2894,Not Swapped,413.42,1,2,1
+TanOutlet,coral-stressed,2895,Not Swapped,262.995,1,2,1
+TanOutlet,kelp-mussel-fest,2896,Not Swapped,206.803,1,2,1
+TanOutlet,kelp-urchin-barren-viz,2897,Not Swapped,213.077,1,4,1
+TanOutlet,kelp-urchin-barren-predict,2898,Not Swapped,153.861,1,1,1
+TanOutlet,kelp-start-refuge,2899,Not Swapped,384.438,2,0,2
+TanOutlet,arctic-missing-whale,2900,Not Swapped,233.307,2,3,1
+TanOutlet,arctic-disappearing-act,2901,Not Swapped,869.509,1,2,1
+TanOutlet,arctic-time-of-death,2902,Not Swapped,614.387,1,1,0
+TangibleSpider,kelp-welcome,2903,Not Swapped,1035.777,1,6,1
+TangibleSpider,kelp-bull-kelp-forest,2904,Not Swapped,378.039,1,2,1
+TangibleSpider,kelp-shop-welcome,2905,Not Swapped,1325.755,1,3,1
+TangibleSpider,kelp-energy,2906,Not Swapped,1273.331,2,1,1
+TangibleSpider,coral-turtle-population,2907,Not Swapped,167.22,1,0,1
+TangibleSpider,arctic-missing-whale,2908,Swapped,1037.26,2,1,0
+TangibleSpider,arctic-salmon-monitoring,2909,Not Swapped,112.13,1,0,1
+TangibleSpider,arctic-underneath,2910,Not Swapped,389.717,2,1,1
+TangibleSpider,arctic-stationary-survival,2911,Not Swapped,714.95,1,1,1
+TangibleSpider,arctic-missing-whale,2912,Not Swapped,286.7,2,0,1
+TangibleSpider,displaced-reef,2913,Not Swapped,704.314,1,3,1
+TangibleSpider,bayou-shrimp-yields,2914,Not Swapped,261.679,1,1,1
+ThirdBagel,coral-ocean-plastics,2916,Not Swapped,1985.151,1,1,1
+ThirdBagel,coral-hunting-lions,2917,Swapped,309.253,1,0,0
+ThirdBagel,kelp-urchin-farm,2918,Not Swapped,483.082,1,2,1
+ThirdBagel,coral-hunting-lions,2919,Swapped,374.134,1,0,0
+ThirdBagel,coral-turtle-stability,2920,Not Swapped,159.76,1,1,1
+ThirdBagel,arctic-picky-eaters,2921,Not Swapped,521.469,1,2,1
+ThirdBagel,bayou-blue-waters,2922,Swapped,1302.5910000000001,3,3,0
+ThirdBagel,kelp-start-refuge,2923,Not Swapped,425.181,1,2,1
+ThirdBagel,kelp-refuge-failure,2924,Swapped,1940.793,3,5,0
+ThirdBagel,arctic-isolated-instance,2925,Not Swapped,1337.138,2,7,1
+ThirdBagel,arctic-salmon-competition,2926,Not Swapped,309.385,1,1,1
+ThirdBagel,arctic-endangered-seals,2927,Swapped,18942.650999999998,5,0,0
+ThirdBagel,bayou-oxygen-tracking,2928,Not Swapped,487.516,2,2,1
+ThirdBagel,bayou-blue-waters,2929,Swapped,229.581,3,0,0
+ThirdBagel,turtle-danger,2930,Not Swapped,996.183,1,0,0
+ThriftyWage,arctic-seal-habitats,2931,Not Swapped,330.596,1,3,1
+ThriftyWage,bayou-alt-energy,2932,Swapped,659.492,1,0,0
+ThriftyWage,bayou-shrimp-yields,2933,Not Swapped,324.68,1,1,1
+ThriftyWage,bayou-blue-waters,2934,Not Swapped,1051.489,1,2,0
+ThrilledCrest,kelp-welcome,2935,Not Swapped,408.008,1,6,1
+ThrilledCrest,kelp-bull-kelp-forest,2936,Not Swapped,331.753,1,2,1
+ThrilledCrest,kelp-shop-welcome,2937,Not Swapped,1293.966,1,0,0
+TimelyRead,kelp-welcome,2939,Not Swapped,388.329,1,6,1
+TimelyRead,kelp-bull-kelp-forest,2940,Not Swapped,439.557,1,2,1
+TimelyRead,kelp-shop-welcome,2941,Not Swapped,14.47,1,0,0
+TonalBunch,kelp-welcome,2942,Not Swapped,2027.046,1,6,1
+TonalBunch,kelp-bull-kelp-forest,2943,Not Swapped,1283.372,1,1,0
+TotalJazz,kelp-welcome,2944,Not Swapped,219.101,1,6,1
+TotalJazz,kelp-bull-kelp-forest,2945,Not Swapped,52.368,1,0,0
+TotalPicket,bayou-boom-cause,2946,Not Swapped,619.392,1,0,0
+ToweringLiver,kelp-welcome,2947,Not Swapped,776.188,2,6,1
+ToweringLiver,kelp-bull-kelp-forest,2948,Not Swapped,383.172,2,2,1
+ToweringLiver,kelp-shop-welcome,2949,Not Swapped,290.833,1,3,1
+ToweringLiver,kelp-energy,2950,Not Swapped,396.429,1,1,1
+ToweringLiver,displaced-reef,2951,Not Swapped,804.679,1,3,1
+ToweringLiver,bayou-shrimp-yields,2952,Not Swapped,487.872,2,1,1
+ToweringLiver,kelp-urchin-barren-viz,2953,Not Swapped,516.026,1,4,1
+ToweringLiver,kelp-urchin-barren-predict,2954,Not Swapped,753.968,1,1,1
+ToweringLiver,arctic-missing-whale,2955,Not Swapped,1522.147,3,3,1
+ToweringLiver,arctic-salmon-monitoring,2956,Not Swapped,261.855,1,1,1
+ToweringLiver,arctic-underneath,2957,Not Swapped,505.848,1,1,1
+ToweringLiver,arctic-stationary-survival,2958,Not Swapped,382.888,1,1,1
+ToweringLiver,coral-turtle-population,2959,Not Swapped,171.476,1,1,1
+ToweringLiver,coral-fake-fix,2960,Not Swapped,1081.359,3,3,1
+ToweringLiver,coral-lionfish-conspiracy,2961,Not Swapped,332.703,1,2,1
+ToweringLiver,kelp-urchin-farm,2962,Not Swapped,838.07,1,1,1
+ToweringLiver,coral-much-algae,2963,Not Swapped,701.541,1,3,1
+ToweringLiver,arctic-disappearing-act,2964,Not Swapped,5142.867,1,2,1
+ToweringLiver,arctic-cause-of-death,2965,Not Swapped,2395.107,3,2,1
+ToweringLiver,arctic-in-ice,2966,Not Swapped,706.729,1,2,1
+ToweringLiver,arctic-picky-eaters,2967,Not Swapped,320.641,2,2,1
+ToweringLiver,arctic-salmon-competition,2968,Not Swapped,1491.828,3,1,1
+ToweringLiver,arctic-seal-habitats,2969,Not Swapped,894.087,1,3,1
+ToweringLiver,above-n-below,2970,Not Swapped,760.518,3,3,1
+ToweringLiver,arctic-endangered-seals,2971,Not Swapped,3419.408,8,1,0
+TrickyHoney,kelp-welcome,2972,Not Swapped,278.993,1,6,1
+TrickyHoney,kelp-bull-kelp-forest,2973,Not Swapped,143.172,1,2,1
+TrickyHoney,kelp-shop-welcome,2974,Not Swapped,201.85,1,3,1
+TrickyHoney,arctic-salmon-monitoring,2975,Not Swapped,69.289,1,0,1
+TrickyHoney,kelp-energy,2976,Not Swapped,104.11,1,1,1
+TrickyHoney,displaced-reef,2977,Not Swapped,102.808,1,3,1
+TrickyHoney,bayou-shrimp-yields,2978,Not Swapped,133.701,1,1,1
+TropicalCourt,kelp-welcome,2979,Not Swapped,533.503,1,6,1
+TropicalCourt,kelp-bull-kelp-forest,2980,Not Swapped,260.955,1,2,1
+TropicalCourt,kelp-shop-welcome,2981,Not Swapped,438.588,1,3,1
+TropicalCourt,kelp-energy,2982,Not Swapped,160.4,1,0,0
+TrustingVault,kelp-welcome,2983,Not Swapped,458.257,1,6,1
+TrustingVault,kelp-bull-kelp-forest,2984,Not Swapped,357.49,1,2,1
+TrustingVault,kelp-shop-welcome,2985,Not Swapped,336.343,1,3,1
+TrustingVault,kelp-energy,2986,Not Swapped,259.317,1,1,1
+TruthfulFilm,kelp-welcome,2987,Not Swapped,21635.975,1,6,1
+TruthfulFilm,kelp-bull-kelp-forest,2988,Not Swapped,287.898,2,2,1
+TruthfulFilm,kelp-shop-welcome,2989,Not Swapped,165.963,1,3,1
+TruthfulFilm,kelp-energy,2990,Not Swapped,209.894,1,1,1
+VerbalBranch,kelp-welcome,2993,Not Swapped,2328.468,2,6,1
+VerbalBranch,kelp-bull-kelp-forest,2994,Not Swapped,617.642,1,0,0
+VeryJudge,kelp-welcome,2995,Not Swapped,1021.271,1,6,1
+VeryJudge,kelp-bull-kelp-forest,2996,Not Swapped,442.298,2,2,1
+VeryJudge,kelp-shop-welcome,2997,Not Swapped,379.624,1,3,1
+WeeklyMeat,kelp-welcome,2998,Not Swapped,468.954,1,6,1
+WeeklyMeat,kelp-bull-kelp-forest,2999,Not Swapped,448.299,1,2,1
+WeeklyMeat,kelp-shop-welcome,3000,Not Swapped,186.28,1,3,1
+WeeklyMeat,kelp-energy,3001,Not Swapped,185.506,1,1,1
+WeeklyMeat,coral-turtle-population,3002,Not Swapped,166.663,1,1,1
+WeeklyMeat,arctic-salmon-monitoring,3003,Not Swapped,573.19,2,1,1
+WeeklyMeat,arctic-missing-whale,3004,Not Swapped,1290.202,2,3,1
+WeeklyMeat,arctic-underneath,3005,Not Swapped,263.713,1,1,1
+WeeklyMeat,arctic-stationary-survival,3006,Not Swapped,160.677,1,1,1
+WeeklyMeat,coral-fake-fix,3007,Not Swapped,1226.172,3,4,1
+WeeklyMeat,coral-lionfish-conspiracy,3008,Not Swapped,215.723,1,2,1
+WeeklyMeat,coral-stressed,3009,Not Swapped,932.037,2,2,1
+WeeklyMeat,kelp-mussel-fest,3010,Not Swapped,287.345,1,2,1
+WeeklyMeat,kelp-start-refuge,3011,Not Swapped,242.045,1,2,1
+WeeklyMeat,kelp-urchin-barren-viz,3012,Not Swapped,389.762,1,4,1
+WeeklyMeat,kelp-urchin-barren-predict,3013,Not Swapped,172.604,1,1,1
+WesternZephyr,kelp-welcome,3015,Not Swapped,405.169,1,6,1
+WesternZephyr,kelp-bull-kelp-forest,3016,Not Swapped,513.335,1,2,1
+WesternZephyr,kelp-shop-welcome,3017,Not Swapped,308.22,2,3,1
+WesternZephyr,coral-turtle-population,3018,Not Swapped,152.662,1,1,1
+WesternZephyr,arctic-salmon-monitoring,3019,Swapped,25.403,1,0,0
+WesternZephyr,arctic-missing-whale,3020,Swapped,892.938,2,1,0
+WesternZephyr,arctic-salmon-monitoring,3021,Not Swapped,61.533,1,0,1
+WesternZephyr,displaced-reef,3022,Not Swapped,437.437,2,4,1
+WesternZephyr,arctic-missing-whale,3023,Not Swapped,345.911,2,2,1
+WesternZephyr,arctic-underneath,3024,Not Swapped,77.507,1,0,1
+WesternZephyr,arctic-stationary-survival,3025,Not Swapped,225.076,1,1,1
+WesternZephyr,coral-fake-fix,3026,Not Swapped,494.323,2,3,1
+WesternZephyr,coral-lionfish-conspiracy,3027,Not Swapped,315.812,1,2,1
+WesternZephyr,kelp-urchin-barren-viz,3028,Not Swapped,381.682,1,4,1
+WesternZephyr,kelp-urchin-barren-predict,3029,Not Swapped,227.124,1,1,1
+WesternZephyr,bayou-boom-cause,3030,Not Swapped,613.713,2,2,1
+WesternZephyr,bayou-alt-energy,3031,Not Swapped,1095.714,1,3,1
+WesternZephyr,arctic-disappearing-act,3032,Not Swapped,769.423,2,1,1
+WesternZephyr,arctic-in-ice,3033,Not Swapped,393.885,1,3,1
+WesternZephyr,coral-stressed,3034,Not Swapped,439.598,1,2,1
+WesternZephyr,coral-turtle-stability,3035,Not Swapped,396.924,2,2,1
+WesternZephyr,arctic-time-of-death,3036,Swapped,418.606,1,1,0
+WesternZephyr,arctic-seal-habitats,3037,Not Swapped,520.082,1,4,1
+WindyColor,kelp-welcome,3038,Not Swapped,459.745,1,6,1
+WindyColor,kelp-bull-kelp-forest,3039,Not Swapped,254.958,1,2,1
+WindyColor,kelp-shop-welcome,3040,Not Swapped,237.399,1,3,1
+WindyColor,kelp-energy,3041,Not Swapped,190.438,1,1,1
+WindyColor,arctic-missing-whale,3042,Swapped,510.187,2,0,0
+WindyColor,arctic-salmon-monitoring,3043,Swapped,1032.139,3,1,0
+WindyColor,displaced-reef,3044,Not Swapped,244.399,1,3,1
+WindyColor,bayou-shrimp-yields,3045,Not Swapped,343.405,2,1,1
+WindyColor,kelp-urchin-barren-viz,3046,Not Swapped,343.663,2,4,1
+WindyColor,kelp-mussel-fest,3047,Not Swapped,544.359,1,2,1
+WindyColor,kelp-start-refuge,3048,Not Swapped,189.725,1,2,1
+WindyColor,coral-turtle-population,3049,Not Swapped,40.906,1,0,1
+WindyColor,coral-stressed,3050,Not Swapped,254.164,2,2,1
+WindyColor,coral-fake-fix,3051,Not Swapped,386.844,1,3,1
+WindyColor,coral-lionfish-conspiracy,3052,Not Swapped,619.267,2,2,1
+WindyColor,kelp-urchin-barren-predict,3053,Not Swapped,135.273,1,1,1
+WindyColor,arctic-salmon-monitoring,3054,Not Swapped,146.365,3,0,1
+WindyColor,arctic-missing-whale,3055,Not Swapped,357.148,2,2,1
+WindyColor,kelp-musselfest-solution,3056,Not Swapped,762.615,1,3,1
+WindyColor,kelp-refuge-failure,3057,Not Swapped,816.684,1,8,1
+WindyColor,kelp-urchin-farm,3058,Not Swapped,310.033,2,1,1
+WindyColor,kelp-refuge-failure-simulation,3059,Not Swapped,128.347,1,1,1
+WindyColor,kelp-save-urchin-barren,3060,Not Swapped,113.67,1,1,1
+WindyColor,turtle-danger,3061,Not Swapped,298.013,1,1,0
+WinteryCamel,kelp-welcome,3063,Not Swapped,377.711,1,6,1
+WinteryCamel,kelp-bull-kelp-forest,3064,Not Swapped,993.504,1,2,1
+WinteryCamel,kelp-shop-welcome,3065,Not Swapped,178.646,1,3,1
+WinteryCamel,kelp-energy,3066,Not Swapped,233.801,1,1,1
+WinteryInsect,kelp-welcome,3067,Not Swapped,1251.793,1,6,1
+WinteryInsect,kelp-bull-kelp-forest,3068,Not Swapped,1040.478,2,2,1
+WinteryInsect,kelp-shop-welcome,3069,Not Swapped,696.554,1,3,1
+ZestyFibre,kelp-welcome,3072,Not Swapped,171.106,1,6,1
+ZestyFibre,kelp-bull-kelp-forest,3073,Not Swapped,118.322,1,2,1
+ZestyFibre,kelp-shop-welcome,3074,Not Swapped,97.57000000000001,2,3,2
+ZestyFibre,kelp-energy,3075,Not Swapped,100.742,1,1,1
+ZestyFibre,arctic-salmon-monitoring,3076,Not Swapped,39.461,1,0,1
+ZestyFibre,arctic-missing-whale,3077,Swapped,583.923,1,1,0
+ZestyFibre,displaced-reef,3078,Not Swapped,195.657,1,3,1
+ZestyFibre,kelp-urchin-barren-viz,3079,Not Swapped,188.283,1,4,1
+ZestyFibre,kelp-start-refuge,3080,Not Swapped,160.052,1,2,1
+ZestyFibre,kelp-urchin-barren-predict,3081,Not Swapped,117.489,1,1,1
+ZestyFibre,kelp-mussel-fest,3082,Not Swapped,325.947,1,3,1
+ZestyFibre,bayou-shrimp-yields,3083,Not Swapped,102.392,1,1,1
+ZestyFibre,coral-turtle-population,3084,Not Swapped,19.636,1,0,1
+ZestyFibre,coral-fake-fix,3085,Not Swapped,199.615,1,2,1
+ZestyFibre,coral-lionfish-conspiracy,3086,Not Swapped,409.102,1,2,1
+ZestyFibre,coral-stressed,3087,Not Swapped,249.731,1,2,1
+ZestyFibre,coral-ocean-plastics,3088,Not Swapped,562.566,1,1,1
+ZestyFibre,coral-turtle-stability,3089,Not Swapped,505.67,1,2,1
+ZestyFibre,coral-much-algae,3090,Not Swapped,810.926,1,5,1
+ZestyFibre,coral-casting-shade,3091,Not Swapped,810.874,1,8,1
+ZestyFibre,coral-eat-seaweed,3092,Not Swapped,494.16,1,1,1
+ZestyFibre,coral-hunting-lions,3093,Not Swapped,610.612,1,3,0
+ZestyRelief,arctic-endangered-seals,3094,Not Swapped,199.058,1,0,0
