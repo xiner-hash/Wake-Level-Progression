@@ -14,7 +14,7 @@ This section converts the raw .tsv files downloaded from (https://opengamedata.f
 
 ### Session II. Pre-process log data
 
-This section consolidates all the .csv files into one. We then select all jobs within the game for subsequent analysis, excluding only the introductory level where players cannot quit, as well as those rarely reached (less than 30 students have played) for Sections III and IV.
+This section consolidates all the .csv files into one. We then select all jobs within the game for subsequent analysis, excluding only the introductory level where players cannot quit, as well as those rarely reached (less than 30 students who both played and quit it) for Sections III and IV.
 
 * Please make sure that the processed data is in the current working directory.
 
